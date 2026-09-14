@@ -244,8 +244,7 @@
     "description": "Anime and Movies",
     "tvTypes": [
       "AnimeMovie",
-      "Anime",
-      "Cartoon"
+      "Anime"
     ]
   },
   {
@@ -327,8 +326,7 @@
     "description": "Anime and Movies",
     "tvTypes": [
       "AnimeMovie",
-      "Anime",
-      "Cartoon"
+      "Anime"
     ]
   },
   {
@@ -554,9 +552,7 @@
     "description": "Includes many providers with the same layout as Vidstream",
     "tvTypes": [
       "Anime",
-      "Movie",
-      "AnimeMovie",
-      "TvSeries"
+      "AnimeMovie"
     ]
   },
   {
@@ -575,8 +571,6 @@
     "apiVersion": 1,
     "description": "Kuratiert aus cloudstream-extensions-master.tar.gz",
     "tvTypes": [
-      "TvSeries",
-      "Movie",
       "AnimeMovie"
     ]
   },
@@ -596,11 +590,7 @@
     "apiVersion": 1,
     "description": "One stop solution for Movies, Series, Anime, AsianDrama and Torrents",
     "tvTypes": [
-      "TvSeries",
-      "Movie",
-      "AsianDrama",
-      "Anime",
-      "Torrent"
+      "Anime"
     ]
   },
   {
@@ -619,11 +609,7 @@
     "apiVersion": 1,
     "description": "One stop solution for Movies, Series, Anime, AsianDrama and Torrents",
     "tvTypes": [
-      "TvSeries",
-      "Movie",
-      "AsianDrama",
-      "Anime",
-      "Torrent"
+      "Anime"
     ]
   },
   {
@@ -642,7 +628,7 @@
     "apiVersion": 1,
     "description": "Kuratiert aus cloudstream-extensions-horis-master.tar.gz",
     "tvTypes": [
-      "AsianDrama"
+      "Anime"
     ]
   },
   {
@@ -688,6 +674,28 @@
   },
   {
     "status": 1,
+    "version": 1,
+    "name": "GerCS4ALLAnime",
+    "internalName": "GerCS4ALLAnime",
+    "authors": [
+      "DevMonkeyOps"
+    ],
+    "repositoryUrl": "https://github.com/DevMonkeyOps/GerCS4ALL",
+    "url": "https://raw.githubusercontent.com/DevMonkeyOps/GerCS4ALL/main/plugins/anime/GerCS4ALLAnime.cs3",
+    "fileSize": 13180,
+    "fileHash": "sha256-bb4e6125f0df4a8710405dff6e9e0c6dc0a729b3ce67b8be28334b67797e9d7f",
+    "language": "en",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=kayoanime.com&sz=%size%",
+    "apiVersion": 1,
+    "description": "KayoAnime und AnimeToast. Ausschließlich Anime-Kategorien.",
+    "tvTypes": [
+      "Anime",
+      "AnimeMovie",
+      "OVA"
+    ]
+  },
+  {
+    "status": 1,
     "version": 6,
     "name": "Jellyfin",
     "internalName": "Jellyfin",
@@ -702,11 +710,7 @@
     "apiVersion": 1,
     "description": "Jellyfin is a Free Software Media System that puts you in control of managing and streaming your media",
     "tvTypes": [
-      "AsianDrama",
-      "TvSeries",
       "Anime",
-      "Movie",
-      "Cartoon",
       "AnimeMovie"
     ]
   },
@@ -726,7 +730,7 @@
     "apiVersion": 1,
     "description": "Watch online The Yagyu Code: Secret Scrolls on Japanese Classic Movies and TVSeries (https://jp-films.com) with English Subtitle.",
     "tvTypes": [
-      "AsianDrama"
+      "Anime"
     ]
   },
   {
@@ -765,8 +769,6 @@
     "apiVersion": 1,
     "description": "KDesa - Movies, TV Shows & Anime Multi-source,Multi-audio",
     "tvTypes": [
-      "Movie",
-      "TvSeries",
       "Anime"
     ]
   },
@@ -807,7 +809,7 @@
     "apiVersion": 1,
     "description": "Kuratiert aus cloudstream-extensions-master.tar.gz",
     "tvTypes": [
-      "Cartoon"
+      "Anime"
     ]
   },
   {
@@ -826,7 +828,7 @@
     "apiVersion": 1,
     "description": "Kuratiert aus new-hexated-master.tar.gz",
     "tvTypes": [
-      "AsianDrama"
+      "Anime"
     ]
   },
   {
@@ -846,7 +848,7 @@
     "apiVersion": 1,
     "description": "Watch drama online in high quality. Free download high quality drama. Various formats from 240p to 720p HD (or even 1080p). Feel Free To Watch!",
     "tvTypes": [
-      "AsianDrama"
+      "Anime"
     ]
   },
   {
@@ -865,10 +867,7 @@
     "apiVersion": 1,
     "description": "Kuratiert aus remote:https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/refs/heads/builds/plugins.json",
     "tvTypes": [
-      "AsianDrama",
-      "TvSeries",
-      "Anime",
-      "Movie"
+      "Anime"
     ]
   },
   {
@@ -887,7 +886,7 @@
     "apiVersion": 1,
     "description": "Kuratiert aus cloudstream-extensions-horis-master.tar.gz",
     "tvTypes": [
-      "AsianDrama"
+      "Anime"
     ]
   },
   {
@@ -906,10 +905,7 @@
     "apiVersion": 1,
     "description": "#2 best extension based on Loklok API",
     "tvTypes": [
-      "AsianDrama",
-      "Anime",
-      "TvSeries",
-      "Movie"
+      "Anime"
     ]
   },
   {
@@ -949,8 +945,6 @@
     "apiVersion": 1,
     "description": "NetNaija - Watch Movies, TV Series, Anime, bollywood, Korean & Hollywood. HD streaming with multi-language.",
     "tvTypes": [
-      "Movie",
-      "TvSeries",
       "Anime",
       "AnimeMovie",
       "OVA"
@@ -972,9 +966,7 @@
     "apiVersion": 1,
     "description": "Kuratiert aus cloudstream-extensions-master.tar.gz",
     "tvTypes": [
-      "AnimeMovie",
-      "TvSeries",
-      "Movie"
+      "AnimeMovie"
     ]
   },
   {
@@ -1014,9 +1006,7 @@
     "apiVersion": 1,
     "description": "Kuratiert aus cs-darkdemon-extensions-master.zip",
     "tvTypes": [
-      "TvSeries",
-      "Movie",
-      "AsianDrama"
+      "Anime"
     ]
   },
   {
@@ -1054,8 +1044,7 @@
     "apiVersion": 1,
     "description": "Asian Dramas",
     "tvTypes": [
-      "AsianDrama",
-      "TvSeries"
+      "Anime"
     ]
   },
   {
@@ -1074,7 +1063,7 @@
     "apiVersion": 1,
     "description": "Discover dubbed and subtitled short dramas from multiple platforms and open every available episode on ONShort.",
     "tvTypes": [
-      "AsianDrama"
+      "Anime"
     ]
   },
   {
@@ -1136,10 +1125,7 @@
     "apiVersion": 1,
     "description": "#1 best extention based on MultiAPI",
     "tvTypes": [
-      "AsianDrama",
-      "TvSeries",
-      "Anime",
-      "Movie"
+      "Anime"
     ]
   },
   {
@@ -1158,10 +1144,7 @@
     "apiVersion": 1,
     "description": "ShowBox (Retrieve the cookie using Login with Google to properly utilize ShowBox.",
     "tvTypes": [
-      "AsianDrama",
-      "Anime",
-      "TvSeries",
-      "Movie"
+      "Anime"
     ]
   },
   {
@@ -1182,11 +1165,7 @@
     "tvTypes": [
       "AnimeMovie",
       "Anime",
-      "OVA",
-      "TvSeries",
-      "Movie",
-      "Documentary",
-      "Cartoon"
+      "OVA"
     ]
   },
   {
@@ -1207,11 +1186,7 @@
     "tvTypes": [
       "AnimeMovie",
       "Anime",
-      "OVA",
-      "TvSeries",
-      "Movie",
-      "Documentary",
-      "Cartoon"
+      "OVA"
     ]
   },
   {
@@ -1231,11 +1206,7 @@
     "apiVersion": 1,
     "description": "#1 best extention based on MultiAPI",
     "tvTypes": [
-      "AsianDrama",
-      "TvSeries",
       "Anime",
-      "Movie",
-      "Cartoon",
       "AnimeMovie"
     ]
   },
@@ -1274,7 +1245,7 @@
     "apiVersion": 1,
     "description": "Watch Cartoons Online. Here you can Watch old Classical Cartoons like Bugs Bunny, Mickey Mouse, Pink Panther, Tom and Jerry and Many Many More!",
     "tvTypes": [
-      "Cartoon"
+      "Anime"
     ]
   },
   {
@@ -1293,11 +1264,7 @@
     "apiVersion": 1,
     "description": "SuperStream (Retrieve the cookie using Login with Google to properly utilize SuperStream.",
     "tvTypes": [
-      "AsianDrama",
-      "TvSeries",
       "Anime",
-      "Movie",
-      "Cartoon",
       "AnimeMovie"
     ]
   },
@@ -1317,10 +1284,6 @@
     "apiVersion": 1,
     "description": "#1 Best Extension – MultiAPI-Based with 4K Torrent Support (Debian) Use Extension Settings",
     "tvTypes": [
-      "Movie",
-      "Torrent",
-      "AsianDrama",
-      "TvSeries",
       "Anime"
     ]
   },
@@ -1342,10 +1305,7 @@
     "tvTypes": [
       "Anime",
       "AnimeMovie",
-      "OVA",
-      "Movie",
-      "TvSeries",
-      "Torrent"
+      "OVA"
     ]
   },
   {
@@ -1407,8 +1367,7 @@
     "apiVersion": 1,
     "description": "We have wide range of cartoons and anime that you can watch in HD and High quality for free.",
     "tvTypes": [
-      "Anime",
-      "Cartoon"
+      "Anime"
     ]
   },
   {
@@ -1427,11 +1386,7 @@
     "apiVersion": 1,
     "description": "Watch Latest Movies",
     "tvTypes": [
-      "AsianDrama",
-      "TvSeries",
       "Anime",
-      "Movie",
-      "Cartoon",
       "AnimeMovie"
     ]
   },

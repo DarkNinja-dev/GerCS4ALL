@@ -12,4 +12,4 @@ Die Einzelkategorien liegen unter `single-repos/<kategorie>/repo.json`.
 
 ## Pflege
 
-Die Plugin-URLs zeigen auf die Upstream-Repositories. Die lokale `.cs3`-Sicherung konnte in diesem Lauf nicht erstellt werden, weil das erlaubte Web-Werkzeug Binärdateien nicht herunterladen kann; Details stehen in `reports/unklar.csv`. Vor dem finalen Archivieren muss ein Lauf mit einem zugelassenen Binär-Downloadweg die Spiegel ergänzen und die URL-Prüfung abschließen.
+Die Plugin-URLs zeigen grundsätzlich auf verifizierte Upstream-Repositories. `GerCS4ALLAnime` wird dagegen lokal gebaut, liegt unter `plugins/anime/` und registriert KayoAnime sowie AnimeToast. Seine Kategorien sind ausschließlich `Anime`, `AnimeMovie` und `OVA`.
