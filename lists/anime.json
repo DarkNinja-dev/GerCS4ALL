@@ -229,26 +229,6 @@
   },
   {
     "status": 1,
-    "version": 13,
-    "name": "Animekhor",
-    "internalName": "Animekhor",
-    "authors": [
-      "Phisher98"
-    ],
-    "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
-    "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Animekhor.cs3",
-    "fileSize": 0,
-    "language": "zh",
-    "iconUrl": "https://www.google.com/s2/favicons?domain=animekhor.org&sz=%size%",
-    "apiVersion": 1,
-    "description": "Anime and Movies includes (Donghuaword)",
-    "tvTypes": [
-      "AnimeMovie",
-      "Anime"
-    ]
-  },
-  {
-    "status": 1,
     "version": 11,
     "name": "Animenosub",
     "internalName": "Animenosub",
@@ -307,47 +287,6 @@
       "AnimeMovie",
       "Anime",
       "OVA"
-    ]
-  },
-  {
-    "status": 1,
-    "version": 4,
-    "name": "AnimesCloud",
-    "internalName": "AnimesCloud",
-    "authors": [
-      "saimuelbr"
-    ],
-    "repositoryUrl": "https://github.com/saimuelbr/saimuelrepo",
-    "url": "https://raw.githubusercontent.com/saimuelbr/saimuelrepo/main/builds/AnimesCloud.cs3",
-    "fileSize": 0,
-    "language": "pt-br",
-    "iconUrl": "https://i.imgur.com/tYNiHZN.png",
-    "apiVersion": 1,
-    "description": "AnimesCloud - FHD.",
-    "tvTypes": [
-      "Anime",
-      "AnimeMovie"
-    ]
-  },
-  {
-    "status": 1,
-    "version": 2,
-    "name": "AnimesDigital",
-    "internalName": "AnimesDigital",
-    "authors": [
-      "saimuelbr",
-      "Sephiroth"
-    ],
-    "repositoryUrl": "https://github.com/saimuelbr/saimuelrepo",
-    "url": "https://raw.githubusercontent.com/saimuelbr/saimuelrepo/main/builds/AnimesDigital.cs3",
-    "fileSize": 0,
-    "language": "pt-br",
-    "iconUrl": "https://animesdigital.org/wp-content/uploads/2025/03/cropped-logo-e1740827992823-192x192.png",
-    "apiVersion": 1,
-    "description": "AnimesDigital - FHD.",
-    "tvTypes": [
-      "Anime",
-      "AnimeMovie"
     ]
   },
   {
@@ -689,26 +628,6 @@
   },
   {
     "status": 1,
-    "version": 1,
-    "name": "DonghuaNoSekai",
-    "internalName": "DonghuaNoSekai",
-    "authors": [
-      "saimuelbr"
-    ],
-    "repositoryUrl": "https://github.com/saimuelbr/saimuelrepo",
-    "url": "https://raw.githubusercontent.com/saimuelbr/saimuelrepo/main/builds/DonghuaNoSekai.cs3",
-    "fileSize": 0,
-    "language": "pt-br",
-    "iconUrl": "https://donghuanosekai.com/wp-content/uploads/2020/09/cropped-icon_dnsk.png",
-    "apiVersion": 1,
-    "description": "DonghuaNoSekai - Donghuas em FHD.",
-    "tvTypes": [
-      "Anime",
-      "AnimeMovie"
-    ]
-  },
-  {
-    "status": 1,
     "version": 4,
     "name": "Dramacool",
     "internalName": "Dramacool",
@@ -764,27 +683,6 @@
     "tvTypes": [
       "Anime",
       "AnimeMovie",
-      "OVA"
-    ]
-  },
-  {
-    "status": 1,
-    "version": 3,
-    "name": "Gomunime.is",
-    "internalName": "Gomunime.is",
-    "authors": [
-      "Hexated"
-    ],
-    "repositoryUrl": "https://github.com/hexated/cloudstream-extensions-hexated",
-    "url": "https://raw.githubusercontent.com/hexated/cloudstream-extensions-hexated/builds/Gomunimeis.cs3",
-    "fileSize": 0,
-    "language": "id",
-    "iconUrl": "https://www.google.com/s2/favicons?domain=gomunime.is&sz=%size%",
-    "apiVersion": 1,
-    "description": "Kuratiert aus new-hexated-master.tar.gz",
-    "tvTypes": [
-      "AnimeMovie",
-      "Anime",
       "OVA"
     ]
   },
@@ -1219,25 +1117,6 @@
       "AnimeMovie",
       "Anime",
       "OVA"
-    ]
-  },
-  {
-    "status": 1,
-    "version": 2,
-    "name": "ReyDonghua",
-    "internalName": "ReyDonghua",
-    "authors": [
-      "redblacker8"
-    ],
-    "repositoryUrl": "https://github.com/Stormunblessed/storm-ext",
-    "url": "https://raw.githubusercontent.com/Stormunblessed/storm-ext/builds/ReyDonghuaProvider.cs3",
-    "fileSize": 0,
-    "language": "mx",
-    "iconUrl": "https://reydonghua.org/public/favicon.ico?v=4.71",
-    "apiVersion": 1,
-    "description": "Kuratiert aus storm-ext-master(1).zip",
-    "tvTypes": [
-      "Anime"
     ]
   },
   {
