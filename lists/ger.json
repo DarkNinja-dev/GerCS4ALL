@@ -2,6 +2,7 @@
   {
     "status": 1,
     "version": 5,
+    "name": "ARD",
     "internalName": "ARD",
     "authors": [
       "Bnyro"
@@ -22,6 +23,7 @@
   {
     "status": 1,
     "version": 5,
+    "name": "C3TV",
     "internalName": "C3TV",
     "authors": [
       "Bnyro"
@@ -40,6 +42,7 @@
   {
     "status": 1,
     "version": 1,
+    "name": "Catálogo General",
     "internalName": "Catálogo General",
     "authors": [
       "redblacker8"
@@ -59,6 +62,7 @@
   {
     "status": 1,
     "version": 1,
+    "name": "Catálogo HBO Max",
     "internalName": "Catálogo HBO Max",
     "authors": [
       "redblacker8"
@@ -78,6 +82,7 @@
   {
     "status": 1,
     "version": 5,
+    "name": "Catálogo Infantil",
     "internalName": "Catálogo Infantil",
     "authors": [
       "redblacker8"
@@ -97,6 +102,7 @@
   {
     "status": 1,
     "version": 5,
+    "name": "Catálogo Netflix",
     "internalName": "Catálogo Netflix",
     "authors": [
       "redblacker8"
@@ -116,6 +122,7 @@
   {
     "status": 1,
     "version": 6,
+    "name": "D000d",
     "internalName": "D000d",
     "authors": [
       "Bnyro"
@@ -134,6 +141,7 @@
   {
     "status": 1,
     "version": 2,
+    "name": "Discovery",
     "internalName": "Discovery",
     "authors": [
       "Bnyro"
@@ -153,6 +161,7 @@
   {
     "status": 1,
     "version": 1,
+    "name": "Dropstream",
     "internalName": "Dropstream",
     "authors": [
       "Bnyro"
@@ -172,6 +181,7 @@
   {
     "status": 1,
     "version": 6,
+    "name": "EinschaltenIn",
     "internalName": "EinschaltenIn",
     "authors": [
       "Bnyro"
@@ -190,6 +200,7 @@
   {
     "status": 1,
     "version": 1,
+    "name": "FilmFrei24",
     "internalName": "FilmFrei24",
     "authors": [
       "Bnyro"
@@ -208,6 +219,7 @@
   {
     "status": 1,
     "version": 1,
+    "name": "Filmo",
     "internalName": "Filmo",
     "authors": [
       "Bnyro"
@@ -226,6 +238,7 @@
   {
     "status": 1,
     "version": 7,
+    "name": "FilmPalast",
     "internalName": "FilmPalast",
     "authors": [
       "Bnyro"
@@ -245,6 +258,7 @@
   {
     "status": 1,
     "version": 1,
+    "name": "FlixiTV",
     "internalName": "FlixiTV",
     "authors": [
       "Bnyro"
@@ -264,6 +278,7 @@
   {
     "status": 1,
     "version": 6,
+    "name": "HDFilme",
     "internalName": "HDFilme",
     "authors": [
       "Bnyro"
@@ -283,6 +298,7 @@
   {
     "status": 1,
     "version": 1,
+    "name": "HuhuTo",
     "internalName": "HuhuTo",
     "authors": [
       "Bnyro"
@@ -302,6 +318,7 @@
   {
     "status": 1,
     "version": 6,
+    "name": "Indo IPTV",
     "internalName": "Indo IPTV",
     "authors": [
       "TeKuma25"
@@ -320,6 +337,7 @@
   {
     "status": 1,
     "version": 6,
+    "name": "IndoTV",
     "internalName": "IndoTV",
     "authors": [
       "TeKuma25"
@@ -338,6 +356,7 @@
   {
     "status": 1,
     "version": 25,
+    "name": "IndStream",
     "internalName": "IndStream",
     "authors": [
       "Indflix"
@@ -357,6 +376,7 @@
   {
     "status": 1,
     "version": 1,
+    "name": "IPTV",
     "internalName": "IPTV",
     "authors": [
       "anhdaden",
@@ -376,6 +396,7 @@
   {
     "status": 1,
     "version": 1,
+    "name": "Iptv-org",
     "internalName": "Iptv-org",
     "authors": [
       "Gian-Fr",
@@ -395,6 +416,7 @@
   {
     "status": 1,
     "version": 2,
+    "name": "IPTV-Org ($iptvLanguageCode)",
     "internalName": "IPTV-Org ($iptvLanguageCode)",
     "authors": [
       "Adippe",
@@ -415,6 +437,7 @@
   {
     "status": 1,
     "version": 2,
+    "name": "IptvOrg",
     "internalName": "IptvOrg",
     "authors": [
       "Adippe",
@@ -435,6 +458,7 @@
   {
     "status": 1,
     "version": 9,
+    "name": "IPTVPlayer",
     "internalName": "IPTVPlayer",
     "authors": [
       "Phisher98,Adippe"
@@ -453,6 +477,7 @@
   {
     "status": 1,
     "version": 1,
+    "name": "KellerKino",
     "internalName": "KellerKino",
     "authors": [
       "Bnyro"
@@ -471,6 +496,7 @@
   {
     "status": 1,
     "version": 6,
+    "name": "Kinoger",
     "internalName": "Kinoger",
     "authors": [
       "Hexated",
@@ -491,6 +517,7 @@
   {
     "status": 1,
     "version": 1,
+    "name": "KinoKing",
     "internalName": "KinoKing",
     "authors": [
       "Bnyro"
@@ -510,6 +537,7 @@
   {
     "status": 1,
     "version": 15,
+    "name": "KinoKiste",
     "internalName": "KinoKiste",
     "authors": [
       "Bnyro"
@@ -529,6 +557,7 @@
   {
     "status": 1,
     "version": 17,
+    "name": "M3UPlaylistPlayerProvider",
     "internalName": "M3UPlaylistPlayerProvider",
     "authors": [
       "NivinCNC"
@@ -547,6 +576,7 @@
   {
     "status": 1,
     "version": 6,
+    "name": "Megakino",
     "internalName": "Megakino",
     "authors": [
       "Phisher98",
@@ -568,6 +598,7 @@
   {
     "status": 1,
     "version": 4,
+    "name": "Moflix",
     "internalName": "Moflix",
     "authors": [
       "Hexated",
@@ -588,6 +619,7 @@
   {
     "status": 1,
     "version": 1,
+    "name": "Netzkino",
     "internalName": "Netzkino",
     "authors": [
       "Bnyro"
@@ -606,6 +638,7 @@
   {
     "status": 1,
     "version": 1,
+    "name": "PlutoTV",
     "internalName": "PlutoTV",
     "authors": [
       "Bnyro"
@@ -626,6 +659,7 @@
   {
     "status": 1,
     "version": 8,
+    "name": "QuickIPTV",
     "internalName": "QuickIPTV",
     "authors": [
       "Phisher98"
@@ -644,6 +678,7 @@
   {
     "status": 1,
     "version": 7,
+    "name": "Ryderjet",
     "internalName": "Ryderjet",
     "authors": [
       "Bnyro"
@@ -663,6 +698,7 @@
   {
     "status": 1,
     "version": 5,
+    "name": "Serienstream",
     "internalName": "Serienstream",
     "authors": [
       "Bnyro"
@@ -681,6 +717,7 @@
   {
     "status": 1,
     "version": 1,
+    "name": "Southpark",
     "internalName": "Southpark",
     "authors": [
       "Bnyro"
@@ -699,6 +736,7 @@
   {
     "status": 1,
     "version": 1,
+    "name": "SpiegelTV",
     "internalName": "SpiegelTV",
     "authors": [
       "Bnyro"
@@ -717,6 +755,7 @@
   {
     "status": 1,
     "version": 9,
+    "name": "Topstreamfilm",
     "internalName": "Topstreamfilm",
     "authors": [
       "Phisher"
@@ -736,6 +775,7 @@
   {
     "status": 1,
     "version": 9,
+    "name": "Torrentio",
     "internalName": "Torrentio",
     "authors": [
       "doGior",
@@ -758,6 +798,7 @@
   {
     "status": 1,
     "version": 8,
+    "name": "Vegamovies",
     "internalName": "Vegamovies",
     "authors": [
       "Indflix"
@@ -777,6 +818,7 @@
   {
     "status": 1,
     "version": 2,
+    "name": "Welt",
     "internalName": "Welt",
     "authors": [
       "Bnyro"
@@ -795,6 +837,7 @@
   {
     "status": 1,
     "version": 15,
+    "name": "Xcine",
     "internalName": "Xcine",
     "authors": [
       "Bnyro"
@@ -814,6 +857,7 @@
   {
     "status": 1,
     "version": 3,
+    "name": "Xcine.top",
     "internalName": "Xcine.top",
     "authors": [
       "Hexated"
@@ -833,6 +877,7 @@
   {
     "status": 1,
     "version": 4,
+    "name": "Xtream IPTV (Live)",
     "internalName": "Xtream IPTV (Live)",
     "authors": [
       "KingLucius"
@@ -851,6 +896,7 @@
   {
     "status": 1,
     "version": 4,
+    "name": "XtreamIPTV",
     "internalName": "XtreamIPTV",
     "authors": [
       "KingLucius"
@@ -869,6 +915,7 @@
   {
     "status": 1,
     "version": 4,
+    "name": "YoTurkish",
     "internalName": "YoTurkish",
     "authors": [
       "kraptor"
@@ -887,6 +934,7 @@
   {
     "status": 1,
     "version": 11,
+    "name": "YTS",
     "internalName": "YTS",
     "authors": [
       "Phisher98"

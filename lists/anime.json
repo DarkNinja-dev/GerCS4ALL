@@ -2,6 +2,7 @@
   {
     "status": 1,
     "version": 27,
+    "name": "(BDIX) Circle FTP",
     "internalName": "(BDIX) Circle FTP",
     "authors": [
       "Redowan"
@@ -28,6 +29,7 @@
   {
     "status": 1,
     "version": 8,
+    "name": "(BDIX) DhakaFlix 12",
     "internalName": "(BDIX) DhakaFlix 12",
     "authors": [
       "Redowan"
@@ -54,6 +56,7 @@
   {
     "status": 1,
     "version": 10,
+    "name": "AllMovieLand",
     "internalName": "AllMovieLand",
     "authors": [
       "LikDev-256"
@@ -74,6 +77,7 @@
   {
     "status": 1,
     "version": 1,
+    "name": "AniChan",
     "internalName": "AniChan",
     "authors": [
       "raghav"
@@ -93,6 +97,7 @@
   {
     "status": 1,
     "version": 26,
+    "name": "Anichi",
     "internalName": "Anichi",
     "authors": [
       "Hexated,Phisher98"
@@ -113,6 +118,7 @@
   {
     "status": 1,
     "version": 15,
+    "name": "Anidap",
     "internalName": "Anidap",
     "authors": [
       "raghav"
@@ -133,6 +139,7 @@
   {
     "status": 1,
     "version": 15,
+    "name": "AniDb",
     "internalName": "AniDb",
     "authors": [
       "Phisher98"
@@ -153,6 +160,7 @@
   {
     "status": 1,
     "version": 8,
+    "name": "Anikage",
     "internalName": "Anikage",
     "authors": [
       "Phisher98"
@@ -173,6 +181,7 @@
   {
     "status": 1,
     "version": 6,
+    "name": "Anikai",
     "internalName": "Anikai",
     "authors": [
       "raghav"
@@ -193,6 +202,7 @@
   {
     "status": 1,
     "version": 9,
+    "name": "AniKoto",
     "internalName": "AniKoto",
     "authors": [
       "NivinCNC"
@@ -213,6 +223,7 @@
   {
     "status": 1,
     "version": 13,
+    "name": "AniKotoAnime",
     "internalName": "AniKotoAnime",
     "authors": [
       "KSHITIJ8473"
@@ -233,6 +244,7 @@
   {
     "status": 1,
     "version": 3,
+    "name": "Anilight",
     "internalName": "Anilight",
     "authors": [
       "Phisher98"
@@ -253,6 +265,7 @@
   {
     "status": 1,
     "version": 11,
+    "name": "AnimeCloud",
     "internalName": "AnimeCloud",
     "authors": [
       "Phisher98"
@@ -271,6 +284,7 @@
   {
     "status": 1,
     "version": 70,
+    "name": "AnimeDekhoProvider",
     "internalName": "AnimeDekhoProvider",
     "authors": [
       "Phisher98"
@@ -291,6 +305,7 @@
   {
     "status": 1,
     "version": 7,
+    "name": "Animedubhindi",
     "internalName": "Animedubhindi",
     "authors": [
       "Phisher98"
@@ -311,6 +326,7 @@
   {
     "status": 1,
     "version": 3,
+    "name": "Animehub",
     "internalName": "Animehub",
     "authors": [
       "Horis"
@@ -331,6 +347,7 @@
   {
     "status": 1,
     "version": 13,
+    "name": "Animekhor",
     "internalName": "Animekhor",
     "authors": [
       "Phisher98"
@@ -350,6 +367,7 @@
   {
     "status": 1,
     "version": 11,
+    "name": "Animenosub",
     "internalName": "Animenosub",
     "authors": [
       "Phisher98"
@@ -370,6 +388,7 @@
   {
     "status": 1,
     "version": 1,
+    "name": "Animension",
     "internalName": "Animension",
     "authors": [
       "Stormunblessed"
@@ -389,6 +408,7 @@
   {
     "status": 1,
     "version": 39,
+    "name": "AnimePahe",
     "internalName": "AnimePahe",
     "authors": [
       "Cloudburst,Lorem Ipsum,Phisher98"
@@ -409,6 +429,7 @@
   {
     "status": 1,
     "version": 4,
+    "name": "AnimesCloud",
     "internalName": "AnimesCloud",
     "authors": [
       "saimuelbr"
@@ -428,6 +449,7 @@
   {
     "status": 1,
     "version": 2,
+    "name": "AnimesDigital",
     "internalName": "AnimesDigital",
     "authors": [
       "saimuelbr",
@@ -448,6 +470,7 @@
   {
     "status": 1,
     "version": 9,
+    "name": "AnimeSuge",
     "internalName": "AnimeSuge",
     "authors": [
       "NivinCNC"
@@ -468,6 +491,7 @@
   {
     "status": 1,
     "version": 5,
+    "name": "AnimeWorld",
     "internalName": "AnimeWorld",
     "authors": [
       "darkdemon"
@@ -489,6 +513,7 @@
   {
     "status": 1,
     "version": 15,
+    "name": "Animexin",
     "internalName": "Animexin",
     "authors": [
       "Phisher98"
@@ -509,6 +534,7 @@
   {
     "status": 1,
     "version": 2,
+    "name": "Animexinax",
     "internalName": "Animexinax",
     "authors": [
       "Horis"
@@ -529,6 +555,7 @@
   {
     "status": 1,
     "version": 7,
+    "name": "Animixplay",
     "internalName": "Animixplay",
     "authors": [
       "Hexated"
@@ -549,6 +576,7 @@
   {
     "status": 1,
     "version": 4,
+    "name": "Animo",
     "internalName": "Animo",
     "authors": [
       "raghav"
@@ -569,6 +597,7 @@
   {
     "status": 1,
     "version": 6,
+    "name": "Anineko",
     "internalName": "Anineko",
     "authors": [
       "Phisher98"
@@ -589,6 +618,7 @@
   {
     "status": 1,
     "version": 3,
+    "name": "AniSuge",
     "internalName": "AniSuge",
     "authors": [
       "raghav"
@@ -609,6 +639,7 @@
   {
     "status": 1,
     "version": 10,
+    "name": "AniVortex",
     "internalName": "AniVortex",
     "authors": [
       "Phisher98"
@@ -631,6 +662,7 @@
   {
     "status": 1,
     "version": 1,
+    "name": "Aniwatch",
     "internalName": "Aniwatch",
     "authors": [
       "Stormunblessed"
@@ -650,6 +682,7 @@
   {
     "status": 1,
     "version": 20,
+    "name": "Aniwave/9Anime",
     "internalName": "Aniwave/9Anime",
     "authors": [
       "Stormunblessed"
@@ -669,6 +702,7 @@
   {
     "status": 1,
     "version": 4,
+    "name": "AniWaves",
     "internalName": "AniWaves",
     "authors": [
       "raghav"
@@ -689,6 +723,7 @@
   {
     "status": 1,
     "version": 14,
+    "name": "Aniworld",
     "internalName": "Aniworld",
     "authors": [
       "Phisher98,Hexated"
@@ -709,6 +744,7 @@
   {
     "status": 1,
     "version": 8,
+    "name": "Anizone",
     "internalName": "Anizone",
     "authors": [
       "ycngmn"
@@ -727,6 +763,7 @@
   {
     "status": 1,
     "version": 2,
+    "name": "AsianLoad",
     "internalName": "AsianLoad",
     "authors": [
       "Cloudburst"
@@ -748,6 +785,7 @@
   {
     "status": 1,
     "version": 4,
+    "name": "Ask4Movie",
     "internalName": "Ask4Movie",
     "authors": [
       "Blatzar"
@@ -768,6 +806,7 @@
   {
     "status": 3,
     "version": 35,
+    "name": "BilibiliProvider",
     "internalName": "BilibiliProvider",
     "authors": [
       "NivinCNC"
@@ -788,6 +827,7 @@
   {
     "status": 1,
     "version": 33,
+    "name": "BollyFlix",
     "internalName": "BollyFlix",
     "authors": [
       "megix"
@@ -809,6 +849,7 @@
   {
     "status": 1,
     "version": 11,
+    "name": "Cgvindo",
     "internalName": "Cgvindo",
     "authors": [
       "Hexated",
@@ -831,6 +872,7 @@
   {
     "status": 1,
     "version": 487,
+    "name": "CineSimkl",
     "internalName": "CineSimkl",
     "authors": [
       "megix"
@@ -853,6 +895,7 @@
   {
     "status": 1,
     "version": 487,
+    "name": "CineStream",
     "internalName": "CineStream",
     "authors": [
       "megix"
@@ -875,6 +918,7 @@
   {
     "status": 1,
     "version": 1,
+    "name": "DonghuaNoSekai",
     "internalName": "DonghuaNoSekai",
     "authors": [
       "saimuelbr"
@@ -894,6 +938,7 @@
   {
     "status": 1,
     "version": 2,
+    "name": "Doramas",
     "internalName": "Doramas",
     "authors": [
       "TLN+",
@@ -913,6 +958,7 @@
   {
     "status": 1,
     "version": 8,
+    "name": "Doramasflix",
     "internalName": "Doramasflix",
     "authors": [
       "Stormunblessed"
@@ -931,6 +977,7 @@
   {
     "status": 1,
     "version": 4,
+    "name": "Dramacool",
     "internalName": "Dramacool",
     "authors": [
       "Horis"
@@ -949,6 +996,7 @@
   {
     "status": 1,
     "version": 1,
+    "name": "DriveM3UProvider",
     "internalName": "DriveM3UProvider",
     "authors": [
       "Mehdi Marsaman"
@@ -970,6 +1018,7 @@
   {
     "status": 1,
     "version": 2,
+    "name": "DubbedAnime",
     "internalName": "DubbedAnime",
     "authors": [
       "Cloudburst"
@@ -989,6 +1038,7 @@
   {
     "status": 1,
     "version": 9,
+    "name": "Enma",
     "internalName": "Enma",
     "authors": [
       "KSHITIJ8473"
@@ -1009,6 +1059,7 @@
   {
     "status": 1,
     "version": 35,
+    "name": "Gomov",
     "internalName": "Gomov",
     "authors": [
       "Hexated",
@@ -1030,6 +1081,7 @@
   {
     "status": 1,
     "version": 3,
+    "name": "Gomunime.is",
     "internalName": "Gomunime.is",
     "authors": [
       "Hexated"
@@ -1050,6 +1102,7 @@
   {
     "status": 1,
     "version": 54,
+    "name": "HDhub4u",
     "internalName": "HDhub4u",
     "authors": [
       "Phisher98"
@@ -1070,6 +1123,7 @@
   {
     "status": 1,
     "version": 6,
+    "name": "IStreamFlare",
     "internalName": "IStreamFlare",
     "authors": [
       "Phisher98"
@@ -1093,6 +1147,7 @@
   {
     "status": 1,
     "version": 6,
+    "name": "Jellyfin",
     "internalName": "Jellyfin",
     "authors": [
       "Phisher98"
@@ -1116,6 +1171,7 @@
   {
     "status": 1,
     "version": 9,
+    "name": "JPFilms",
     "internalName": "JPFilms",
     "authors": [
       "ByAyzen"
@@ -1134,6 +1190,7 @@
   {
     "status": 1,
     "version": 4,
+    "name": "Kartoons",
     "internalName": "Kartoons",
     "authors": [
       "Phisher98"
@@ -1154,6 +1211,7 @@
   {
     "status": 1,
     "version": 1,
+    "name": "Kawaiifu",
     "internalName": "Kawaiifu",
     "authors": [
       "Cloudburst"
@@ -1173,6 +1231,7 @@
   {
     "status": 1,
     "version": 2,
+    "name": "Kdesa",
     "internalName": "Kdesa",
     "authors": [
       "KSHITIJ8473"
@@ -1193,6 +1252,7 @@
   {
     "status": 1,
     "version": 27,
+    "name": "Kickassanime",
     "internalName": "Kickassanime",
     "authors": [
       "Phisher98,Hexated"
@@ -1213,6 +1273,7 @@
   {
     "status": 1,
     "version": 1,
+    "name": "Kim Cartoon",
     "internalName": "Kim Cartoon",
     "authors": [
       "Cloudburst"
@@ -1231,6 +1292,7 @@
   {
     "status": 1,
     "version": 1,
+    "name": "Kissasian",
     "internalName": "Kissasian",
     "authors": [
       "Hexated"
@@ -1249,6 +1311,7 @@
   {
     "status": 1,
     "version": 5,
+    "name": "KissKH",
     "internalName": "KissKH",
     "authors": [
       "kraptor",
@@ -1268,6 +1331,7 @@
   {
     "status": 1,
     "version": 22,
+    "name": "KisskhProvider",
     "internalName": "KisskhProvider",
     "authors": [
       "Phisher98,Hexated,Peerless"
@@ -1289,6 +1353,7 @@
   {
     "status": 1,
     "version": 5,
+    "name": "KitaNonton",
     "internalName": "KitaNonton",
     "authors": [
       "Hexated"
@@ -1310,6 +1375,7 @@
   {
     "status": 1,
     "version": 2,
+    "name": "Kshow123",
     "internalName": "Kshow123",
     "authors": [
       "Horis"
@@ -1328,6 +1394,7 @@
   {
     "status": 1,
     "version": 23,
+    "name": "Loklok",
     "internalName": "Loklok",
     "authors": [
       "Hexated"
@@ -1349,6 +1416,7 @@
   {
     "status": 1,
     "version": 6,
+    "name": "Miruro",
     "internalName": "Miruro",
     "authors": [
       "raghav"
@@ -1369,6 +1437,7 @@
   {
     "status": 1,
     "version": 33,
+    "name": "MoviesDrive",
     "internalName": "MoviesDrive",
     "authors": [
       "megix"
@@ -1390,6 +1459,7 @@
   {
     "status": 1,
     "version": 33,
+    "name": "Moviesmod",
     "internalName": "Moviesmod",
     "authors": [
       "megix"
@@ -1411,6 +1481,7 @@
   {
     "status": 1,
     "version": 13,
+    "name": "Multimovies",
     "internalName": "Multimovies",
     "authors": [
       "Indflix"
@@ -1433,6 +1504,7 @@
   {
     "status": 1,
     "version": 1,
+    "name": "Multiplex",
     "internalName": "Multiplex",
     "authors": [
       "Hexated"
@@ -1453,6 +1525,7 @@
   {
     "status": 1,
     "version": 3,
+    "name": "Mxplayer",
     "internalName": "Mxplayer",
     "authors": [
       "Horis"
@@ -1473,6 +1546,7 @@
   {
     "status": 1,
     "version": 7,
+    "name": "NetCine",
     "internalName": "NetCine",
     "authors": [
       "Phisher98",
@@ -1495,6 +1569,7 @@
   {
     "status": 1,
     "version": 10,
+    "name": "NetNaija",
     "internalName": "NetNaija",
     "authors": [
       "raghav"
@@ -1517,6 +1592,7 @@
   {
     "status": 1,
     "version": 10,
+    "name": "Nginx",
     "internalName": "Nginx",
     "authors": [
       "Cloudburst"
@@ -1537,6 +1613,7 @@
   {
     "status": 1,
     "version": 3,
+    "name": "NineAnime",
     "internalName": "NineAnime",
     "authors": [
       "raghav"
@@ -1557,6 +1634,7 @@
   {
     "status": 1,
     "version": 1,
+    "name": "NollyVerse",
     "internalName": "NollyVerse",
     "authors": [
       "darkdemon"
@@ -1577,6 +1655,7 @@
   {
     "status": 1,
     "version": 23,
+    "name": "OnePace",
     "internalName": "OnePace",
     "authors": [
       "Phisher98"
@@ -1595,6 +1674,7 @@
   {
     "status": 1,
     "version": 5,
+    "name": "OneTouchTV",
     "internalName": "OneTouchTV",
     "authors": [
       "Phisher98"
@@ -1614,6 +1694,7 @@
   {
     "status": 1,
     "version": 2,
+    "name": "OnShort",
     "internalName": "OnShort",
     "authors": [
       "kraptor"
@@ -1632,6 +1713,7 @@
   {
     "status": 1,
     "version": 7,
+    "name": "PobreFlix",
     "internalName": "PobreFlix",
     "authors": [
       "saimuelbr"
@@ -1653,6 +1735,7 @@
   {
     "status": 1,
     "version": 2,
+    "name": "Pusatfilm",
     "internalName": "Pusatfilm",
     "authors": [
       "Hexated",
@@ -1674,6 +1757,7 @@
   {
     "status": 1,
     "version": 53,
+    "name": "RaghavAnime",
     "internalName": "RaghavAnime",
     "authors": [
       "raghav"
@@ -1694,6 +1778,7 @@
   {
     "status": 1,
     "version": 2,
+    "name": "Reanime",
     "internalName": "Reanime",
     "authors": [
       "Phisher98"
@@ -1714,6 +1799,7 @@
   {
     "status": 1,
     "version": 2,
+    "name": "ReyDonghua",
     "internalName": "ReyDonghua",
     "authors": [
       "redblacker8"
@@ -1732,6 +1818,7 @@
   {
     "status": 1,
     "version": 12,
+    "name": "RingZ",
     "internalName": "RingZ",
     "authors": [
       "Phisher98"
@@ -1752,6 +1839,7 @@
   {
     "status": 1,
     "version": 82,
+    "name": "Rogmovies",
     "internalName": "Rogmovies",
     "authors": [
       "megix"
@@ -1773,6 +1861,7 @@
   {
     "status": 1,
     "version": 49,
+    "name": "Rtally",
     "internalName": "Rtally",
     "authors": [
       "Redowan, NivinCNC"
@@ -1795,6 +1884,7 @@
   {
     "status": 1,
     "version": 106,
+    "name": "Sblongvu",
     "internalName": "Sblongvu",
     "authors": [
       "Hexated",
@@ -1817,6 +1907,7 @@
   {
     "status": 1,
     "version": 8,
+    "name": "ShowBox",
     "internalName": "ShowBox",
     "authors": [
       "Phisher98"
@@ -1838,6 +1929,7 @@
   {
     "status": 1,
     "version": 2,
+    "name": "Simkl",
     "internalName": "Simkl",
     "authors": [
       "doGior"
@@ -1862,6 +1954,7 @@
   {
     "status": 1,
     "version": 2,
+    "name": "SimklProvider",
     "internalName": "SimklProvider",
     "authors": [
       "doGior"
@@ -1886,6 +1979,7 @@
   {
     "status": 1,
     "version": 1,
+    "name": "SoraStreamItaliano",
     "internalName": "SoraStreamItaliano",
     "authors": [
       "Gian-Fr",
@@ -1910,6 +2004,7 @@
   {
     "status": 1,
     "version": 34,
+    "name": "StreamFlixProvider",
     "internalName": "StreamFlixProvider",
     "authors": [
       "NivinCNC"
@@ -1930,6 +2025,7 @@
   {
     "status": 1,
     "version": 668,
+    "name": "StreamPlay",
     "internalName": "StreamPlay",
     "authors": [
       "Phisher98",
@@ -1954,6 +2050,7 @@
   {
     "status": 1,
     "version": 4,
+    "name": "Subsplease",
     "internalName": "Subsplease",
     "authors": [
       "ByAyzen"
@@ -1972,6 +2069,7 @@
   {
     "status": 1,
     "version": 2,
+    "name": "Supercartoons",
     "internalName": "Supercartoons",
     "authors": [
       "ByAyzen"
@@ -1990,6 +2088,7 @@
   {
     "status": 1,
     "version": 36,
+    "name": "SuperStream",
     "internalName": "SuperStream",
     "authors": [
       "Phisher98"
@@ -2013,6 +2112,7 @@
   {
     "status": 1,
     "version": 12,
+    "name": "ToonHub",
     "internalName": "ToonHub",
     "authors": [
       "Phisher98"
@@ -2033,6 +2133,7 @@
   {
     "status": 1,
     "version": 9,
+    "name": "Toonstream",
     "internalName": "Toonstream",
     "authors": [
       "Phisher98"
@@ -2053,6 +2154,7 @@
   {
     "status": 1,
     "version": 5,
+    "name": "ToonTales",
     "internalName": "ToonTales",
     "authors": [
       "Phisher98"
@@ -2071,6 +2173,7 @@
   {
     "status": 1,
     "version": 5,
+    "name": "Topcartoons",
     "internalName": "Topcartoons",
     "authors": [
       "Phisher98"
@@ -2089,6 +2192,7 @@
   {
     "status": 1,
     "version": 96,
+    "name": "TorraStream",
     "internalName": "TorraStream",
     "authors": [
       "Phisher98"
@@ -2111,6 +2215,7 @@
   {
     "status": 1,
     "version": 17,
+    "name": "TorrentsV1",
     "internalName": "TorrentsV1",
     "authors": [
       "raghav"
@@ -2134,6 +2239,7 @@
   {
     "status": 1,
     "version": 12,
+    "name": "TwoDHive",
     "internalName": "TwoDHive",
     "authors": [
       "raghav"
@@ -2154,6 +2260,7 @@
   {
     "status": 1,
     "version": 2,
+    "name": "WCO Fun",
     "internalName": "WCO Fun",
     "authors": [
       "Hexated"
@@ -2174,6 +2281,7 @@
   {
     "status": 1,
     "version": 9,
+    "name": "Wcoflix",
     "internalName": "Wcoflix",
     "authors": [
       "ByAyzen",
@@ -2194,6 +2302,7 @@
   {
     "status": 1,
     "version": 14,
+    "name": "XDMovies",
     "internalName": "XDMovies",
     "authors": [
       "Phisher98"
@@ -2217,6 +2326,7 @@
   {
     "status": 1,
     "version": 5,
+    "name": "YugenAnime",
     "internalName": "YugenAnime",
     "authors": [
       "Hexated"
@@ -2237,6 +2347,7 @@
   {
     "status": 1,
     "version": 9,
+    "name": "Zinkmovies",
     "internalName": "Zinkmovies",
     "authors": [
       "Phisher98"

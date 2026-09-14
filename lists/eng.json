@@ -2,6 +2,7 @@
   {
     "status": 1,
     "version": 3,
+    "name": "123tv",
     "internalName": "123tv",
     "authors": [
       "Hexated"
@@ -20,6 +21,7 @@
   {
     "status": 1,
     "version": 1,
+    "name": "1Stream",
     "internalName": "1Stream",
     "authors": [
       "Horis"
@@ -38,6 +40,7 @@
   {
     "status": 1,
     "version": 18,
+    "name": "AllWish",
     "internalName": "AllWish",
     "authors": [
       "Phisher98"
@@ -56,6 +59,7 @@
   {
     "status": 1,
     "version": 1,
+    "name": "Area Documental",
     "internalName": "Area Documental",
     "authors": [
       "redblacker8"
@@ -75,6 +79,7 @@
   {
     "status": 1,
     "version": 5,
+    "name": "Arte",
     "internalName": "Arte",
     "authors": [
       "doGior, DieGon"
@@ -93,6 +98,7 @@
   {
     "status": 1,
     "version": 1,
+    "name": "BanglaPlex",
     "internalName": "BanglaPlex",
     "authors": [
       "Redowan"
@@ -112,6 +118,7 @@
   {
     "status": 1,
     "version": 4,
+    "name": "BasketballReplays",
     "internalName": "BasketballReplays",
     "authors": [
       "ByAyzen"
@@ -130,6 +137,7 @@
   {
     "status": 1,
     "version": 8,
+    "name": "Bflix",
     "internalName": "Bflix",
     "authors": [
       "Stormunblessed"
@@ -148,6 +156,7 @@
   {
     "status": 1,
     "version": 3,
+    "name": "BingedReview",
     "internalName": "BingedReview",
     "authors": [
       "Dilip"
@@ -166,6 +175,7 @@
   {
     "status": 1,
     "version": 40,
+    "name": "CastleTvProvider",
     "internalName": "CastleTvProvider",
     "authors": [
       "NivinCNC"
@@ -185,6 +195,7 @@
   {
     "status": 1,
     "version": 1,
+    "name": "Catálogo General",
     "internalName": "Catálogo General",
     "authors": [
       "redblacker8"
@@ -204,6 +215,7 @@
   {
     "status": 1,
     "version": 1,
+    "name": "Catálogo HBO Max",
     "internalName": "Catálogo HBO Max",
     "authors": [
       "redblacker8"
@@ -223,6 +235,7 @@
   {
     "status": 1,
     "version": 5,
+    "name": "Catálogo Infantil",
     "internalName": "Catálogo Infantil",
     "authors": [
       "redblacker8"
@@ -242,6 +255,7 @@
   {
     "status": 1,
     "version": 5,
+    "name": "Catálogo Netflix",
     "internalName": "Catálogo Netflix",
     "authors": [
       "redblacker8"
@@ -261,6 +275,7 @@
   {
     "status": 1,
     "version": 26,
+    "name": "Cinemacity",
     "internalName": "Cinemacity",
     "authors": [
       "Phisher98"
@@ -280,6 +295,7 @@
   {
     "status": 1,
     "version": 35,
+    "name": "CineTvProvider",
     "internalName": "CineTvProvider",
     "authors": [
       "NivinCNC"
@@ -299,6 +315,7 @@
   {
     "status": 1,
     "version": 11,
+    "name": "Cinevood",
     "internalName": "Cinevood",
     "authors": [
       "Dilip"
@@ -318,6 +335,7 @@
   {
     "status": 1,
     "version": 111,
+    "name": "CNC Verse",
     "internalName": "CNC Verse",
     "authors": [
       "NivinCNC"
@@ -337,6 +355,7 @@
   {
     "status": 1,
     "version": 10,
+    "name": "CNC Verse Mobile",
     "internalName": "CNC Verse Mobile",
     "authors": [
       "NivinCNC"
@@ -356,6 +375,7 @@
   {
     "status": 1,
     "version": 1,
+    "name": "CricHD",
     "internalName": "CricHD",
     "authors": [
       "darkdemon"
@@ -374,6 +394,7 @@
   {
     "status": 1,
     "version": 67,
+    "name": "CricifyProvider",
     "internalName": "CricifyProvider",
     "authors": [
       "NivinCNC"
@@ -392,6 +413,7 @@
   {
     "status": 1,
     "version": 11,
+    "name": "DaddyLive Schedule",
     "internalName": "DaddyLive Schedule",
     "authors": [
       "doGior"
@@ -410,6 +432,7 @@
   {
     "status": 1,
     "version": 4,
+    "name": "DailymotionProvider",
     "internalName": "DailymotionProvider",
     "authors": [
       "Luna712"
@@ -428,6 +451,7 @@
   {
     "status": 1,
     "version": 24,
+    "name": "DamiTVProvider",
     "internalName": "DamiTVProvider",
     "authors": [
       "KSHITIJ8473"
@@ -446,6 +470,7 @@
   {
     "status": 1,
     "version": 31,
+    "name": "DeporTV",
     "internalName": "DeporTV",
     "authors": [
       "redblacker8"
@@ -464,6 +489,7 @@
   {
     "status": 1,
     "version": 32,
+    "name": "DesiSerialsProvider",
     "internalName": "DesiSerialsProvider",
     "authors": [
       "NivinCNC"
@@ -482,6 +508,7 @@
   {
     "status": 1,
     "version": 46,
+    "name": "Disney Plus",
     "internalName": "Disney Plus",
     "authors": [
       "Sushan64"
@@ -501,6 +528,7 @@
   {
     "status": 1,
     "version": 1,
+    "name": "DiviCast",
     "internalName": "DiviCast",
     "authors": [
       "Reflex1337",
@@ -521,6 +549,7 @@
   {
     "status": 1,
     "version": 2,
+    "name": "DocumentaryArea",
     "internalName": "DocumentaryArea",
     "authors": [
       "ByAyzen"
@@ -539,6 +568,7 @@
   {
     "status": 1,
     "version": 11,
+    "name": "DudeFilms",
     "internalName": "DudeFilms",
     "authors": [
       "Phisher98"
@@ -558,6 +588,7 @@
   {
     "status": 1,
     "version": 1,
+    "name": "Eja.tv",
     "internalName": "Eja.tv",
     "authors": [
       "Cloudburst"
@@ -576,6 +607,7 @@
   {
     "status": 1,
     "version": 1,
+    "name": "EmbedPk",
     "internalName": "EmbedPk",
     "authors": [
       "Redowan"
@@ -594,6 +626,7 @@
   {
     "status": 1,
     "version": 1,
+    "name": "Example",
     "internalName": "Example",
     "authors": [
       "doGior"
@@ -613,6 +646,7 @@
   {
     "status": 1,
     "version": 11,
+    "name": "Fibwatch",
     "internalName": "Fibwatch",
     "authors": [
       "Phisher98"
@@ -632,6 +666,7 @@
   {
     "status": 1,
     "version": 13,
+    "name": "Filemoon",
     "internalName": "Filemoon",
     "authors": [
       "kraptor123",
@@ -652,6 +687,7 @@
   {
     "status": 1,
     "version": 8,
+    "name": "Fivemovierulz",
     "internalName": "Fivemovierulz",
     "authors": [
       "darkdemon",
@@ -672,6 +708,7 @@
   {
     "status": 1,
     "version": 9,
+    "name": "Footballia",
     "internalName": "Footballia",
     "authors": [
       "kraptor",
@@ -691,6 +728,7 @@
   {
     "status": 1,
     "version": 1,
+    "name": "FootReplays",
     "internalName": "FootReplays",
     "authors": [
       "ByAyzen"
@@ -709,6 +747,7 @@
   {
     "status": 1,
     "version": 38,
+    "name": "FourKHDHub",
     "internalName": "FourKHDHub",
     "authors": [
       "Phisher98"
@@ -728,6 +767,7 @@
   {
     "status": 1,
     "version": 1,
+    "name": "Free-TV",
     "internalName": "Free-TV",
     "authors": [
       "Gian-Fr",
@@ -747,6 +787,7 @@
   {
     "status": 1,
     "version": 2,
+    "name": "FullMatchShows",
     "internalName": "FullMatchShows",
     "authors": [
       "Abodabodd"
@@ -766,6 +807,7 @@
   {
     "status": 1,
     "version": 13,
+    "name": "FullRaces",
     "internalName": "FullRaces",
     "authors": [
       "kraptor123",
@@ -786,6 +828,7 @@
   {
     "status": 1,
     "version": 33,
+    "name": "GoldenAudiobook",
     "internalName": "GoldenAudiobook",
     "authors": [
       "NivinCNC"
@@ -804,6 +847,7 @@
   {
     "status": 1,
     "version": 5,
+    "name": "Goojara",
     "internalName": "Goojara",
     "authors": [
       "Phisher98"
@@ -823,6 +867,7 @@
   {
     "status": 1,
     "version": 5,
+    "name": "Hdmovie2",
     "internalName": "Hdmovie2",
     "authors": [
       "Phisher98"
@@ -842,6 +887,7 @@
   {
     "status": 1,
     "version": 17,
+    "name": "Hindmoviez",
     "internalName": "Hindmoviez",
     "authors": [
       "Phisher98"
@@ -861,6 +907,7 @@
   {
     "status": 1,
     "version": 95,
+    "name": "Hotstar",
     "internalName": "Hotstar",
     "authors": [
       "AllForU"
@@ -880,6 +927,7 @@
   {
     "status": 1,
     "version": 7,
+    "name": "Huhu",
     "internalName": "Huhu",
     "authors": [
       "DieGon"
@@ -898,6 +946,7 @@
   {
     "status": 1,
     "version": 1,
+    "name": "I Have No TV",
     "internalName": "I Have No TV",
     "authors": [
       "Cloudburst"
@@ -918,6 +967,7 @@
   {
     "status": 1,
     "version": 6,
+    "name": "Indo IPTV",
     "internalName": "Indo IPTV",
     "authors": [
       "TeKuma25"
@@ -936,6 +986,7 @@
   {
     "status": 1,
     "version": 6,
+    "name": "IndoTV",
     "internalName": "IndoTV",
     "authors": [
       "TeKuma25"
@@ -954,6 +1005,7 @@
   {
     "status": 1,
     "version": 25,
+    "name": "IndStream",
     "internalName": "IndStream",
     "authors": [
       "Indflix"
@@ -973,6 +1025,7 @@
   {
     "status": 1,
     "version": 22,
+    "name": "Internet Archive",
     "internalName": "Internet Archive",
     "authors": [
       "Luna712"
@@ -991,6 +1044,7 @@
   {
     "status": 1,
     "version": 22,
+    "name": "InternetArchiveProvider",
     "internalName": "InternetArchiveProvider",
     "authors": [
       "Luna712"
@@ -1009,6 +1063,7 @@
   {
     "status": 1,
     "version": 9,
+    "name": "InvidiousProvider",
     "internalName": "InvidiousProvider",
     "authors": [
       "Cloudburst"
@@ -1027,6 +1082,7 @@
   {
     "status": 1,
     "version": 1,
+    "name": "IPTV",
     "internalName": "IPTV",
     "authors": [
       "anhdaden",
@@ -1046,6 +1102,7 @@
   {
     "status": 1,
     "version": 1,
+    "name": "Iptv-org",
     "internalName": "Iptv-org",
     "authors": [
       "Gian-Fr",
@@ -1065,6 +1122,7 @@
   {
     "status": 1,
     "version": 2,
+    "name": "IPTV-Org ($iptvLanguageCode)",
     "internalName": "IPTV-Org ($iptvLanguageCode)",
     "authors": [
       "Adippe",
@@ -1085,6 +1143,7 @@
   {
     "status": 1,
     "version": 2,
+    "name": "IptvOrg",
     "internalName": "IptvOrg",
     "authors": [
       "Adippe",
@@ -1105,6 +1164,7 @@
   {
     "status": 1,
     "version": 9,
+    "name": "IPTVPlayer",
     "internalName": "IPTVPlayer",
     "authors": [
       "Phisher98,Adippe"
@@ -1123,6 +1183,7 @@
   {
     "status": 1,
     "version": 3,
+    "name": "IWatchOffice",
     "internalName": "IWatchOffice",
     "authors": [
       "ByAyzen"
@@ -1141,6 +1202,7 @@
   {
     "status": 1,
     "version": 3,
+    "name": "Iwatchtheoffice",
     "internalName": "Iwatchtheoffice",
     "authors": [
       "ByAyzen"
@@ -1159,6 +1221,7 @@
   {
     "status": 2,
     "version": 1,
+    "name": "KatMovies",
     "internalName": "KatMovies",
     "authors": [
       "LikDev-256"
@@ -1178,6 +1241,7 @@
   {
     "status": 1,
     "version": 3,
+    "name": "Library of Ladev",
     "internalName": "Library of Ladev",
     "authors": [
       "ErrorCode26",
@@ -1197,6 +1261,7 @@
   {
     "status": 1,
     "version": 3,
+    "name": "LibraryOfLadev",
     "internalName": "LibraryOfLadev",
     "authors": [
       "ErrorCode26",
@@ -1216,6 +1281,7 @@
   {
     "status": 1,
     "version": 33,
+    "name": "LibriVoxAudiobook",
     "internalName": "LibriVoxAudiobook",
     "authors": [
       "NivinCNC"
@@ -1234,6 +1300,7 @@
   {
     "status": 1,
     "version": 36,
+    "name": "LIVETVProvider",
     "internalName": "LIVETVProvider",
     "authors": [
       "raghav,cnc"
@@ -1252,6 +1319,7 @@
   {
     "status": 1,
     "version": 16,
+    "name": "LivXowProvider",
     "internalName": "LivXowProvider",
     "authors": [
       "NivinCNC"
@@ -1270,6 +1338,7 @@
   {
     "status": 1,
     "version": 17,
+    "name": "M3UPlaylistPlayerProvider",
     "internalName": "M3UPlaylistPlayerProvider",
     "authors": [
       "NivinCNC"
@@ -1288,6 +1357,7 @@
   {
     "status": 1,
     "version": 4,
+    "name": "MegaFlix",
     "internalName": "MegaFlix",
     "authors": [
       "saimuelbr"
@@ -1307,6 +1377,7 @@
   {
     "status": 1,
     "version": 1,
+    "name": "MeloMovie",
     "internalName": "MeloMovie",
     "authors": [
       "Cloudburst"
@@ -1326,6 +1397,7 @@
   {
     "status": 1,
     "version": 3,
+    "name": "Microtv",
     "internalName": "Microtv",
     "authors": [
       "Phisher98"
@@ -1345,6 +1417,7 @@
   {
     "status": 1,
     "version": 4,
+    "name": "Movie123",
     "internalName": "Movie123",
     "authors": [
       "Horis"
@@ -1364,6 +1437,7 @@
   {
     "status": 1,
     "version": 5,
+    "name": "MovieBlast",
     "internalName": "MovieBlast",
     "authors": [
       "Phisher98"
@@ -1383,6 +1457,7 @@
   {
     "status": 1,
     "version": 43,
+    "name": "MovieBox",
     "internalName": "MovieBox",
     "authors": [
       "AllForU"
@@ -1402,6 +1477,7 @@
   {
     "status": 1,
     "version": 49,
+    "name": "MovieBoxProvider",
     "internalName": "MovieBoxProvider",
     "authors": [
       "NivinCNC"
@@ -1421,6 +1497,7 @@
   {
     "status": 1,
     "version": 51,
+    "name": "MovieBoxProviderIN",
     "internalName": "MovieBoxProviderIN",
     "authors": [
       "NivinCNC"
@@ -1440,6 +1517,7 @@
   {
     "status": 1,
     "version": 1,
+    "name": "Moviehab",
     "internalName": "Moviehab",
     "authors": [
       "Hexated"
@@ -1459,6 +1537,7 @@
   {
     "status": 1,
     "version": 32,
+    "name": "Movierulzhd",
     "internalName": "Movierulzhd",
     "authors": [
       "Hexated"
@@ -1478,6 +1557,7 @@
   {
     "status": 1,
     "version": 14,
+    "name": "Movies4u",
     "internalName": "Movies4u",
     "authors": [
       "Phisher98"
@@ -1497,6 +1577,7 @@
   {
     "status": 1,
     "version": 1,
+    "name": "Name Of Website",
     "internalName": "Name Of Website",
     "authors": [
       "Reflex1337"
@@ -1515,6 +1596,7 @@
   {
     "status": 1,
     "version": 1,
+    "name": "Nebula",
     "internalName": "Nebula",
     "authors": [
       "doGior"
@@ -1533,6 +1615,7 @@
   {
     "status": 1,
     "version": 101,
+    "name": "Netflix",
     "internalName": "Netflix",
     "authors": [
       "AllForU"
@@ -1552,6 +1635,7 @@
   {
     "status": 1,
     "version": 46,
+    "name": "Netmirror",
     "internalName": "Netmirror",
     "authors": [
       "Sushan64"
@@ -1571,6 +1655,7 @@
   {
     "status": 1,
     "version": 9,
+    "name": "NOXX",
     "internalName": "NOXX",
     "authors": [
       "LikDev-256"
@@ -1589,6 +1674,7 @@
   {
     "status": 1,
     "version": 8,
+    "name": "OK",
     "internalName": "OK",
     "authors": [
       "ByAyzen"
@@ -1608,6 +1694,7 @@
   {
     "status": 1,
     "version": 8,
+    "name": "OKRu",
     "internalName": "OKRu",
     "authors": [
       "ByAyzen"
@@ -1627,6 +1714,7 @@
   {
     "status": 1,
     "version": 1,
+    "name": "Online Movies Hindi",
     "internalName": "Online Movies Hindi",
     "authors": [
       "darkdemon"
@@ -1646,6 +1734,7 @@
   {
     "status": 1,
     "version": 2,
+    "name": "OverFlix",
     "internalName": "OverFlix",
     "authors": [
       "saimuelbr"
@@ -1665,6 +1754,7 @@
   {
     "status": 1,
     "version": 2,
+    "name": "Pahe",
     "internalName": "Pahe",
     "authors": [
       "Horis"
@@ -1684,6 +1774,7 @@
   {
     "status": 1,
     "version": 2,
+    "name": "PeliculasFlix",
     "internalName": "PeliculasFlix",
     "authors": [
       "Stormunblessed"
@@ -1702,6 +1793,7 @@
   {
     "status": 1,
     "version": 32,
+    "name": "PikashowProvider",
     "internalName": "PikashowProvider",
     "authors": [
       "NivinCNC"
@@ -1721,6 +1813,7 @@
   {
     "status": 1,
     "version": 5,
+    "name": "Pinoymoviepedia",
     "internalName": "Pinoymoviepedia",
     "authors": [
       "Phisher98"
@@ -1740,6 +1833,7 @@
   {
     "status": 1,
     "version": 1,
+    "name": "PiousIndex",
     "internalName": "PiousIndex",
     "authors": [
       "Horis"
@@ -1759,6 +1853,7 @@
   {
     "status": 1,
     "version": 10,
+    "name": "PlayFyProvider",
     "internalName": "PlayFyProvider",
     "authors": [
       "NivinCNC"
@@ -1777,6 +1872,7 @@
   {
     "status": 1,
     "version": 37,
+    "name": "PlayZTVProvider",
     "internalName": "PlayZTVProvider",
     "authors": [
       "NivinCNC"
@@ -1795,6 +1891,7 @@
   {
     "status": 1,
     "version": 6,
+    "name": "Pmsm",
     "internalName": "Pmsm",
     "authors": [
       "Phisher98,Duro92"
@@ -1814,6 +1911,7 @@
   {
     "status": 1,
     "version": 96,
+    "name": "PrimeVideo",
     "internalName": "PrimeVideo",
     "authors": [
       "AllForU"
@@ -1833,6 +1931,7 @@
   {
     "status": 1,
     "version": 1,
+    "name": "PrivateMoviez",
     "internalName": "PrivateMoviez",
     "authors": [
       "LikDev-256"
@@ -1852,6 +1951,7 @@
   {
     "status": 1,
     "version": 6,
+    "name": "Prmovies",
     "internalName": "Prmovies",
     "authors": [
       "darkdemon"
@@ -1871,6 +1971,7 @@
   {
     "status": 1,
     "version": 5,
+    "name": "PublicSportsIPTV",
     "internalName": "PublicSportsIPTV",
     "authors": [
       "Phisher98"
@@ -1889,6 +1990,7 @@
   {
     "status": 1,
     "version": 8,
+    "name": "QuickIPTV",
     "internalName": "QuickIPTV",
     "authors": [
       "Phisher98"
@@ -1907,6 +2009,7 @@
   {
     "status": 1,
     "version": 33,
+    "name": "RadioIndiaProvider",
     "internalName": "RadioIndiaProvider",
     "authors": [
       "NivinCNC"
@@ -1925,6 +2028,7 @@
   {
     "status": 1,
     "version": 2,
+    "name": "RainoStreams",
     "internalName": "RainoStreams",
     "authors": [
       "Horis"
@@ -1943,6 +2047,7 @@
   {
     "status": 1,
     "version": 3,
+    "name": "ReplayZone",
     "internalName": "ReplayZone",
     "authors": [
       "raghav"
@@ -1961,6 +2066,7 @@
   {
     "status": 1,
     "version": 1,
+    "name": "Samehadaku",
     "internalName": "Samehadaku",
     "authors": [
       "TeKuma25"
@@ -1979,6 +2085,7 @@
   {
     "status": 3,
     "version": 4,
+    "name": "SectionOrganizer",
     "internalName": "SectionOrganizer",
     "authors": [
       "RowdyRushya, Phisher98, DieGon"
@@ -1997,6 +2104,7 @@
   {
     "status": 1,
     "version": 23,
+    "name": "ShowFlix",
     "internalName": "ShowFlix",
     "authors": [
       "LikDev-256"
@@ -2016,6 +2124,7 @@
   {
     "status": 1,
     "version": 1,
+    "name": "SkillShare",
     "internalName": "SkillShare",
     "authors": [
       "techtanic",
@@ -2035,6 +2144,7 @@
   {
     "status": 1,
     "version": 54,
+    "name": "SKTechProvider",
     "internalName": "SKTechProvider",
     "authors": [
       "NivinCNC"
@@ -2053,6 +2163,7 @@
   {
     "status": 1,
     "version": 1,
+    "name": "Soap2Day",
     "internalName": "Soap2Day",
     "authors": [
       "Cloudburst"
@@ -2072,6 +2183,7 @@
   {
     "status": 1,
     "version": 2,
+    "name": "Sockshare",
     "internalName": "Sockshare",
     "authors": [
       "Horis"
@@ -2091,6 +2203,7 @@
   {
     "status": 1,
     "version": 2,
+    "name": "SoraJioTV",
     "internalName": "SoraJioTV",
     "authors": [
       "darkdemon"
@@ -2109,6 +2222,7 @@
   {
     "status": 1,
     "version": 21,
+    "name": "SportzxProvider",
     "internalName": "SportzxProvider",
     "authors": [
       "NivinCNC"
@@ -2127,6 +2241,7 @@
   {
     "status": 1,
     "version": 5,
+    "name": "StreamEast",
     "internalName": "StreamEast",
     "authors": [
       "RAGHAV"
@@ -2145,6 +2260,7 @@
   {
     "status": 1,
     "version": 29,
+    "name": "Streamed",
     "internalName": "Streamed",
     "authors": [
       "kraptor"
@@ -2163,6 +2279,7 @@
   {
     "status": 1,
     "version": 2,
+    "name": "Streamed Sports",
     "internalName": "Streamed Sports",
     "authors": [
       "redblacker8"
@@ -2181,6 +2298,7 @@
   {
     "status": 1,
     "version": 10,
+    "name": "StreamedPk",
     "internalName": "StreamedPk",
     "authors": [
       "RAGHAV"
@@ -2199,6 +2317,7 @@
   {
     "status": 1,
     "version": 2,
+    "name": "Stremio example",
     "internalName": "Stremio example",
     "authors": [
       "Cloudburst"
@@ -2217,6 +2336,7 @@
   {
     "status": 1,
     "version": 15,
+    "name": "StremioAddon",
     "internalName": "StremioAddon",
     "authors": [
       "Hexated,phisher98,erynith"
@@ -2237,6 +2357,7 @@
   {
     "status": 1,
     "version": 26,
+    "name": "StremioX",
     "internalName": "StremioX",
     "authors": [
       "Hexated,phisher98"
@@ -2256,6 +2377,7 @@
   {
     "status": 1,
     "version": 16,
+    "name": "SubscriptionManager",
     "internalName": "SubscriptionManager",
     "authors": [
       "NivinCNC"
@@ -2275,6 +2397,7 @@
   {
     "status": 3,
     "version": 11,
+    "name": "SyncStream",
     "internalName": "SyncStream",
     "authors": [
       "DieGon"
@@ -2293,6 +2416,7 @@
   {
     "status": 1,
     "version": 10,
+    "name": "Tamilblasters",
     "internalName": "Tamilblasters",
     "authors": [
       "rockhero1234,phisher98"
@@ -2312,6 +2436,7 @@
   {
     "status": 1,
     "version": 40,
+    "name": "TamilUltraProvider",
     "internalName": "TamilUltraProvider",
     "authors": [
       "NivinCNC"
@@ -2330,6 +2455,7 @@
   {
     "status": 1,
     "version": 1,
+    "name": "TeluguFlix",
     "internalName": "TeluguFlix",
     "authors": [],
     "repositoryUrl": "https://github.com/LikDev-256/likdev256-tamil-providers",
@@ -2346,6 +2472,7 @@
   {
     "status": 1,
     "version": 16,
+    "name": "TheMoviesFlix",
     "internalName": "TheMoviesFlix",
     "authors": [
       "raghav"
@@ -2365,6 +2492,7 @@
   {
     "status": 1,
     "version": 14,
+    "name": "Time4tv",
     "internalName": "Time4tv",
     "authors": [
       "Hexated"
@@ -2383,6 +2511,7 @@
   {
     "status": 1,
     "version": 7,
+    "name": "TimStreams",
     "internalName": "TimStreams",
     "authors": [
       "raghav"
@@ -2401,6 +2530,7 @@
   {
     "status": 1,
     "version": 1,
+    "name": "TioAnime",
     "internalName": "TioAnime",
     "authors": [
       "Stormunblessed"
@@ -2419,6 +2549,7 @@
   {
     "status": 1,
     "version": 1,
+    "name": "Topdocumentaryfilms",
     "internalName": "Topdocumentaryfilms",
     "authors": [
       "Hexated"
@@ -2437,6 +2568,7 @@
   {
     "status": 1,
     "version": 2,
+    "name": "TopFilmes",
     "internalName": "TopFilmes",
     "authors": [
       "saimuelbr"
@@ -2456,6 +2588,7 @@
   {
     "status": 1,
     "version": 9,
+    "name": "Torrentio",
     "internalName": "Torrentio",
     "authors": [
       "doGior",
@@ -2478,6 +2611,7 @@
   {
     "status": 1,
     "version": 5,
+    "name": "TV",
     "internalName": "TV",
     "authors": [
       "DieGon"
@@ -2496,6 +2630,7 @@
   {
     "status": 1,
     "version": 2,
+    "name": "Tv247",
     "internalName": "Tv247",
     "authors": [
       "Hexated"
@@ -2514,6 +2649,7 @@
   {
     "status": 1,
     "version": 11,
+    "name": "TVGarden",
     "internalName": "TVGarden",
     "authors": [
       "ByAyzen"
@@ -2532,6 +2668,7 @@
   {
     "status": 1,
     "version": 2,
+    "name": "TwitchProvider",
     "internalName": "TwitchProvider",
     "authors": [
       "CranberrySoup"
@@ -2550,6 +2687,7 @@
   {
     "status": 1,
     "version": 40,
+    "name": "UHDmoviesProvider",
     "internalName": "UHDmoviesProvider",
     "authors": [
       "Phisher98"
@@ -2569,6 +2707,7 @@
   {
     "status": 2,
     "version": 61,
+    "name": "Ultima",
     "internalName": "Ultima",
     "authors": [
       "RowdyRushya,Phisher98"
@@ -2587,6 +2726,7 @@
   {
     "status": 1,
     "version": 4,
+    "name": "UltraCine",
     "internalName": "UltraCine",
     "authors": [
       "saimuelbr"
@@ -2606,6 +2746,7 @@
   {
     "status": 1,
     "version": 2,
+    "name": "Useetv",
     "internalName": "Useetv",
     "authors": [
       "Hexated"
@@ -2624,6 +2765,7 @@
   {
     "status": 1,
     "version": 1,
+    "name": "UWatchFree",
     "internalName": "UWatchFree",
     "authors": [],
     "repositoryUrl": "https://github.com/daarkdemon/cs-darkdemon-extensions",
@@ -2640,6 +2782,7 @@
   {
     "status": 1,
     "version": 7,
+    "name": "Vavoo",
     "internalName": "Vavoo",
     "authors": [
       "doGior"
@@ -2658,6 +2801,7 @@
   {
     "status": 1,
     "version": 8,
+    "name": "Vegamovies",
     "internalName": "Vegamovies",
     "authors": [
       "Indflix"
@@ -2677,6 +2821,7 @@
   {
     "status": 1,
     "version": 34,
+    "name": "Watch32",
     "internalName": "Watch32",
     "authors": [
       "NivinCNC"
@@ -2696,6 +2841,7 @@
   {
     "status": 3,
     "version": 3,
+    "name": "WatchParty",
     "internalName": "WatchParty",
     "authors": [
       "DieGon"
@@ -2714,6 +2860,7 @@
   {
     "status": 1,
     "version": 18,
+    "name": "WatchWrestling",
     "internalName": "WatchWrestling",
     "authors": [
       "kraptor"
@@ -2732,6 +2879,7 @@
   {
     "status": 1,
     "version": 4,
+    "name": "Xtream IPTV (Live)",
     "internalName": "Xtream IPTV (Live)",
     "authors": [
       "KingLucius"
@@ -2750,6 +2898,7 @@
   {
     "status": 1,
     "version": 4,
+    "name": "XtreamIPTV",
     "internalName": "XtreamIPTV",
     "authors": [
       "KingLucius"
@@ -2768,6 +2917,7 @@
   {
     "status": 1,
     "version": 13,
+    "name": "Yomovies",
     "internalName": "Yomovies",
     "authors": [
       "Hexated"
@@ -2787,6 +2937,7 @@
   {
     "status": 1,
     "version": 4,
+    "name": "YoTurkish",
     "internalName": "YoTurkish",
     "authors": [
       "kraptor"
@@ -2805,6 +2956,7 @@
   {
     "status": 1,
     "version": 15,
+    "name": "YouTube",
     "internalName": "YouTube",
     "authors": [
       "doGior"
@@ -2823,6 +2975,7 @@
   {
     "status": 1,
     "version": 12,
+    "name": "YouTube Channels",
     "internalName": "YouTube Channels",
     "authors": [
       "doGior"
@@ -2841,6 +2994,7 @@
   {
     "status": 1,
     "version": 1,
+    "name": "YoutubeProvider",
     "internalName": "YoutubeProvider",
     "authors": [
       "KaifTaufiq"
@@ -2860,6 +3014,7 @@
   {
     "status": 1,
     "version": 11,
+    "name": "YTS",
     "internalName": "YTS",
     "authors": [
       "Phisher98"
