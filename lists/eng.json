@@ -1,0 +1,2879 @@
+[
+  {
+    "status": 1,
+    "version": 3,
+    "internalName": "123tv",
+    "authors": [
+      "Hexated"
+    ],
+    "repositoryUrl": "https://github.com/hexated/cloudstream-extensions-hexated",
+    "url": "https://raw.githubusercontent.com/hexated/cloudstream-extensions-hexated/builds/OnetwothreeTv.cs3",
+    "fileSize": 0,
+    "language": "en",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=123tv.live&sz=%size%",
+    "apiVersion": 1,
+    "description": "Kuratiert aus new-hexated-master.tar.gz",
+    "tvTypes": [
+      "Live"
+    ]
+  },
+  {
+    "status": 1,
+    "version": 1,
+    "internalName": "1Stream",
+    "authors": [
+      "Horis"
+    ],
+    "repositoryUrl": "https://github.com/horis/cloudstream-extensions-horis",
+    "url": "https://raw.githubusercontent.com/horis/cloudstream-extensions-horis/builds/Stream1Provider.cs3",
+    "fileSize": 0,
+    "language": "en",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=1stream.eu&sz=%size%",
+    "apiVersion": 1,
+    "description": "Kuratiert aus cloudstream-extensions-horis-master.tar.gz",
+    "tvTypes": [
+      "Live"
+    ]
+  },
+  {
+    "status": 1,
+    "version": 18,
+    "internalName": "AllWish",
+    "authors": [
+      "Phisher98"
+    ],
+    "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
+    "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/AllWish.cs3",
+    "fileSize": 0,
+    "language": "en",
+    "iconUrl": "https://all-wish.me/assets/logo.png",
+    "apiVersion": 1,
+    "description": "Anime from all-wish.me",
+    "tvTypes": [
+      "Others"
+    ]
+  },
+  {
+    "status": 1,
+    "version": 1,
+    "internalName": "Area Documental",
+    "authors": [
+      "redblacker8"
+    ],
+    "repositoryUrl": "https://github.com/Stormunblessed/storm-ext",
+    "url": "https://raw.githubusercontent.com/Stormunblessed/storm-ext/builds/AreaDocumentalProvider.cs3",
+    "fileSize": 0,
+    "language": "en",
+    "iconUrl": "https://www.area-documental.com/Favicons/favicon-96x96.png",
+    "apiVersion": 1,
+    "description": "Kuratiert aus storm-ext-master(1).zip",
+    "tvTypes": [
+      "Movie",
+      "TvSeries"
+    ]
+  },
+  {
+    "status": 1,
+    "version": 5,
+    "internalName": "Arte",
+    "authors": [
+      "doGior, DieGon"
+    ],
+    "repositoryUrl": "https://github.com/DieGon7771/ItaliaInStreaming",
+    "url": "https://raw.githubusercontent.com/DieGon7771/ItaliaInStreaming/builds/Arte.cs3",
+    "fileSize": 0,
+    "language": "en",
+    "iconUrl": "https://raw.githubusercontent.com/DieGon7771/ItaliaInStreaming/master/Arte/arte_icon.png",
+    "apiVersion": 1,
+    "description": "Concerti, documentari, ecc.. in arte.tv",
+    "tvTypes": [
+      "Documentary"
+    ]
+  },
+  {
+    "status": 1,
+    "version": 1,
+    "internalName": "BanglaPlex",
+    "authors": [
+      "Redowan"
+    ],
+    "repositoryUrl": "https://github.com/redowan99/Redowan-CloudStream",
+    "url": "https://raw.githubusercontent.com/redowan99/Redowan-CloudStream/builds/BanglaPlex.cs3",
+    "fileSize": 0,
+    "language": "bn",
+    "iconUrl": "https://banglaplex.biz/uploads/system_logo/favicon_61916a9838d38.png",
+    "apiVersion": 1,
+    "description": "BanglaPlex Movies & Web Series",
+    "tvTypes": [
+      "Movie",
+      "TvSeries"
+    ]
+  },
+  {
+    "status": 1,
+    "version": 4,
+    "internalName": "BasketballReplays",
+    "authors": [
+      "ByAyzen"
+    ],
+    "repositoryUrl": "https://github.com/Kraptor123/Cs-Karma",
+    "url": "https://raw.githubusercontent.com/Kraptor123/Cs-Karma/builds/BasketballReplays.cs3",
+    "fileSize": 0,
+    "language": "en",
+    "iconUrl": "https://basketballreplays.net/favicon.ico",
+    "apiVersion": 1,
+    "description": "BA Replay full games online Free . Stream NBA Basketball replays full games. Spoiler Free , No Blackouts. No signup. Free Download High quality video in HD.",
+    "tvTypes": [
+      "Live"
+    ]
+  },
+  {
+    "status": 1,
+    "version": 8,
+    "internalName": "Bflix",
+    "authors": [
+      "Stormunblessed"
+    ],
+    "repositoryUrl": "https://github.com/Stormunblessed/storm-ext",
+    "url": "https://raw.githubusercontent.com/Stormunblessed/storm-ext/builds/BflixProvider.cs3",
+    "fileSize": 0,
+    "language": "en",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=bflix.ru&sz=%size%",
+    "apiVersion": 1,
+    "description": "Webview is used to load links, reload if necessary",
+    "tvTypes": [
+      "Others"
+    ]
+  },
+  {
+    "status": 1,
+    "version": 3,
+    "internalName": "BingedReview",
+    "authors": [
+      "Dilip"
+    ],
+    "repositoryUrl": "https://github.com/rockhero1234/cinephile",
+    "url": "https://raw.githubusercontent.com/rockhero1234/cinephile/builds/BingedReview.cs3",
+    "fileSize": 0,
+    "language": "en",
+    "iconUrl": "https://raw.githubusercontent.com/rockhero1234/cinephile/refs/heads/master/BingedReview/icon.png",
+    "apiVersion": 1,
+    "description": "Data about streaming and review",
+    "tvTypes": [
+      "Movie"
+    ]
+  },
+  {
+    "status": 1,
+    "version": 40,
+    "internalName": "CastleTvProvider",
+    "authors": [
+      "NivinCNC"
+    ],
+    "repositoryUrl": "https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension",
+    "url": "https://raw.githubusercontent.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/builds/CastleTvProvider.cs3",
+    "fileSize": 0,
+    "language": "ta",
+    "iconUrl": "https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/raw/refs/heads/master/Logos/CastleTvProvider/icon.png",
+    "apiVersion": 1,
+    "description": "Castle TV Movies and Series Provider",
+    "tvTypes": [
+      "Movie",
+      "TvSeries"
+    ]
+  },
+  {
+    "status": 1,
+    "version": 1,
+    "internalName": "Catálogo General",
+    "authors": [
+      "redblacker8"
+    ],
+    "repositoryUrl": "https://github.com/Stormunblessed/storm-ext",
+    "url": "https://raw.githubusercontent.com/Stormunblessed/storm-ext/builds/CatalogoGeneral.cs3",
+    "fileSize": 0,
+    "language": "mx",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=www.themoviedb.org&sz=%size%",
+    "apiVersion": 1,
+    "description": "Catálogo general de TMDB en español: tendencias, populares, estrenos y géneros. Delega reproducción a otros proveedores instalados.",
+    "tvTypes": [
+      "Movie",
+      "TvSeries"
+    ]
+  },
+  {
+    "status": 1,
+    "version": 1,
+    "internalName": "Catálogo HBO Max",
+    "authors": [
+      "redblacker8"
+    ],
+    "repositoryUrl": "https://github.com/Stormunblessed/storm-ext",
+    "url": "https://raw.githubusercontent.com/Stormunblessed/storm-ext/builds/CatalogoHboMax.cs3",
+    "fileSize": 0,
+    "language": "mx",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=www.max.com&sz=%size%",
+    "apiVersion": 1,
+    "description": "Catálogo HBO Max México/LATAM en español: popular, mejor calificada, estrenos y géneros. No aloja fuentes: busca contenido con la lupa del detalle.",
+    "tvTypes": [
+      "Movie",
+      "TvSeries"
+    ]
+  },
+  {
+    "status": 1,
+    "version": 5,
+    "internalName": "Catálogo Infantil",
+    "authors": [
+      "redblacker8"
+    ],
+    "repositoryUrl": "https://github.com/Stormunblessed/storm-ext",
+    "url": "https://raw.githubusercontent.com/Stormunblessed/storm-ext/builds/CatalogoInfantil.cs3",
+    "fileSize": 0,
+    "language": "mx",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=www.themoviedb.org&sz=%size%",
+    "apiVersion": 1,
+    "description": "Catálogo infantil y familiar clasificación AA: recomendaciones, estrenos, tendencias y géneros. No aloja fuentes: busca contenido con la lupa del detalle.",
+    "tvTypes": [
+      "Movie",
+      "TvSeries"
+    ]
+  },
+  {
+    "status": 1,
+    "version": 5,
+    "internalName": "Catálogo Netflix",
+    "authors": [
+      "redblacker8"
+    ],
+    "repositoryUrl": "https://github.com/Stormunblessed/storm-ext",
+    "url": "https://raw.githubusercontent.com/Stormunblessed/storm-ext/builds/CatalogoNetflix.cs3",
+    "fileSize": 0,
+    "language": "mx",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=www.netflix.com&sz=%size%",
+    "apiVersion": 1,
+    "description": "Catálogo Netflix México/LATAM en español: popular, mejor calificada, estrenos y géneros. No aloja fuentes: busca contenido con la lupa del detalle.",
+    "tvTypes": [
+      "Movie",
+      "TvSeries"
+    ]
+  },
+  {
+    "status": 1,
+    "version": 26,
+    "internalName": "Cinemacity",
+    "authors": [
+      "Phisher98"
+    ],
+    "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
+    "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Cinemacity.cs3",
+    "fileSize": 0,
+    "language": "en",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=cinemacity.cc&sz=%size%",
+    "apiVersion": 1,
+    "description": "Watch Movies & TvSeries (Multi-Lang/Audio)",
+    "tvTypes": [
+      "Movie",
+      "TvSeries"
+    ]
+  },
+  {
+    "status": 1,
+    "version": 35,
+    "internalName": "CineTvProvider",
+    "authors": [
+      "NivinCNC"
+    ],
+    "repositoryUrl": "https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension",
+    "url": "https://raw.githubusercontent.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/builds/CineTvProvider.cs3",
+    "fileSize": 0,
+    "language": "ta",
+    "iconUrl": "https://modapk.world/wp-content/uploads/2025/11/Et-90x90.png",
+    "apiVersion": 1,
+    "description": "Clone of Cinema, Memesapp , FilmTV etc",
+    "tvTypes": [
+      "Movie",
+      "TvSeries"
+    ]
+  },
+  {
+    "status": 1,
+    "version": 11,
+    "internalName": "Cinevood",
+    "authors": [
+      "Dilip"
+    ],
+    "repositoryUrl": "https://github.com/rockhero1234/cinephile",
+    "url": "https://raw.githubusercontent.com/rockhero1234/cinephile/builds/Cinevood.cs3",
+    "fileSize": 0,
+    "language": "hi",
+    "iconUrl": "https://i.ibb.co/nMdxZgkR/8-CM3-5q-ARZYELDWg6-Erqfg-NYpo-Sdh-Yw-HRB5-CMhf-Vgg-Ygn-PMHCVYWQf-EEJMt9gwd6-EFP5t-LYgd-LAm-Zerm-KCX.png",
+    "apiVersion": 1,
+    "description": "unstable right now but good regional content",
+    "tvTypes": [
+      "Movie",
+      "TvSeries"
+    ]
+  },
+  {
+    "status": 1,
+    "version": 111,
+    "internalName": "CNC Verse",
+    "authors": [
+      "NivinCNC"
+    ],
+    "repositoryUrl": "https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension",
+    "url": "https://raw.githubusercontent.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/builds/CNC Verse.cs3",
+    "fileSize": 0,
+    "language": "ta",
+    "iconUrl": "https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/raw/refs/heads/master/Logos/CNC%20Verse/icon.png",
+    "apiVersion": 1,
+    "description": "Netflix, PrimeVideo, Disney+ Hotstar Contents in Multiple Languages",
+    "tvTypes": [
+      "Movie",
+      "TvSeries"
+    ]
+  },
+  {
+    "status": 1,
+    "version": 10,
+    "internalName": "CNC Verse Mobile",
+    "authors": [
+      "NivinCNC"
+    ],
+    "repositoryUrl": "https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension",
+    "url": "https://raw.githubusercontent.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/builds/CNC Verse Mobile.cs3",
+    "fileSize": 0,
+    "language": "ta",
+    "iconUrl": "https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/raw/refs/heads/master/Logos/CNC%20Verse%20Mobile/logo.jpeg",
+    "apiVersion": 1,
+    "description": "NetMirror Mobile API",
+    "tvTypes": [
+      "Movie",
+      "TvSeries"
+    ]
+  },
+  {
+    "status": 1,
+    "version": 1,
+    "internalName": "CricHD",
+    "authors": [
+      "darkdemon"
+    ],
+    "repositoryUrl": "https://github.com/daarkdemon/cs-darkdemon-extensions",
+    "url": "https://raw.githubusercontent.com/daarkdemon/cs-darkdemon-extensions/builds/CricHDProvider.cs3",
+    "fileSize": 0,
+    "language": "en",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=pc9.crichd.com&sz=%size%",
+    "apiVersion": 1,
+    "description": "Kuratiert aus cs-darkdemon-extensions-master.zip",
+    "tvTypes": [
+      "Live"
+    ]
+  },
+  {
+    "status": 1,
+    "version": 67,
+    "internalName": "CricifyProvider",
+    "authors": [
+      "NivinCNC"
+    ],
+    "repositoryUrl": "https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension",
+    "url": "https://raw.githubusercontent.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/builds/CricifyProvider.cs3",
+    "fileSize": 0,
+    "language": "ta",
+    "iconUrl": "https://cricfy.pro/wp-content/uploads/2024/11/cropped-cricfytv-2.png",
+    "apiVersion": 1,
+    "description": "Watch Live sports and TV channels",
+    "tvTypes": [
+      "Live"
+    ]
+  },
+  {
+    "status": 1,
+    "version": 11,
+    "internalName": "DaddyLive Schedule",
+    "authors": [
+      "doGior"
+    ],
+    "repositoryUrl": "https://github.com/DieGon7771/ItaliaInStreaming",
+    "url": "https://raw.githubusercontent.com/DieGon7771/ItaliaInStreaming/builds/DaddyLive.cs3",
+    "fileSize": 0,
+    "language": "un",
+    "iconUrl": "https://raw.githubusercontent.com/doGior/doGiorsHadEnough/refs/heads/master/DaddyLive/live-streaming.png",
+    "apiVersion": 1,
+    "description": "Live TV from DaddyLive. You might need a VPN",
+    "tvTypes": [
+      "Live"
+    ]
+  },
+  {
+    "status": 1,
+    "version": 4,
+    "internalName": "DailymotionProvider",
+    "authors": [
+      "Luna712"
+    ],
+    "repositoryUrl": "https://github.com/recloudstream/extensions",
+    "url": "https://raw.githubusercontent.com/recloudstream/extensions/builds/DailymotionProvider.cs3",
+    "fileSize": 0,
+    "language": "en",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=www.dailymotion.com&sz=%size%",
+    "apiVersion": 1,
+    "description": "Watch content from Dailymotion",
+    "tvTypes": [
+      "Others"
+    ]
+  },
+  {
+    "status": 1,
+    "version": 24,
+    "internalName": "DamiTVProvider",
+    "authors": [
+      "KSHITIJ8473"
+    ],
+    "repositoryUrl": "https://github.com/KSHITIJ8473/raghav",
+    "url": "https://raw.githubusercontent.com/KSHITIJ8473/raghav/builds/DamiTVProvider.cs3",
+    "fileSize": 0,
+    "language": "en",
+    "iconUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAvvc01IqbjrBZ-AhXwvyrIblnaJBA04IUNKmJNRbqEh46fWVItaGuoRsj&s=10",
+    "apiVersion": 1,
+    "description": "Live sports HIGH QAULITY",
+    "tvTypes": [
+      "Live"
+    ]
+  },
+  {
+    "status": 1,
+    "version": 31,
+    "internalName": "DeporTV",
+    "authors": [
+      "redblacker8"
+    ],
+    "repositoryUrl": "https://github.com/Stormunblessed/storm-ext",
+    "url": "https://raw.githubusercontent.com/Stormunblessed/storm-ext/builds/DeporTVProvider.cs3",
+    "fileSize": 0,
+    "language": "mx",
+    "iconUrl": "https://yt3.googleusercontent.com/T_d2j2xZMjAxPCehiFR6hAv7jE3swcUzfgV8wCXzv1IL7rCEDv3cgQtIxjdmLVyP6ZrSgIu0nw=s900-c-k-c0x00ffffff-no-rj",
+    "apiVersion": 1,
+    "description": "Deportes eventos en vivo. Sports live events. Futbol. Soccer.",
+    "tvTypes": [
+      "Live"
+    ]
+  },
+  {
+    "status": 1,
+    "version": 32,
+    "internalName": "DesiSerialsProvider",
+    "authors": [
+      "NivinCNC"
+    ],
+    "repositoryUrl": "https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension",
+    "url": "https://raw.githubusercontent.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/builds/DesiSerialsProvider.cs3",
+    "fileSize": 0,
+    "language": "hi",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=desi-serials.to&sz=%size%",
+    "apiVersion": 1,
+    "description": "Desi Serials Tv Shows Provider",
+    "tvTypes": [
+      "TvSeries"
+    ]
+  },
+  {
+    "status": 1,
+    "version": 46,
+    "internalName": "Disney Plus",
+    "authors": [
+      "Sushan64"
+    ],
+    "repositoryUrl": "https://github.com/Sushan64/NetMirror-Extension",
+    "url": "https://raw.githubusercontent.com/Sushan64/NetMirror-Extension/builds/Netmirror.cs3",
+    "fileSize": 0,
+    "language": "hi",
+    "iconUrl": "https://raw.githubusercontent.com/Sushan64/NetMirror-Extension/refs/heads/master/Netmirror/logo.jpeg",
+    "apiVersion": 1,
+    "description": "Netflix, PrimeVideo, Disney+ Hotstar Contents in Multiple Languages",
+    "tvTypes": [
+      "Movie",
+      "TvSeries"
+    ]
+  },
+  {
+    "status": 1,
+    "version": 1,
+    "internalName": "DiviCast",
+    "authors": [
+      "Reflex1337",
+      "ErrorCode26"
+    ],
+    "repositoryUrl": "https://github.com/Reflex755/ReflexRepo",
+    "url": "https://raw.githubusercontent.com/Reflex755/ReflexRepo/builds/DiviCast.cs3",
+    "fileSize": 0,
+    "language": "en",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=divicast.study&sz=64",
+    "apiVersion": 1,
+    "description": "Watch movies and TV series from DiviCast",
+    "tvTypes": [
+      "Movie",
+      "TvSeries"
+    ]
+  },
+  {
+    "status": 1,
+    "version": 2,
+    "internalName": "DocumentaryArea",
+    "authors": [
+      "ByAyzen"
+    ],
+    "repositoryUrl": "https://github.com/Kraptor123/Cs-Karma",
+    "url": "https://raw.githubusercontent.com/Kraptor123/Cs-Karma/builds/DocumentaryArea.cs3",
+    "fileSize": 0,
+    "language": "en",
+    "iconUrl": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://documentaryarea.com&size=128",
+    "apiVersion": 1,
+    "description": "Watch the best online documentary films.Stunning collection of awesome, eyeopening, interesting, just released, full documentaries.",
+    "tvTypes": [
+      "Documentary"
+    ]
+  },
+  {
+    "status": 1,
+    "version": 11,
+    "internalName": "DudeFilms",
+    "authors": [
+      "Phisher98"
+    ],
+    "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
+    "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/DudeFilms.cs3",
+    "fileSize": 0,
+    "language": "hi",
+    "iconUrl": "https://raw.githubusercontent.com/phisher98/TVVVV/refs/heads/main/Icons/dudefilms.png",
+    "apiVersion": 1,
+    "description": "Watch Movies & TvSeries (Multi-Lang)",
+    "tvTypes": [
+      "Movie",
+      "TvSeries"
+    ]
+  },
+  {
+    "status": 1,
+    "version": 1,
+    "internalName": "Eja.tv",
+    "authors": [
+      "Cloudburst"
+    ],
+    "repositoryUrl": "https://github.com/recloudstream/extensions",
+    "url": "https://raw.githubusercontent.com/recloudstream/extensions/builds/EjaTv.cs3",
+    "fileSize": 0,
+    "language": "en",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=eja.tv&sz=%size%",
+    "apiVersion": 1,
+    "description": "Kuratiert aus cloudstream-extensions-master.tar.gz",
+    "tvTypes": [
+      "Live"
+    ]
+  },
+  {
+    "status": 1,
+    "version": 1,
+    "internalName": "EmbedPk",
+    "authors": [
+      "Redowan"
+    ],
+    "repositoryUrl": "https://github.com/redowan99/Redowan-CloudStream",
+    "url": "https://raw.githubusercontent.com/redowan99/Redowan-CloudStream/builds/..cs3",
+    "fileSize": 0,
+    "language": "hi",
+    "iconUrl": "",
+    "apiVersion": 1,
+    "description": "Kuratiert aus Redowan-CloudStream-master.zip",
+    "tvTypes": [
+      "Others"
+    ]
+  },
+  {
+    "status": 1,
+    "version": 1,
+    "internalName": "Example",
+    "authors": [
+      "doGior"
+    ],
+    "repositoryUrl": "https://github.com/DieGon7771/ItaliaInStreaming",
+    "url": "https://raw.githubusercontent.com/DieGon7771/ItaliaInStreaming/builds/ExampleProvider.cs3",
+    "fileSize": 0,
+    "language": "it",
+    "iconUrl": "https://github.githubassets.com/favicons/favicon-dark.svg",
+    "apiVersion": 1,
+    "description": "Stuff",
+    "tvTypes": [
+      "Movie",
+      "TvSeries"
+    ]
+  },
+  {
+    "status": 1,
+    "version": 11,
+    "internalName": "Fibwatch",
+    "authors": [
+      "Phisher98"
+    ],
+    "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
+    "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Fibwatch.cs3",
+    "fileSize": 0,
+    "language": "hi",
+    "iconUrl": "https://f.pondit.xyz/fibwatch-logo.png",
+    "apiVersion": 1,
+    "description": "Kuratiert aus remote:https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/refs/heads/builds/plugins.json",
+    "tvTypes": [
+      "Movie",
+      "TvSeries"
+    ]
+  },
+  {
+    "status": 1,
+    "version": 13,
+    "internalName": "Filemoon",
+    "authors": [
+      "kraptor123",
+      "kerimmkirac"
+    ],
+    "repositoryUrl": "https://github.com/Kraptor123/Cs-Karma",
+    "url": "https://raw.githubusercontent.com/Kraptor123/Cs-Karma/builds/FullRaces.cs3",
+    "fileSize": 0,
+    "language": "en",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=fullraces.com&sz=%size%",
+    "apiVersion": 1,
+    "description": "Formula 1 is one of the most popular and dramatic sports in the world. You can watch Formula One races replays videos online and enjoy every moment of this exciting sports event. We offer to watch F1 Full Races replays FREE in HD",
+    "tvTypes": [
+      "Live",
+      "Others"
+    ]
+  },
+  {
+    "status": 1,
+    "version": 8,
+    "internalName": "Fivemovierulz",
+    "authors": [
+      "darkdemon",
+      "Dilip"
+    ],
+    "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
+    "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Fivemovierulz.cs3",
+    "fileSize": 0,
+    "language": "hi",
+    "iconUrl": "https://i.ibb.co/SwQRhsn/20241016-074942.jpg",
+    "apiVersion": 1,
+    "description": "Movies & Series",
+    "tvTypes": [
+      "TvSeries",
+      "Movie"
+    ]
+  },
+  {
+    "status": 1,
+    "version": 9,
+    "internalName": "Footballia",
+    "authors": [
+      "kraptor",
+      "ByAyzen"
+    ],
+    "repositoryUrl": "https://github.com/Kraptor123/Cs-Karma",
+    "url": "https://raw.githubusercontent.com/Kraptor123/Cs-Karma/builds/Footballia.cs3",
+    "fileSize": 0,
+    "language": "en",
+    "iconUrl": "https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://footballia.net/tr&size=48",
+    "apiVersion": 1,
+    "description": "1950’lerden günümüze… 40.000’den fazla maç ve 100.000’den fazla oyuncu.",
+    "tvTypes": [
+      "Live"
+    ]
+  },
+  {
+    "status": 1,
+    "version": 1,
+    "internalName": "FootReplays",
+    "authors": [
+      "ByAyzen"
+    ],
+    "repositoryUrl": "https://github.com/Kraptor123/Cs-Karma",
+    "url": "https://raw.githubusercontent.com/Kraptor123/Cs-Karma/builds/FootReplays.cs3",
+    "fileSize": 0,
+    "language": "en",
+    "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://www.footreplays.com/&size=128",
+    "apiVersion": 1,
+    "description": "Kuratiert aus remote:https://raw.githubusercontent.com/Kraptor123/Cs-Karma/refs/heads/builds/plugins.json",
+    "tvTypes": [
+      "Others"
+    ]
+  },
+  {
+    "status": 1,
+    "version": 38,
+    "internalName": "FourKHDHub",
+    "authors": [
+      "Phisher98"
+    ],
+    "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
+    "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/FourKHDHub.cs3",
+    "fileSize": 0,
+    "language": "en",
+    "iconUrl": "https://raw.githubusercontent.com/phisher98/TVVVV/refs/heads/main/Icons/4KHDHUB-Bright-Logo.png",
+    "apiVersion": 1,
+    "description": "4K Movies Extension by HDHUB4U",
+    "tvTypes": [
+      "Movie",
+      "TvSeries"
+    ]
+  },
+  {
+    "status": 1,
+    "version": 1,
+    "internalName": "Free-TV",
+    "authors": [
+      "Gian-Fr",
+      "Adippe"
+    ],
+    "repositoryUrl": "https://github.com/Gian-Fr/ItalianProvider",
+    "url": "https://raw.githubusercontent.com/Gian-Fr/ItalianProvider/builds/FreeTVProvider.cs3",
+    "fileSize": 0,
+    "language": "en",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=%size%",
+    "apiVersion": 1,
+    "description": "Kuratiert aus ItalianProvider-master.zip",
+    "tvTypes": [
+      "Live"
+    ]
+  },
+  {
+    "status": 1,
+    "version": 2,
+    "internalName": "FullMatchShows",
+    "authors": [
+      "Abodabodd"
+    ],
+    "repositoryUrl": "https://github.com/Abodabodd/re-3arabi",
+    "url": "https://raw.githubusercontent.com/Abodabodd/re-3arabi/build/Replaymatch.cs3",
+    "fileSize": 0,
+    "language": "en",
+    "iconUrl": "https://fullmatchshows.com/wp-content/uploads/2024/04/LOGOSASO.png",
+    "apiVersion": 1,
+    "description": "Kuratiert aus re-3arabi-main.zip",
+    "tvTypes": [
+      "Movie",
+      "Others"
+    ]
+  },
+  {
+    "status": 1,
+    "version": 13,
+    "internalName": "FullRaces",
+    "authors": [
+      "kraptor123",
+      "kerimmkirac"
+    ],
+    "repositoryUrl": "https://github.com/Kraptor123/Cs-Karma",
+    "url": "https://raw.githubusercontent.com/Kraptor123/Cs-Karma/builds/FullRaces.cs3",
+    "fileSize": 0,
+    "language": "en",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=fullraces.com&sz=%size%",
+    "apiVersion": 1,
+    "description": "Formula 1 is one of the most popular and dramatic sports in the world. You can watch Formula One races replays videos online and enjoy every moment of this exciting sports event. We offer to watch F1 Full Races replays FREE in HD",
+    "tvTypes": [
+      "Live",
+      "Others"
+    ]
+  },
+  {
+    "status": 1,
+    "version": 33,
+    "internalName": "GoldenAudiobook",
+    "authors": [
+      "NivinCNC"
+    ],
+    "repositoryUrl": "https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension",
+    "url": "https://raw.githubusercontent.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/builds/GoldenAudiobook.cs3",
+    "fileSize": 0,
+    "language": "en",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=goldenaudiobook.com/&sz=%size%",
+    "apiVersion": 1,
+    "description": "Audiobooks - Use Picture in Picture or VLC as external player",
+    "tvTypes": [
+      "Others"
+    ]
+  },
+  {
+    "status": 1,
+    "version": 5,
+    "internalName": "Goojara",
+    "authors": [
+      "Phisher98"
+    ],
+    "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
+    "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Goojara.cs3",
+    "fileSize": 0,
+    "language": "en",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=goojara.to/&sz=%size%",
+    "apiVersion": 1,
+    "description": "Movies and Series (Mostly 720p)",
+    "tvTypes": [
+      "Movie",
+      "TvSeries"
+    ]
+  },
+  {
+    "status": 1,
+    "version": 5,
+    "internalName": "Hdmovie2",
+    "authors": [
+      "Phisher98"
+    ],
+    "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
+    "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Hdmovie2.cs3",
+    "fileSize": 0,
+    "language": "hi",
+    "iconUrl": "https://raw.githubusercontent.com/phisher98/TVVVV/refs/heads/main/Icons/hdmovie2.png",
+    "apiVersion": 1,
+    "description": "Hdmovie2",
+    "tvTypes": [
+      "TvSeries",
+      "Movie"
+    ]
+  },
+  {
+    "status": 1,
+    "version": 17,
+    "internalName": "Hindmoviez",
+    "authors": [
+      "Phisher98"
+    ],
+    "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
+    "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Hindmoviez.cs3",
+    "fileSize": 0,
+    "language": "hi",
+    "iconUrl": "https://raw.githubusercontent.com/phisher98/TVVVV/refs/heads/main/Icons/hindmoviez.png",
+    "apiVersion": 1,
+    "description": "Watch Movies & TvSeries (Multi-Lang)",
+    "tvTypes": [
+      "Movie",
+      "TvSeries"
+    ]
+  },
+  {
+    "status": 1,
+    "version": 95,
+    "internalName": "Hotstar",
+    "authors": [
+      "AllForU"
+    ],
+    "repositoryUrl": "https://github.com/RVRBEAST76/allforu-repo",
+    "url": "https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/builds/Hotstar-v95.cs3",
+    "fileSize": 0,
+    "language": "en",
+    "iconUrl": "https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/main/allforu-logo.jpg",
+    "apiVersion": 1,
+    "description": "Hotstar - Movies & Series in Tamil, English, Hindi, Telugu, Malayalam & more",
+    "tvTypes": [
+      "Movie",
+      "TvSeries"
+    ]
+  },
+  {
+    "status": 1,
+    "version": 7,
+    "internalName": "Huhu",
+    "authors": [
+      "DieGon"
+    ],
+    "repositoryUrl": "https://github.com/DieGon7771/ItaliaInStreaming",
+    "url": "https://raw.githubusercontent.com/DieGon7771/ItaliaInStreaming/builds/Huhu.cs3",
+    "fileSize": 0,
+    "language": "en",
+    "iconUrl": "https://huhu.to/favicon.ico",
+    "apiVersion": 1,
+    "description": "Canali TV da Huhu",
+    "tvTypes": [
+      "Live"
+    ]
+  },
+  {
+    "status": 1,
+    "version": 1,
+    "internalName": "I Have No TV",
+    "authors": [
+      "Cloudburst"
+    ],
+    "repositoryUrl": "https://github.com/recloudstream/extensions",
+    "url": "https://raw.githubusercontent.com/recloudstream/extensions/builds/IHaveNoTvProvider.cs3",
+    "fileSize": 0,
+    "language": "en",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=ihavenotv.com&sz=%size%",
+    "apiVersion": 1,
+    "description": "Kuratiert aus cloudstream-extensions-master.tar.gz",
+    "tvTypes": [
+      "TvSeries",
+      "Movie",
+      "Documentary"
+    ]
+  },
+  {
+    "status": 1,
+    "version": 6,
+    "internalName": "Indo IPTV",
+    "authors": [
+      "TeKuma25"
+    ],
+    "repositoryUrl": "https://github.com/TeKuma25/IndoStream",
+    "url": "https://raw.githubusercontent.com/TeKuma25/IndoStream/builds/IndoTV.cs3",
+    "fileSize": 0,
+    "language": "id",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=%size%",
+    "apiVersion": 1,
+    "description": "Indo IPTV",
+    "tvTypes": [
+      "Live"
+    ]
+  },
+  {
+    "status": 1,
+    "version": 6,
+    "internalName": "IndoTV",
+    "authors": [
+      "TeKuma25"
+    ],
+    "repositoryUrl": "https://github.com/TeKuma25/IndoStream",
+    "url": "https://raw.githubusercontent.com/TeKuma25/IndoStream/builds/IndoTV.cs3",
+    "fileSize": 0,
+    "language": "id",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=%size%",
+    "apiVersion": 1,
+    "description": "Indo IPTV",
+    "tvTypes": [
+      "Live"
+    ]
+  },
+  {
+    "status": 1,
+    "version": 25,
+    "internalName": "IndStream",
+    "authors": [
+      "Indflix"
+    ],
+    "repositoryUrl": "https://github.com/dipender98/Indflix",
+    "url": "https://raw.githubusercontent.com/dipender98/Indflix/builds/IndStream.cs3",
+    "fileSize": 0,
+    "language": "hi",
+    "iconUrl": "https://raw.githubusercontent.com/dipender98/Indflix/main/IndStream/icon.png",
+    "apiVersion": 1,
+    "description": "Federated embed-server resolver keyed by TMDB/IMDB id. Races dozens of independent HLS/DASH servers, picks the fastest CDN per title, and exposes multi-language audio + per-quality links.",
+    "tvTypes": [
+      "Movie",
+      "TvSeries"
+    ]
+  },
+  {
+    "status": 1,
+    "version": 22,
+    "internalName": "Internet Archive",
+    "authors": [
+      "Luna712"
+    ],
+    "repositoryUrl": "https://github.com/Luna712/Luna712-CloudStream-Extensions",
+    "url": "https://raw.githubusercontent.com/Luna712/Luna712-CloudStream-Extensions/builds/InternetArchiveProvider.cs3",
+    "fileSize": 0,
+    "language": "en",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=archive.org&sz=%size%",
+    "apiVersion": 1,
+    "description": "Watch content from the Internet Archive at archive.org",
+    "tvTypes": [
+      "Others"
+    ]
+  },
+  {
+    "status": 1,
+    "version": 22,
+    "internalName": "InternetArchiveProvider",
+    "authors": [
+      "Luna712"
+    ],
+    "repositoryUrl": "https://github.com/Luna712/Luna712-CloudStream-Extensions",
+    "url": "https://raw.githubusercontent.com/Luna712/Luna712-CloudStream-Extensions/builds/InternetArchiveProvider.cs3",
+    "fileSize": 0,
+    "language": "en",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=archive.org&sz=%size%",
+    "apiVersion": 1,
+    "description": "Watch content from the Internet Archive at archive.org",
+    "tvTypes": [
+      "Others"
+    ]
+  },
+  {
+    "status": 1,
+    "version": 9,
+    "internalName": "InvidiousProvider",
+    "authors": [
+      "Cloudburst"
+    ],
+    "repositoryUrl": "https://github.com/recloudstream/extensions",
+    "url": "https://raw.githubusercontent.com/recloudstream/extensions/builds/InvidiousProvider.cs3",
+    "fileSize": 0,
+    "language": "en",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=invidious.io&sz=%size%",
+    "apiVersion": 1,
+    "description": "Watch content from any invidious instance",
+    "tvTypes": [
+      "Others"
+    ]
+  },
+  {
+    "status": 1,
+    "version": 1,
+    "internalName": "IPTV",
+    "authors": [
+      "anhdaden",
+      "dogior"
+    ],
+    "repositoryUrl": "https://github.com/doGior/doGiorsHadEnough",
+    "url": "https://raw.githubusercontent.com/doGior/doGiorsHadEnough/builds/IPTV.cs3",
+    "fileSize": 0,
+    "language": "en",
+    "iconUrl": "https://www.shutterstock.com/image-vector/iptv-vector-line-icon-ip-260nw-1841427610.jpg",
+    "apiVersion": 1,
+    "description": "General IPTV player. Add a list in the settings and you'll see it in the plugins list in the home",
+    "tvTypes": [
+      "Live"
+    ]
+  },
+  {
+    "status": 1,
+    "version": 1,
+    "internalName": "Iptv-org",
+    "authors": [
+      "Gian-Fr",
+      "Adippe"
+    ],
+    "repositoryUrl": "https://github.com/Gian-Fr/ItalianProvider",
+    "url": "https://raw.githubusercontent.com/Gian-Fr/ItalianProvider/builds/IptvorgProvider.cs3",
+    "fileSize": 0,
+    "language": "en",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=%size%",
+    "apiVersion": 1,
+    "description": "Kuratiert aus ItalianProvider-master.zip",
+    "tvTypes": [
+      "Live"
+    ]
+  },
+  {
+    "status": 1,
+    "version": 2,
+    "internalName": "IPTV-Org ($iptvLanguageCode)",
+    "authors": [
+      "Adippe",
+      "Phisher98",
+      "Bnyro"
+    ],
+    "repositoryUrl": "https://github.com/bnyro/GermanProviders",
+    "url": "https://raw.githubusercontent.com/bnyro/GermanProviders/builds/IptvOrg.cs3",
+    "fileSize": 0,
+    "language": "en",
+    "iconUrl": "https://avatars.githubusercontent.com/iptv-org?s=%size%",
+    "apiVersion": 1,
+    "description": "Collection of publicly available IPTV channels from all over the world",
+    "tvTypes": [
+      "Live"
+    ]
+  },
+  {
+    "status": 1,
+    "version": 2,
+    "internalName": "IptvOrg",
+    "authors": [
+      "Adippe",
+      "Phisher98",
+      "Bnyro"
+    ],
+    "repositoryUrl": "https://github.com/Bnyro/GermanProviders",
+    "url": "https://raw.githubusercontent.com/Bnyro/GermanProviders/builds/IptvOrg.cs3",
+    "fileSize": 0,
+    "language": "en",
+    "iconUrl": "https://avatars.githubusercontent.com/iptv-org?s=%size%",
+    "apiVersion": 1,
+    "description": "Collection of publicly available IPTV channels from all over the world",
+    "tvTypes": [
+      "Live"
+    ]
+  },
+  {
+    "status": 1,
+    "version": 9,
+    "internalName": "IPTVPlayer",
+    "authors": [
+      "Phisher98,Adippe"
+    ],
+    "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
+    "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/IPTVPlayer.cs3",
+    "fileSize": 0,
+    "language": "hi",
+    "iconUrl": "https://raw.githubusercontent.com/phisher98/TVVVV/refs/heads/main/Icons/IPTV.png",
+    "apiVersion": 1,
+    "description": "IPTV Player",
+    "tvTypes": [
+      "Live"
+    ]
+  },
+  {
+    "status": 1,
+    "version": 3,
+    "internalName": "IWatchOffice",
+    "authors": [
+      "ByAyzen"
+    ],
+    "repositoryUrl": "https://github.com/Kraptor123/Cs-Karma",
+    "url": "https://raw.githubusercontent.com/Kraptor123/Cs-Karma/builds/Iwatchtheoffice.cs3",
+    "fileSize": 0,
+    "language": "en",
+    "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://iwatchtheoffice.cc&size=128",
+    "apiVersion": 1,
+    "description": "Stream The Office (US) Online Free in HD on XBOX, Playstation, MOBILE, TABLET and PC",
+    "tvTypes": [
+      "Movie"
+    ]
+  },
+  {
+    "status": 1,
+    "version": 3,
+    "internalName": "Iwatchtheoffice",
+    "authors": [
+      "ByAyzen"
+    ],
+    "repositoryUrl": "https://github.com/Kraptor123/Cs-Karma",
+    "url": "https://raw.githubusercontent.com/Kraptor123/Cs-Karma/builds/Iwatchtheoffice.cs3",
+    "fileSize": 0,
+    "language": "en",
+    "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://iwatchtheoffice.cc&size=128",
+    "apiVersion": 1,
+    "description": "Stream The Office (US) Online Free in HD on XBOX, Playstation, MOBILE, TABLET and PC",
+    "tvTypes": [
+      "Movie"
+    ]
+  },
+  {
+    "status": 2,
+    "version": 1,
+    "internalName": "KatMovies",
+    "authors": [
+      "LikDev-256"
+    ],
+    "repositoryUrl": "https://github.com/LikDev-256/likdev256-tamil-providers",
+    "url": "https://raw.githubusercontent.com/LikDev-256/likdev256-tamil-providers/builds/KatMoviesProvider.cs3",
+    "fileSize": 0,
+    "language": "ta",
+    "iconUrl": "https://raw.githubusercontent.com/LikDev-256/likdev256-tamil-providers/master/KatMoviesProvider/icon.png",
+    "apiVersion": 1,
+    "description": "Indian Multi-language Movie-only Provider",
+    "tvTypes": [
+      "Movie",
+      "TvSeries"
+    ]
+  },
+  {
+    "status": 1,
+    "version": 3,
+    "internalName": "Library of Ladev",
+    "authors": [
+      "ErrorCode26",
+      "Reflex1337"
+    ],
+    "repositoryUrl": "https://github.com/Reflex755/ReflexRepo",
+    "url": "https://raw.githubusercontent.com/Reflex755/ReflexRepo/builds/LibraryOfLadev.cs3",
+    "fileSize": 0,
+    "language": "en",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=libraryofladev.com&sz=%size%",
+    "apiVersion": 1,
+    "description": "Library of Ladev - Neuro-sama stream transcript search with YouTube playback",
+    "tvTypes": [
+      "Movie"
+    ]
+  },
+  {
+    "status": 1,
+    "version": 3,
+    "internalName": "LibraryOfLadev",
+    "authors": [
+      "ErrorCode26",
+      "Reflex1337"
+    ],
+    "repositoryUrl": "https://github.com/Reflex755/ReflexRepo",
+    "url": "https://raw.githubusercontent.com/Reflex755/ReflexRepo/builds/LibraryOfLadev.cs3",
+    "fileSize": 0,
+    "language": "en",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=libraryofladev.com&sz=%size%",
+    "apiVersion": 1,
+    "description": "Library of Ladev - Neuro-sama stream transcript search with YouTube playback",
+    "tvTypes": [
+      "Movie"
+    ]
+  },
+  {
+    "status": 1,
+    "version": 33,
+    "internalName": "LibriVoxAudiobook",
+    "authors": [
+      "NivinCNC"
+    ],
+    "repositoryUrl": "https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension",
+    "url": "https://raw.githubusercontent.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/builds/LibriVoxAudiobook.cs3",
+    "fileSize": 0,
+    "language": "en",
+    "iconUrl": "https://librivox.org/wp-content/themes/librivox/images/librivox-logo.png",
+    "apiVersion": 1,
+    "description": "Audiobooks in public domain",
+    "tvTypes": [
+      "Others"
+    ]
+  },
+  {
+    "status": 1,
+    "version": 36,
+    "internalName": "LIVETVProvider",
+    "authors": [
+      "raghav,cnc"
+    ],
+    "repositoryUrl": "https://github.com/KSHITIJ8473/raghav",
+    "url": "https://raw.githubusercontent.com/KSHITIJ8473/raghav/builds/LIVETVProvider.cs3",
+    "fileSize": 0,
+    "language": "en",
+    "iconUrl": "https://png.pngtree.com/png-vector/20191026/ourmid/pngtree-live-icon-design-template-vector-isolated-illustration-png-image_1874482.jpg",
+    "apiVersion": 1,
+    "description": "Watch LIVE TV channels & sports via LIVE TV",
+    "tvTypes": [
+      "Live"
+    ]
+  },
+  {
+    "status": 1,
+    "version": 16,
+    "internalName": "LivXowProvider",
+    "authors": [
+      "NivinCNC"
+    ],
+    "repositoryUrl": "https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension",
+    "url": "https://raw.githubusercontent.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/builds/LivXowProvider.cs3",
+    "fileSize": 0,
+    "language": "ta",
+    "iconUrl": "https://www.livxow.site/logo.jpg",
+    "apiVersion": 1,
+    "description": "Watch Live Sports and TV Channels via LivXow",
+    "tvTypes": [
+      "Live"
+    ]
+  },
+  {
+    "status": 1,
+    "version": 17,
+    "internalName": "M3UPlaylistPlayerProvider",
+    "authors": [
+      "NivinCNC"
+    ],
+    "repositoryUrl": "https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension",
+    "url": "https://raw.githubusercontent.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/builds/M3UPlaylistPlayerProvider.cs3",
+    "fileSize": 0,
+    "language": "en",
+    "iconUrl": "https://play-lh.googleusercontent.com/V4t4JeQV2Cu9u72hKuqOW5c0IfwcZuuVS1d9PF2uJsW3rlIq-aOMTrT5bABVGaAFTcM=w480-h960-rw",
+    "apiVersion": 1,
+    "description": "Add your own m3u playlists",
+    "tvTypes": [
+      "Live"
+    ]
+  },
+  {
+    "status": 1,
+    "version": 4,
+    "internalName": "MegaFlix",
+    "authors": [
+      "saimuelbr"
+    ],
+    "repositoryUrl": "https://github.com/saimuelbr/saimuelrepo",
+    "url": "https://raw.githubusercontent.com/saimuelbr/saimuelrepo/main/builds/MegaFlix.cs3",
+    "fileSize": 0,
+    "language": "pt-br",
+    "iconUrl": "https://i.imgur.com/Y7gXItF.png",
+    "apiVersion": 1,
+    "description": "MegaFlix - HD e FHD.",
+    "tvTypes": [
+      "Movie",
+      "TvSeries"
+    ]
+  },
+  {
+    "status": 1,
+    "version": 1,
+    "internalName": "MeloMovie",
+    "authors": [
+      "Cloudburst"
+    ],
+    "repositoryUrl": "https://github.com/recloudstream/extensions",
+    "url": "https://raw.githubusercontent.com/recloudstream/extensions/builds/MeloMovieProvider.cs3",
+    "fileSize": 0,
+    "language": "en",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=melomovie.com&sz=%size%",
+    "apiVersion": 1,
+    "description": "Kuratiert aus cloudstream-extensions-master.tar.gz",
+    "tvTypes": [
+      "TvSeries",
+      "Movie"
+    ]
+  },
+  {
+    "status": 1,
+    "version": 3,
+    "internalName": "Microtv",
+    "authors": [
+      "Phisher98"
+    ],
+    "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
+    "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Microtv.cs3",
+    "fileSize": 0,
+    "language": "hi",
+    "iconUrl": "https://raw.githubusercontent.com/phisher98/TVVVV/refs/heads/main/Icons/MicroTV.png",
+    "apiVersion": 1,
+    "description": "Watch short vertical dramas & reels from multiple Indian short platforms",
+    "tvTypes": [
+      "Movie",
+      "TvSeries"
+    ]
+  },
+  {
+    "status": 1,
+    "version": 4,
+    "internalName": "Movie123",
+    "authors": [
+      "Horis"
+    ],
+    "repositoryUrl": "https://github.com/horis/cloudstream-extensions-horis",
+    "url": "https://raw.githubusercontent.com/horis/cloudstream-extensions-horis/builds/Movie123Provider.cs3",
+    "fileSize": 0,
+    "language": "en",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=ww1.new-movies123.co&sz=%size%",
+    "apiVersion": 1,
+    "description": "Kuratiert aus cloudstream-extensions-horis-master.tar.gz",
+    "tvTypes": [
+      "Movie",
+      "TvSeries"
+    ]
+  },
+  {
+    "status": 1,
+    "version": 5,
+    "internalName": "MovieBlast",
+    "authors": [
+      "Phisher98"
+    ],
+    "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
+    "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/MovieBlast.cs3",
+    "fileSize": 0,
+    "language": "te",
+    "iconUrl": "https://raw.githubusercontent.com/phisher98/TVVVV/refs/heads/main/Icons/movieblast.png",
+    "apiVersion": 1,
+    "description": "MovieBlast App",
+    "tvTypes": [
+      "Movie",
+      "TvSeries"
+    ]
+  },
+  {
+    "status": 1,
+    "version": 43,
+    "internalName": "MovieBox",
+    "authors": [
+      "AllForU"
+    ],
+    "repositoryUrl": "https://github.com/RVRBEAST76/allforu-repo",
+    "url": "https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/builds/MovieBox-v43.cs3",
+    "fileSize": 0,
+    "language": "en",
+    "iconUrl": "https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/main/moviebox.png",
+    "apiVersion": 1,
+    "description": "MovieBox - Movies, Series & Anime in Tamil, English, Hindi, Telugu, Malayalam & more",
+    "tvTypes": [
+      "Movie",
+      "TvSeries"
+    ]
+  },
+  {
+    "status": 1,
+    "version": 49,
+    "internalName": "MovieBoxProvider",
+    "authors": [
+      "NivinCNC"
+    ],
+    "repositoryUrl": "https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension",
+    "url": "https://raw.githubusercontent.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/builds/MovieBoxProvider.cs3",
+    "fileSize": 0,
+    "language": "ta",
+    "iconUrl": "https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/raw/refs/heads/master/Logos/MovieBoxProvider/icon.png",
+    "apiVersion": 1,
+    "description": "Multi Language Movies and Series Provider",
+    "tvTypes": [
+      "Movie",
+      "TvSeries"
+    ]
+  },
+  {
+    "status": 1,
+    "version": 51,
+    "internalName": "MovieBoxProviderIN",
+    "authors": [
+      "NivinCNC"
+    ],
+    "repositoryUrl": "https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension",
+    "url": "https://raw.githubusercontent.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/builds/MovieBoxProviderIN.cs3",
+    "fileSize": 0,
+    "language": "ta",
+    "iconUrl": "https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/raw/refs/heads/master/Logos/MovieBoxProviderIN/icon.png",
+    "apiVersion": 1,
+    "description": "Multi Language Movies and Series Provider (Local homepage based on region)",
+    "tvTypes": [
+      "Movie",
+      "TvSeries"
+    ]
+  },
+  {
+    "status": 1,
+    "version": 1,
+    "internalName": "Moviehab",
+    "authors": [
+      "Hexated"
+    ],
+    "repositoryUrl": "https://github.com/hexated/cloudstream-extensions-hexated",
+    "url": "https://raw.githubusercontent.com/hexated/cloudstream-extensions-hexated/builds/Moviehab.cs3",
+    "fileSize": 0,
+    "language": "tl",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=moviehab.com&sz=%size%",
+    "apiVersion": 1,
+    "description": "Kuratiert aus new-hexated-master.tar.gz",
+    "tvTypes": [
+      "TvSeries",
+      "Movie"
+    ]
+  },
+  {
+    "status": 1,
+    "version": 32,
+    "internalName": "Movierulzhd",
+    "authors": [
+      "Hexated"
+    ],
+    "repositoryUrl": "https://github.com/hexated/cloudstream-extensions-hexated",
+    "url": "https://raw.githubusercontent.com/hexated/cloudstream-extensions-hexated/builds/Movierulzhd.cs3",
+    "fileSize": 0,
+    "language": "hi",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=movierulzhd.best&sz=%size%",
+    "apiVersion": 1,
+    "description": "Kuratiert aus new-hexated-master.tar.gz",
+    "tvTypes": [
+      "TvSeries",
+      "Movie"
+    ]
+  },
+  {
+    "status": 1,
+    "version": 14,
+    "internalName": "Movies4u",
+    "authors": [
+      "Phisher98"
+    ],
+    "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
+    "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Movies4u.cs3",
+    "fileSize": 0,
+    "language": "hi",
+    "iconUrl": "https://raw.githubusercontent.com/phisher98/TVVVV/refs/heads/main/Icons/movies4u.png",
+    "apiVersion": 1,
+    "description": "Movies4u",
+    "tvTypes": [
+      "Movie",
+      "TvSeries"
+    ]
+  },
+  {
+    "status": 1,
+    "version": 1,
+    "internalName": "Name Of Website",
+    "authors": [
+      "Reflex1337"
+    ],
+    "repositoryUrl": "https://github.com/Reflex755/ReflexRepo",
+    "url": "https://raw.githubusercontent.com/Reflex755/ReflexRepo/builds/..cs3",
+    "fileSize": 0,
+    "language": "en",
+    "iconUrl": "",
+    "apiVersion": 1,
+    "description": "Kuratiert aus ReflexRepo-master.zip",
+    "tvTypes": [
+      "Others"
+    ]
+  },
+  {
+    "status": 1,
+    "version": 1,
+    "internalName": "Nebula",
+    "authors": [
+      "doGior"
+    ],
+    "repositoryUrl": "https://github.com/doGior/doGiorsHadEnough",
+    "url": "https://raw.githubusercontent.com/doGior/doGiorsHadEnough/builds/Nebula.cs3",
+    "fileSize": 0,
+    "language": "en",
+    "iconUrl": "https://nebula.tv/apple-touch-icon.png",
+    "apiVersion": 1,
+    "description": "Plugin to watch the free videos and ONLY THE FREE VIDEOS from nebula.tv",
+    "tvTypes": [
+      "Others"
+    ]
+  },
+  {
+    "status": 1,
+    "version": 101,
+    "internalName": "Netflix",
+    "authors": [
+      "AllForU"
+    ],
+    "repositoryUrl": "https://github.com/RVRBEAST76/allforu-repo",
+    "url": "https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/builds/Netflix-v101.cs3",
+    "fileSize": 0,
+    "language": "en",
+    "iconUrl": "https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/main/allforu-logo.jpg",
+    "apiVersion": 1,
+    "description": "Netflix - Movies & Series in Tamil, English, Hindi, Telugu, Malayalam & more",
+    "tvTypes": [
+      "Movie",
+      "TvSeries"
+    ]
+  },
+  {
+    "status": 1,
+    "version": 46,
+    "internalName": "Netmirror",
+    "authors": [
+      "Sushan64"
+    ],
+    "repositoryUrl": "https://github.com/Sushan64/NetMirror-Extension",
+    "url": "https://raw.githubusercontent.com/Sushan64/NetMirror-Extension/builds/Netmirror.cs3",
+    "fileSize": 0,
+    "language": "hi",
+    "iconUrl": "https://raw.githubusercontent.com/Sushan64/NetMirror-Extension/refs/heads/master/Netmirror/logo.jpeg",
+    "apiVersion": 1,
+    "description": "Netflix, PrimeVideo, Disney+ Hotstar Contents in Multiple Languages",
+    "tvTypes": [
+      "Movie",
+      "TvSeries"
+    ]
+  },
+  {
+    "status": 1,
+    "version": 9,
+    "internalName": "NOXX",
+    "authors": [
+      "LikDev-256"
+    ],
+    "repositoryUrl": "https://github.com/LikDev-256/likdev256-tamil-providers",
+    "url": "https://raw.githubusercontent.com/LikDev-256/likdev256-tamil-providers/builds/NOXXProvider.cs3",
+    "fileSize": 0,
+    "language": "en",
+    "iconUrl": "",
+    "apiVersion": 1,
+    "description": "HD TV Shows (Not all links are working because of a unsolvable issue)",
+    "tvTypes": [
+      "TvSeries"
+    ]
+  },
+  {
+    "status": 1,
+    "version": 8,
+    "internalName": "OK",
+    "authors": [
+      "ByAyzen"
+    ],
+    "repositoryUrl": "https://github.com/Kraptor123/Cs-Karma",
+    "url": "https://raw.githubusercontent.com/Kraptor123/Cs-Karma/builds/OK.cs3",
+    "fileSize": 0,
+    "language": "ru",
+    "iconUrl": "https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://ok.ru/video/c12842395&size=128",
+    "apiVersion": 1,
+    "description": "OKRU Videos.",
+    "tvTypes": [
+      "Movie",
+      "TvSeries"
+    ]
+  },
+  {
+    "status": 1,
+    "version": 8,
+    "internalName": "OKRu",
+    "authors": [
+      "ByAyzen"
+    ],
+    "repositoryUrl": "https://github.com/Kraptor123/Cs-Karma",
+    "url": "https://raw.githubusercontent.com/Kraptor123/Cs-Karma/builds/OK.cs3",
+    "fileSize": 0,
+    "language": "ru",
+    "iconUrl": "https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://ok.ru/video/c12842395&size=128",
+    "apiVersion": 1,
+    "description": "OKRU Videos.",
+    "tvTypes": [
+      "Movie",
+      "TvSeries"
+    ]
+  },
+  {
+    "status": 1,
+    "version": 1,
+    "internalName": "Online Movies Hindi",
+    "authors": [
+      "darkdemon"
+    ],
+    "repositoryUrl": "https://github.com/daarkdemon/cs-darkdemon-extensions",
+    "url": "https://raw.githubusercontent.com/daarkdemon/cs-darkdemon-extensions/builds/OnlineMoviesHinditProvider.cs3",
+    "fileSize": 0,
+    "language": "hi",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=111.90.159.132&sz=%size%",
+    "apiVersion": 1,
+    "description": "Kuratiert aus cs-darkdemon-extensions-master.zip",
+    "tvTypes": [
+      "TvSeries",
+      "Movie"
+    ]
+  },
+  {
+    "status": 1,
+    "version": 2,
+    "internalName": "OverFlix",
+    "authors": [
+      "saimuelbr"
+    ],
+    "repositoryUrl": "https://github.com/saimuelbr/saimuelrepo",
+    "url": "https://raw.githubusercontent.com/saimuelbr/saimuelrepo/main/builds/OverFlix.cs3",
+    "fileSize": 0,
+    "language": "pt-br",
+    "iconUrl": "https://overflix.me/assets/img/android-chrome-192x192.png",
+    "apiVersion": 1,
+    "description": "OverFlix - HD+ e FHD.",
+    "tvTypes": [
+      "Movie",
+      "TvSeries"
+    ]
+  },
+  {
+    "status": 1,
+    "version": 2,
+    "internalName": "Pahe",
+    "authors": [
+      "Horis"
+    ],
+    "repositoryUrl": "https://github.com/horis/cloudstream-extensions-horis",
+    "url": "https://raw.githubusercontent.com/horis/cloudstream-extensions-horis/builds/PaheProvider.cs3",
+    "fileSize": 0,
+    "language": "en",
+    "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://pahe.sbs&size=%size%",
+    "apiVersion": 1,
+    "description": "Kuratiert aus cloudstream-extensions-horis-master.tar.gz",
+    "tvTypes": [
+      "Movie",
+      "TvSeries"
+    ]
+  },
+  {
+    "status": 1,
+    "version": 2,
+    "internalName": "PeliculasFlix",
+    "authors": [
+      "Stormunblessed"
+    ],
+    "repositoryUrl": "https://github.com/Stormunblessed/storm-ext",
+    "url": "https://raw.githubusercontent.com/Stormunblessed/storm-ext/builds/PeliculasFlixProvider.cs3",
+    "fileSize": 0,
+    "language": "es",
+    "iconUrl": "https://peliculasflix.co/img/logo.png",
+    "apiVersion": 1,
+    "description": "Kuratiert aus storm-ext-master(1).zip",
+    "tvTypes": [
+      "Movie"
+    ]
+  },
+  {
+    "status": 1,
+    "version": 32,
+    "internalName": "PikashowProvider",
+    "authors": [
+      "NivinCNC"
+    ],
+    "repositoryUrl": "https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension",
+    "url": "https://raw.githubusercontent.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/builds/PikashowProvider.cs3",
+    "fileSize": 0,
+    "language": "ta",
+    "iconUrl": "https://raw.githubusercontent.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/refs/heads/master/Logos/PikashowProvider/logo.png",
+    "apiVersion": 1,
+    "description": "Stream movies and series from Pikashow",
+    "tvTypes": [
+      "Movie",
+      "TvSeries"
+    ]
+  },
+  {
+    "status": 1,
+    "version": 5,
+    "internalName": "Pinoymoviepedia",
+    "authors": [
+      "Phisher98"
+    ],
+    "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
+    "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Pinoymoviepedia.cs3",
+    "fileSize": 0,
+    "language": "fil",
+    "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://pinoymoviepedia.ru&size=16",
+    "apiVersion": 1,
+    "description": "Contains Bluray7",
+    "tvTypes": [
+      "Movie",
+      "TvSeries"
+    ]
+  },
+  {
+    "status": 1,
+    "version": 1,
+    "internalName": "PiousIndex",
+    "authors": [
+      "Horis"
+    ],
+    "repositoryUrl": "https://github.com/horis/cloudstream-extensions-horis",
+    "url": "https://raw.githubusercontent.com/horis/cloudstream-extensions-horis/builds/PiousIndexProvider.cs3",
+    "fileSize": 0,
+    "language": "en",
+    "iconUrl": "https://cdn.jsdelivr.net/npm/@googledrive/index@2.0.20/images/favicon.ico",
+    "apiVersion": 1,
+    "description": "Kuratiert aus cloudstream-extensions-horis-master.tar.gz",
+    "tvTypes": [
+      "Movie",
+      "TvSeries"
+    ]
+  },
+  {
+    "status": 1,
+    "version": 10,
+    "internalName": "PlayFyProvider",
+    "authors": [
+      "NivinCNC"
+    ],
+    "repositoryUrl": "https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension",
+    "url": "https://raw.githubusercontent.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/builds/PlayFyProvider.cs3",
+    "fileSize": 0,
+    "language": "ta",
+    "iconUrl": "https://raw.githubusercontent.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/refs/heads/master/Logos/PlayFyTvProvider/playfy-tv-4.webp",
+    "apiVersion": 1,
+    "description": "Watch Live sports and TV channels via PlayFy",
+    "tvTypes": [
+      "Live"
+    ]
+  },
+  {
+    "status": 1,
+    "version": 37,
+    "internalName": "PlayZTVProvider",
+    "authors": [
+      "NivinCNC"
+    ],
+    "repositoryUrl": "https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension",
+    "url": "https://raw.githubusercontent.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/builds/PlayZTVProvider.cs3",
+    "fileSize": 0,
+    "language": "ta",
+    "iconUrl": "https://raw.githubusercontent.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/refs/heads/master/Logos/PlayZTVProvider/logo.jpg",
+    "apiVersion": 1,
+    "description": "Watch Live TV channels & sports via PlayZTV",
+    "tvTypes": [
+      "Live"
+    ]
+  },
+  {
+    "status": 1,
+    "version": 6,
+    "internalName": "Pmsm",
+    "authors": [
+      "Phisher98,Duro92"
+    ],
+    "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
+    "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Pmsm.cs3",
+    "fileSize": 0,
+    "language": "id",
+    "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://ww192.pencurimoviesubmalay.motorcycles&size=%size%",
+    "apiVersion": 1,
+    "description": "PMSM (Pencuri Movie Sub Malay)",
+    "tvTypes": [
+      "Movie",
+      "TvSeries"
+    ]
+  },
+  {
+    "status": 1,
+    "version": 96,
+    "internalName": "PrimeVideo",
+    "authors": [
+      "AllForU"
+    ],
+    "repositoryUrl": "https://github.com/RVRBEAST76/allforu-repo",
+    "url": "https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/builds/PrimeVideo-v96.cs3",
+    "fileSize": 0,
+    "language": "en",
+    "iconUrl": "https://raw.githubusercontent.com/RVRBEAST76/allforu-repo/main/allforu-logo.jpg",
+    "apiVersion": 1,
+    "description": "Prime Video - Movies & Series in Tamil, English, Hindi, Telugu, Malayalam & more",
+    "tvTypes": [
+      "Movie",
+      "TvSeries"
+    ]
+  },
+  {
+    "status": 1,
+    "version": 1,
+    "internalName": "PrivateMoviez",
+    "authors": [
+      "LikDev-256"
+    ],
+    "repositoryUrl": "https://github.com/LikDev-256/likdev256-tamil-providers",
+    "url": "https://raw.githubusercontent.com/LikDev-256/likdev256-tamil-providers/builds/PrivateMoviezProvider.cs3",
+    "fileSize": 0,
+    "language": "ta",
+    "iconUrl": "https://raw.githubusercontent.com/LikDev-256/likdev256-tamil-providers/master/PrivateMoviezProvider/icon.png",
+    "apiVersion": 1,
+    "description": "Indian Multi-language 4k Provider",
+    "tvTypes": [
+      "Movie",
+      "TvSeries"
+    ]
+  },
+  {
+    "status": 1,
+    "version": 6,
+    "internalName": "Prmovies",
+    "authors": [
+      "darkdemon"
+    ],
+    "repositoryUrl": "https://github.com/daarkdemon/cs-darkdemon-extensions",
+    "url": "https://raw.githubusercontent.com/daarkdemon/cs-darkdemon-extensions/builds/PrmoviesProvider.cs3",
+    "fileSize": 0,
+    "language": "hi",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=prmovies.bio&sz=%size%",
+    "apiVersion": 1,
+    "description": "Kuratiert aus cs-darkdemon-extensions-master.zip",
+    "tvTypes": [
+      "TvSeries",
+      "Movie"
+    ]
+  },
+  {
+    "status": 1,
+    "version": 5,
+    "internalName": "PublicSportsIPTV",
+    "authors": [
+      "Phisher98"
+    ],
+    "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
+    "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/PublicSportsIPTV.cs3",
+    "fileSize": 0,
+    "language": "en",
+    "iconUrl": "https://www.thestatesman.com/wp-content/uploads/2021/05/fancode.jpg",
+    "apiVersion": 1,
+    "description": "Sports Live Streams (FanCode)",
+    "tvTypes": [
+      "Live"
+    ]
+  },
+  {
+    "status": 1,
+    "version": 8,
+    "internalName": "QuickIPTV",
+    "authors": [
+      "Phisher98"
+    ],
+    "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
+    "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/QuickIPTV.cs3",
+    "fileSize": 0,
+    "language": "en",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=%size%",
+    "apiVersion": 1,
+    "description": "Includes PirateIPTV,Sports IPTV,Japanese IPTV,Sony IPTV",
+    "tvTypes": [
+      "Live"
+    ]
+  },
+  {
+    "status": 1,
+    "version": 33,
+    "internalName": "RadioIndiaProvider",
+    "authors": [
+      "NivinCNC"
+    ],
+    "repositoryUrl": "https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension",
+    "url": "https://raw.githubusercontent.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/builds/RadioIndiaProvider.cs3",
+    "fileSize": 0,
+    "language": "ta",
+    "iconUrl": "https://cdn.mytuner.mobi/static/ctr/icons/App_192x192/in.png",
+    "apiVersion": 1,
+    "description": "Radio India Provider",
+    "tvTypes": [
+      "Live"
+    ]
+  },
+  {
+    "status": 1,
+    "version": 2,
+    "internalName": "RainoStreams",
+    "authors": [
+      "Horis"
+    ],
+    "repositoryUrl": "https://github.com/horis/cloudstream-extensions-horis",
+    "url": "https://raw.githubusercontent.com/horis/cloudstream-extensions-horis/builds/RainoStreamsProvider.cs3",
+    "fileSize": 0,
+    "language": "en",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=rainostreams.com&sz=%size%",
+    "apiVersion": 1,
+    "description": "Kuratiert aus cloudstream-extensions-horis-master.tar.gz",
+    "tvTypes": [
+      "Live"
+    ]
+  },
+  {
+    "status": 1,
+    "version": 3,
+    "internalName": "ReplayZone",
+    "authors": [
+      "raghav"
+    ],
+    "repositoryUrl": "https://github.com/KSHITIJ8473/raghav",
+    "url": "https://raw.githubusercontent.com/KSHITIJ8473/raghav/builds/ReplayZone.cs3",
+    "fileSize": 0,
+    "language": "en",
+    "iconUrl": "https://media.istockphoto.com/id/1321048723/vector/r-letter-in-the-circle-logo.jpg?s=612x612&w=0&k=20&c=S9TWFtRs2omUlxY2RsyUImNadAVyK3xLdMZJOxAfpSM=",
+    "apiVersion": 1,
+    "description": "Sports Replays — Football, Baseball, Rugby & Motorsport",
+    "tvTypes": [
+      "Live"
+    ]
+  },
+  {
+    "status": 1,
+    "version": 1,
+    "internalName": "Samehadaku",
+    "authors": [
+      "TeKuma25"
+    ],
+    "repositoryUrl": "https://github.com/TeKuma25/IndoStream",
+    "url": "https://raw.githubusercontent.com/TeKuma25/IndoStream/builds/..cs3",
+    "fileSize": 0,
+    "language": "id",
+    "iconUrl": "",
+    "apiVersion": 1,
+    "description": "Kuratiert aus ausgesondert/ohne_de_en_quellen/IndoStream-main.zip",
+    "tvTypes": [
+      "Others"
+    ]
+  },
+  {
+    "status": 3,
+    "version": 4,
+    "internalName": "SectionOrganizer",
+    "authors": [
+      "RowdyRushya, Phisher98, DieGon"
+    ],
+    "repositoryUrl": "https://github.com/DieGon7771/ItaliaInStreaming",
+    "url": "https://raw.githubusercontent.com/DieGon7771/ItaliaInStreaming/builds/SectionOrganizer.cs3",
+    "fileSize": 0,
+    "language": "en",
+    "iconUrl": "https://raw.githubusercontent.com/DieGon7771/ItaliaInStreaming/master/SectionOrganizer/SectionOrganizer_icon.png",
+    "apiVersion": 1,
+    "description": "Organizza homepage tra vari plugin",
+    "tvTypes": [
+      "Others"
+    ]
+  },
+  {
+    "status": 1,
+    "version": 23,
+    "internalName": "ShowFlix",
+    "authors": [
+      "LikDev-256"
+    ],
+    "repositoryUrl": "https://github.com/LikDev-256/likdev256-tamil-providers",
+    "url": "https://raw.githubusercontent.com/LikDev-256/likdev256-tamil-providers/builds/ShowFlixProvider.cs3",
+    "fileSize": 0,
+    "language": "ta",
+    "iconUrl": "https://raw.githubusercontent.com/LikDev-256/likdev256-tamil-providers/master/ShowFlixProvider/icon.png",
+    "apiVersion": 1,
+    "description": "HD Provider for all Indian Languages",
+    "tvTypes": [
+      "TvSeries",
+      "Movie"
+    ]
+  },
+  {
+    "status": 1,
+    "version": 1,
+    "internalName": "SkillShare",
+    "authors": [
+      "techtanic",
+      "Forthe"
+    ],
+    "repositoryUrl": "https://github.com/Adippe/SkillShare-Repo",
+    "url": "https://raw.githubusercontent.com/Adippe/SkillShare-Repo/builds/SkillShareProvider.cs3",
+    "fileSize": 0,
+    "language": "en",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=skillshare.com&sz=%size%",
+    "apiVersion": 1,
+    "description": "Watch Skillshare courses for free!",
+    "tvTypes": [
+      "Others"
+    ]
+  },
+  {
+    "status": 1,
+    "version": 54,
+    "internalName": "SKTechProvider",
+    "authors": [
+      "NivinCNC"
+    ],
+    "repositoryUrl": "https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension",
+    "url": "https://raw.githubusercontent.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/builds/SKTechProvider.cs3",
+    "fileSize": 0,
+    "language": "ta",
+    "iconUrl": "https://sktechtv.org/wp-content/uploads/2026/05/sktechtv.webp",
+    "apiVersion": 1,
+    "description": "Watch Live sports and TV channels via SK Tech",
+    "tvTypes": [
+      "Live"
+    ]
+  },
+  {
+    "status": 1,
+    "version": 1,
+    "internalName": "Soap2Day",
+    "authors": [
+      "Cloudburst"
+    ],
+    "repositoryUrl": "https://github.com/recloudstream/extensions",
+    "url": "https://raw.githubusercontent.com/recloudstream/extensions/builds/SoaptwoDayProvider.cs3",
+    "fileSize": 0,
+    "language": "en",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=secretlink.xyz&sz=%size%",
+    "apiVersion": 1,
+    "description": "Kuratiert aus cloudstream-extensions-master.tar.gz",
+    "tvTypes": [
+      "TvSeries",
+      "Movie"
+    ]
+  },
+  {
+    "status": 1,
+    "version": 2,
+    "internalName": "Sockshare",
+    "authors": [
+      "Horis"
+    ],
+    "repositoryUrl": "https://github.com/horis/cloudstream-extensions-horis",
+    "url": "https://raw.githubusercontent.com/horis/cloudstream-extensions-horis/builds/SockshareProvider.cs3",
+    "fileSize": 0,
+    "language": "en",
+    "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://sockshare.ac&size=%size%",
+    "apiVersion": 1,
+    "description": "Kuratiert aus cloudstream-extensions-horis-master.tar.gz",
+    "tvTypes": [
+      "TvSeries",
+      "Movie"
+    ]
+  },
+  {
+    "status": 1,
+    "version": 2,
+    "internalName": "SoraJioTV",
+    "authors": [
+      "darkdemon"
+    ],
+    "repositoryUrl": "https://github.com/daarkdemon/cs-darkdemon-extensions",
+    "url": "https://raw.githubusercontent.com/daarkdemon/cs-darkdemon-extensions/builds/SoraJioTVProvider.cs3",
+    "fileSize": 0,
+    "language": "hi",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=jiotv.com&sz=%size%",
+    "apiVersion": 1,
+    "description": "JioTV streams from different available sources",
+    "tvTypes": [
+      "Live"
+    ]
+  },
+  {
+    "status": 1,
+    "version": 21,
+    "internalName": "SportzxProvider",
+    "authors": [
+      "NivinCNC"
+    ],
+    "repositoryUrl": "https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension",
+    "url": "https://raw.githubusercontent.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/builds/SportzxProvider.cs3",
+    "fileSize": 0,
+    "language": "ta",
+    "iconUrl": "https://sportzxlive.com/wp-content/uploads/2026/04/cropped-logo-1-2048x1611-1-1024x806.png",
+    "apiVersion": 1,
+    "description": "Watch Live Sports Events via SportzX",
+    "tvTypes": [
+      "Live"
+    ]
+  },
+  {
+    "status": 1,
+    "version": 5,
+    "internalName": "StreamEast",
+    "authors": [
+      "RAGHAV"
+    ],
+    "repositoryUrl": "https://github.com/KSHITIJ8473/raghav",
+    "url": "https://raw.githubusercontent.com/KSHITIJ8473/raghav/builds/StreamEast.cs3",
+    "fileSize": 0,
+    "language": "en",
+    "iconUrl": "https://d3e6ckxkrs5ntg.cloudfront.net/artists/images/8639152/original/crop:x0y0w500h500/hash:1698153106/a.jpg?1698153106",
+    "apiVersion": 1,
+    "description": "StreamEast Sports(REQUIRES CLOUDFLARE DNS)",
+    "tvTypes": [
+      "Live"
+    ]
+  },
+  {
+    "status": 1,
+    "version": 29,
+    "internalName": "Streamed",
+    "authors": [
+      "kraptor"
+    ],
+    "repositoryUrl": "https://github.com/Kraptor123/Cs-Karma",
+    "url": "https://raw.githubusercontent.com/Kraptor123/Cs-Karma/builds/Streamed.cs3",
+    "fileSize": 0,
+    "language": "en",
+    "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://streamed.pk/&size=128",
+    "apiVersion": 1,
+    "description": "Streamed ile Canlı Spor Yayınlarını İzleyebilirsiniz.",
+    "tvTypes": [
+      "Live"
+    ]
+  },
+  {
+    "status": 1,
+    "version": 2,
+    "internalName": "Streamed Sports",
+    "authors": [
+      "redblacker8"
+    ],
+    "repositoryUrl": "https://github.com/Stormunblessed/storm-ext",
+    "url": "https://raw.githubusercontent.com/Stormunblessed/storm-ext/builds/StreamedProvider.cs3",
+    "fileSize": 0,
+    "language": "en",
+    "iconUrl": "https://streamed.pk/favicon.png",
+    "apiVersion": 1,
+    "description": "Multilang live sports",
+    "tvTypes": [
+      "Live"
+    ]
+  },
+  {
+    "status": 1,
+    "version": 10,
+    "internalName": "StreamedPk",
+    "authors": [
+      "RAGHAV"
+    ],
+    "repositoryUrl": "https://github.com/KSHITIJ8473/raghav",
+    "url": "https://raw.githubusercontent.com/KSHITIJ8473/raghav/builds/StreamedPk.cs3",
+    "fileSize": 0,
+    "language": "en",
+    "iconUrl": "https://streamed.pk/favicon.png",
+    "apiVersion": 1,
+    "description": "ALL LIVE SPORTS WITH MULTIPLE SERVER",
+    "tvTypes": [
+      "Live"
+    ]
+  },
+  {
+    "status": 1,
+    "version": 2,
+    "internalName": "Stremio example",
+    "authors": [
+      "Cloudburst"
+    ],
+    "repositoryUrl": "https://github.com/recloudstream/extensions",
+    "url": "https://raw.githubusercontent.com/recloudstream/extensions/builds/StremioProvider.cs3",
+    "fileSize": 0,
+    "language": "en",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=www.stremio.com&sz=%size%",
+    "apiVersion": 1,
+    "description": "Allows you to use stremio addons. Requires setup. (Torrents and old api does not work)",
+    "tvTypes": [
+      "Others"
+    ]
+  },
+  {
+    "status": 1,
+    "version": 15,
+    "internalName": "StremioAddon",
+    "authors": [
+      "Hexated,phisher98,erynith"
+    ],
+    "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
+    "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/StremioAddon.cs3",
+    "fileSize": 0,
+    "language": "en",
+    "iconUrl": "https://files.catbox.moe/ol63rm.png",
+    "apiVersion": 1,
+    "description": "[!] Requires Setup \n- Allows you to use any Stremio addon by pasting their manifest.json url",
+    "tvTypes": [
+      "TvSeries",
+      "Movie",
+      "Torrent"
+    ]
+  },
+  {
+    "status": 1,
+    "version": 26,
+    "internalName": "StremioX",
+    "authors": [
+      "Hexated,phisher98"
+    ],
+    "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
+    "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/StremioX.cs3",
+    "fileSize": 0,
+    "language": "en",
+    "iconUrl": "https://raw.githubusercontent.com/hexated/cloudstream-extensions-hexated/master/StremioX/icon.png",
+    "apiVersion": 1,
+    "description": "[!] Requires Setup \n- StremioX allows you to use stream addons \n- StremioC allows you to use catalog addons",
+    "tvTypes": [
+      "TvSeries",
+      "Movie"
+    ]
+  },
+  {
+    "status": 1,
+    "version": 16,
+    "internalName": "SubscriptionManager",
+    "authors": [
+      "NivinCNC"
+    ],
+    "repositoryUrl": "https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension",
+    "url": "https://raw.githubusercontent.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/builds/SubscriptionManager.cs3",
+    "fileSize": 0,
+    "language": "en",
+    "iconUrl": "https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/raw/refs/heads/master/Logos/CNC%20Verse/icon.png",
+    "apiVersion": 1,
+    "description": "Manage your CNCVerse subscription — remove ads with a premium plan",
+    "tvTypes": [
+      "Movie",
+      "TvSeries"
+    ]
+  },
+  {
+    "status": 3,
+    "version": 11,
+    "internalName": "SyncStream",
+    "authors": [
+      "DieGon"
+    ],
+    "repositoryUrl": "https://github.com/DieGon7771/ItaliaInStreaming",
+    "url": "https://raw.githubusercontent.com/DieGon7771/ItaliaInStreaming/builds/SyncStream.cs3",
+    "fileSize": 0,
+    "language": "en",
+    "iconUrl": "https://raw.githubusercontent.com/DieGon7771/ItaliaInStreaming/master/SyncStream/SyncStream_icon.png",
+    "apiVersion": 1,
+    "description": "Sincronizza Cloudstream tra dispositivi",
+    "tvTypes": [
+      "Others"
+    ]
+  },
+  {
+    "status": 1,
+    "version": 10,
+    "internalName": "Tamilblasters",
+    "authors": [
+      "rockhero1234,phisher98"
+    ],
+    "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
+    "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Tamilblasters.cs3",
+    "fileSize": 0,
+    "language": "ta",
+    "iconUrl": "https://i.postimg.cc/FRwFFtyT/logo.png",
+    "apiVersion": 1,
+    "description": "Movies & Series",
+    "tvTypes": [
+      "Movie",
+      "TvSeries"
+    ]
+  },
+  {
+    "status": 1,
+    "version": 40,
+    "internalName": "TamilUltraProvider",
+    "authors": [
+      "NivinCNC"
+    ],
+    "repositoryUrl": "https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension",
+    "url": "https://raw.githubusercontent.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/builds/TamilUltraProvider.cs3",
+    "fileSize": 0,
+    "language": "ta",
+    "iconUrl": "https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/raw/refs/heads/master/Logos/TamilUltraProvider/icon.png",
+    "apiVersion": 1,
+    "description": "Indian Live TV Provider",
+    "tvTypes": [
+      "Live"
+    ]
+  },
+  {
+    "status": 1,
+    "version": 1,
+    "internalName": "TeluguFlix",
+    "authors": [],
+    "repositoryUrl": "https://github.com/LikDev-256/likdev256-tamil-providers",
+    "url": "https://raw.githubusercontent.com/LikDev-256/likdev256-tamil-providers/builds/..cs3",
+    "fileSize": 0,
+    "language": "te",
+    "iconUrl": "",
+    "apiVersion": 1,
+    "description": "Kuratiert aus ausgesondert/duplikate/likdev256-tamil-providers-master(1).tar.gz",
+    "tvTypes": [
+      "Others"
+    ]
+  },
+  {
+    "status": 1,
+    "version": 16,
+    "internalName": "TheMoviesFlix",
+    "authors": [
+      "raghav"
+    ],
+    "repositoryUrl": "https://github.com/KSHITIJ8473/raghav",
+    "url": "https://raw.githubusercontent.com/KSHITIJ8473/raghav/builds/TheMoviesFlix.cs3",
+    "fileSize": 0,
+    "language": "en",
+    "iconUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSj_C9WX4AwepepLyw_cF-EIJeRpqgI4wDiquYSoP9xDFFAKFtTVM-P_zo&s=10",
+    "apiVersion": 1,
+    "description": "stream movies & TV series HINDI,ENGLISH - TheMoviesFlix Provider",
+    "tvTypes": [
+      "Movie",
+      "TvSeries"
+    ]
+  },
+  {
+    "status": 1,
+    "version": 14,
+    "internalName": "Time4tv",
+    "authors": [
+      "Hexated"
+    ],
+    "repositoryUrl": "https://github.com/hexated/cloudstream-extensions-hexated",
+    "url": "https://raw.githubusercontent.com/hexated/cloudstream-extensions-hexated/builds/TimefourTv.cs3",
+    "fileSize": 0,
+    "language": "en",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=time4tv.stream&sz=%size%",
+    "apiVersion": 1,
+    "description": "Sport Live Stream",
+    "tvTypes": [
+      "Live"
+    ]
+  },
+  {
+    "status": 1,
+    "version": 7,
+    "internalName": "TimStreams",
+    "authors": [
+      "raghav"
+    ],
+    "repositoryUrl": "https://github.com/KSHITIJ8473/raghav",
+    "url": "https://raw.githubusercontent.com/KSHITIJ8473/raghav/builds/TimStreams.cs3",
+    "fileSize": 0,
+    "language": "en",
+    "iconUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEcz-sR5DKHHDqsTKkQ08izA6E8HqZQnbWiTqJL3XjO-eLoixqbHx47INk&s=10",
+    "apiVersion": 1,
+    "description": "Live Sports Events and some Live TV Channels from TimStreams",
+    "tvTypes": [
+      "Live"
+    ]
+  },
+  {
+    "status": 1,
+    "version": 1,
+    "internalName": "TioAnime",
+    "authors": [
+      "Stormunblessed"
+    ],
+    "repositoryUrl": "https://github.com/Stormunblessed/storm-ext",
+    "url": "https://raw.githubusercontent.com/Stormunblessed/storm-ext/builds/..cs3",
+    "fileSize": 0,
+    "language": "es",
+    "iconUrl": "",
+    "apiVersion": 1,
+    "description": "Kuratiert aus storm-ext-master.zip",
+    "tvTypes": [
+      "Others"
+    ]
+  },
+  {
+    "status": 1,
+    "version": 1,
+    "internalName": "Topdocumentaryfilms",
+    "authors": [
+      "Hexated"
+    ],
+    "repositoryUrl": "https://github.com/hexated/cloudstream-extensions-hexated",
+    "url": "https://raw.githubusercontent.com/hexated/cloudstream-extensions-hexated/builds/Topdocumentaryfilms.cs3",
+    "fileSize": 0,
+    "language": "en",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=topdocumentaryfilms.com&sz=%size%",
+    "apiVersion": 1,
+    "description": "Kuratiert aus new-hexated-master.tar.gz",
+    "tvTypes": [
+      "Documentary"
+    ]
+  },
+  {
+    "status": 1,
+    "version": 2,
+    "internalName": "TopFilmes",
+    "authors": [
+      "saimuelbr"
+    ],
+    "repositoryUrl": "https://github.com/saimuelbr/saimuelrepo",
+    "url": "https://raw.githubusercontent.com/saimuelbr/saimuelrepo/main/builds/TopFilmes.cs3",
+    "fileSize": 0,
+    "language": "pt-br",
+    "iconUrl": "https://www.topfilmes.biz/assets/theme/red/favicon/favicon-128.png",
+    "apiVersion": 2,
+    "description": "TopFilmes - SD e HD.",
+    "tvTypes": [
+      "Movie",
+      "TvSeries"
+    ]
+  },
+  {
+    "status": 1,
+    "version": 9,
+    "internalName": "Torrentio",
+    "authors": [
+      "doGior",
+      "DieGon"
+    ],
+    "repositoryUrl": "https://github.com/DieGon7771/ItaliaInStreaming",
+    "url": "https://raw.githubusercontent.com/DieGon7771/ItaliaInStreaming/builds/Torrentio.cs3",
+    "fileSize": 0,
+    "language": "it",
+    "iconUrl": "https://torrentio.strem.fun/images/logo_v1.png",
+    "apiVersion": 1,
+    "description": "Torrent da Torrentio",
+    "tvTypes": [
+      "Movie",
+      "TvSeries",
+      "Torrent",
+      "Documentary"
+    ]
+  },
+  {
+    "status": 1,
+    "version": 5,
+    "internalName": "TV",
+    "authors": [
+      "DieGon"
+    ],
+    "repositoryUrl": "https://github.com/DieGon7771/ItaliaInStreaming",
+    "url": "https://raw.githubusercontent.com/DieGon7771/ItaliaInStreaming/builds/TV.cs3",
+    "fileSize": 0,
+    "language": "en",
+    "iconUrl": "https://raw.githubusercontent.com/doGior/doGiorsHadEnough/refs/heads/master/TV/television.png",
+    "apiVersion": 1,
+    "description": "TV live da TV github repository",
+    "tvTypes": [
+      "Live"
+    ]
+  },
+  {
+    "status": 1,
+    "version": 2,
+    "internalName": "Tv247",
+    "authors": [
+      "Hexated"
+    ],
+    "repositoryUrl": "https://github.com/hexated/cloudstream-extensions-hexated",
+    "url": "https://raw.githubusercontent.com/hexated/cloudstream-extensions-hexated/builds/Tvtwofourseven.cs3",
+    "fileSize": 0,
+    "language": "en",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=tv247.us&sz=%size%",
+    "apiVersion": 1,
+    "description": "Kuratiert aus new-hexated-master.tar.gz",
+    "tvTypes": [
+      "Live"
+    ]
+  },
+  {
+    "status": 1,
+    "version": 11,
+    "internalName": "TVGarden",
+    "authors": [
+      "ByAyzen"
+    ],
+    "repositoryUrl": "https://github.com/Kraptor123/Cs-Karma",
+    "url": "https://raw.githubusercontent.com/Kraptor123/Cs-Karma/builds/TVGarden.cs3",
+    "fileSize": 0,
+    "language": "en",
+    "iconUrl": "https://favicons.teamtailor-cdn.com/icon?size=80..120..200&url=tv.garden",
+    "apiVersion": 1,
+    "description": "With TVGarden, you can watch the local and legal channels you are looking for from both domestic and international sources.",
+    "tvTypes": [
+      "Live"
+    ]
+  },
+  {
+    "status": 1,
+    "version": 2,
+    "internalName": "TwitchProvider",
+    "authors": [
+      "CranberrySoup"
+    ],
+    "repositoryUrl": "https://github.com/recloudstream/extensions",
+    "url": "https://raw.githubusercontent.com/recloudstream/extensions/builds/TwitchProvider.cs3",
+    "fileSize": 0,
+    "language": "en",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=twitch.tv&sz=%size%",
+    "apiVersion": 1,
+    "description": "Watch livestreams from Twitch",
+    "tvTypes": [
+      "Live"
+    ]
+  },
+  {
+    "status": 1,
+    "version": 40,
+    "internalName": "UHDmoviesProvider",
+    "authors": [
+      "Phisher98"
+    ],
+    "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
+    "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/UHDmoviesProvider.cs3",
+    "fileSize": 0,
+    "language": "en",
+    "iconUrl": "https://raw.githubusercontent.com/LikDev-256/likdev256-tamil-providers/master/UHDmoviesProvider/icon.png",
+    "apiVersion": 1,
+    "description": "Indian Multi-language 4K Provider",
+    "tvTypes": [
+      "Movie",
+      "TvSeries"
+    ]
+  },
+  {
+    "status": 2,
+    "version": 61,
+    "internalName": "Ultima",
+    "authors": [
+      "RowdyRushya,Phisher98"
+    ],
+    "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
+    "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Ultima.cs3",
+    "fileSize": 0,
+    "language": "en",
+    "iconUrl": "https://raw.githubusercontent.com/phisher98/TVVVV/refs/heads/main/Icons/Ultima.jpg",
+    "apiVersion": 1,
+    "description": "The ultimate All-in-One home screen to access all of your extensions at one place (You need to select/deselect sections in Ultima's settings to load other extensions on home screen)",
+    "tvTypes": [
+      "Others"
+    ]
+  },
+  {
+    "status": 1,
+    "version": 4,
+    "internalName": "UltraCine",
+    "authors": [
+      "saimuelbr"
+    ],
+    "repositoryUrl": "https://github.com/saimuelbr/saimuelrepo",
+    "url": "https://raw.githubusercontent.com/saimuelbr/saimuelrepo/main/builds/UltraCine.cs3",
+    "fileSize": 0,
+    "language": "pt-br",
+    "iconUrl": "https://ultracine.org/wp-content/uploads/2024/07/cropped-favicon-300x300.png",
+    "apiVersion": 1,
+    "description": "UltraCine - FHD.",
+    "tvTypes": [
+      "Movie",
+      "TvSeries"
+    ]
+  },
+  {
+    "status": 1,
+    "version": 2,
+    "internalName": "Useetv",
+    "authors": [
+      "Hexated"
+    ],
+    "repositoryUrl": "https://github.com/hexated/cloudstream-extensions-hexated",
+    "url": "https://raw.githubusercontent.com/hexated/cloudstream-extensions-hexated/builds/UseeTv.cs3",
+    "fileSize": 0,
+    "language": "id",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=useetv.com&sz=%size%",
+    "apiVersion": 1,
+    "description": "Kuratiert aus new-hexated-master.tar.gz",
+    "tvTypes": [
+      "Live"
+    ]
+  },
+  {
+    "status": 1,
+    "version": 1,
+    "internalName": "UWatchFree",
+    "authors": [],
+    "repositoryUrl": "https://github.com/daarkdemon/cs-darkdemon-extensions",
+    "url": "https://raw.githubusercontent.com/daarkdemon/cs-darkdemon-extensions/builds/..cs3",
+    "fileSize": 0,
+    "language": "hi",
+    "iconUrl": "",
+    "apiVersion": 1,
+    "description": "Kuratiert aus cs-darkdemon-extensions-master.zip",
+    "tvTypes": [
+      "Others"
+    ]
+  },
+  {
+    "status": 1,
+    "version": 7,
+    "internalName": "Vavoo",
+    "authors": [
+      "doGior"
+    ],
+    "repositoryUrl": "https://github.com/doGior/doGiorsHadEnough",
+    "url": "https://raw.githubusercontent.com/doGior/doGiorsHadEnough/builds/Vavoo.cs3",
+    "fileSize": 0,
+    "language": "en",
+    "iconUrl": "https://vavoo.tv/favicon.ico",
+    "apiVersion": 1,
+    "description": "⚠️ W.I.P. ⚠️ TV channels from vavoo.to",
+    "tvTypes": [
+      "Live"
+    ]
+  },
+  {
+    "status": 1,
+    "version": 8,
+    "internalName": "Vegamovies",
+    "authors": [
+      "Indflix"
+    ],
+    "repositoryUrl": "https://github.com/dipender98/Indflix",
+    "url": "https://raw.githubusercontent.com/dipender98/Indflix/builds/Vegamovies.cs3",
+    "fileSize": 0,
+    "language": "hi",
+    "iconUrl": "https://raw.githubusercontent.com/dipender98/Indflix/main/Vegamovies/icon.png",
+    "apiVersion": 1,
+    "description": "CloudStream provider that scrapes Vegamovies (Hollywood + Bollywood) with TMDB metadata and live-fill download servers.",
+    "tvTypes": [
+      "Movie",
+      "TvSeries"
+    ]
+  },
+  {
+    "status": 1,
+    "version": 34,
+    "internalName": "Watch32",
+    "authors": [
+      "NivinCNC"
+    ],
+    "repositoryUrl": "https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension",
+    "url": "https://raw.githubusercontent.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/builds/Watch32.cs3",
+    "fileSize": 0,
+    "language": "en",
+    "iconUrl": "https://editorialge.com/wp-content/uploads/2023/07/Watch32..jpg",
+    "apiVersion": 1,
+    "description": "Watch32 is a Free Movies streaming site with over 10000 movies and TV-Series.",
+    "tvTypes": [
+      "Movie",
+      "TvSeries"
+    ]
+  },
+  {
+    "status": 3,
+    "version": 3,
+    "internalName": "WatchParty",
+    "authors": [
+      "DieGon"
+    ],
+    "repositoryUrl": "https://github.com/DieGon7771/ItaliaInStreaming",
+    "url": "https://raw.githubusercontent.com/DieGon7771/ItaliaInStreaming/builds/WatchParty.cs3",
+    "fileSize": 0,
+    "language": "en",
+    "iconUrl": "https://raw.githubusercontent.com/DieGon7771/ItaliaInStreaming/master/WatchParty/WatchParty_icon.png",
+    "apiVersion": 1,
+    "description": "⚠️ BETA ⚠️ Watch movies and TV series together in real-time with live chat (Up to 5 users).",
+    "tvTypes": [
+      "Others"
+    ]
+  },
+  {
+    "status": 1,
+    "version": 18,
+    "internalName": "WatchWrestling",
+    "authors": [
+      "kraptor"
+    ],
+    "repositoryUrl": "https://github.com/Kraptor123/Cs-Karma",
+    "url": "https://raw.githubusercontent.com/Kraptor123/Cs-Karma/builds/WatchWrestling.cs3",
+    "fileSize": 0,
+    "language": "en",
+    "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://instapro.ac&size=32",
+    "apiVersion": 1,
+    "description": "Watch WWE | WWE Raw | Smackdown Live",
+    "tvTypes": [
+      "Live"
+    ]
+  },
+  {
+    "status": 1,
+    "version": 4,
+    "internalName": "Xtream IPTV (Live)",
+    "authors": [
+      "KingLucius"
+    ],
+    "repositoryUrl": "https://github.com/KingLucius/cs-extensions",
+    "url": "https://raw.githubusercontent.com/KingLucius/cs-extensions/builds/XtreamIPTV.cs3",
+    "fileSize": 0,
+    "language": "en",
+    "iconUrl": "https://raw.githubusercontent.com/KingLucius/cs-extensions/master/XtreamIPTV/icon.jpg",
+    "apiVersion": 1,
+    "description": "Xtream IPTV Live categories, use \\",
+    "tvTypes": [
+      "Live"
+    ]
+  },
+  {
+    "status": 1,
+    "version": 4,
+    "internalName": "XtreamIPTV",
+    "authors": [
+      "KingLucius"
+    ],
+    "repositoryUrl": "https://github.com/KingLucius/cs-extensions",
+    "url": "https://raw.githubusercontent.com/KingLucius/cs-extensions/builds/XtreamIPTV.cs3",
+    "fileSize": 0,
+    "language": "en",
+    "iconUrl": "https://raw.githubusercontent.com/KingLucius/cs-extensions/master/XtreamIPTV/icon.jpg",
+    "apiVersion": 1,
+    "description": "Xtream IPTV Live categories, use \"Clone site\" feature and add settings as url,user,pass to pass server details.",
+    "tvTypes": [
+      "Live"
+    ]
+  },
+  {
+    "status": 1,
+    "version": 13,
+    "internalName": "Yomovies",
+    "authors": [
+      "Hexated"
+    ],
+    "repositoryUrl": "https://github.com/hexated/cloudstream-extensions-hexated",
+    "url": "https://raw.githubusercontent.com/hexated/cloudstream-extensions-hexated/builds/YomoviesProvider.cs3",
+    "fileSize": 0,
+    "language": "hi",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=yomovies.rest&sz=%size%",
+    "apiVersion": 1,
+    "description": "Kuratiert aus new-hexated-master.tar.gz",
+    "tvTypes": [
+      "TvSeries",
+      "Movie"
+    ]
+  },
+  {
+    "status": 1,
+    "version": 4,
+    "internalName": "YoTurkish",
+    "authors": [
+      "kraptor"
+    ],
+    "repositoryUrl": "https://github.com/Kraptor123/Cs-Karma",
+    "url": "https://raw.githubusercontent.com/Kraptor123/Cs-Karma/builds/YoTurkish.cs3",
+    "fileSize": 0,
+    "language": "en",
+    "iconUrl": "https://www.google.com/s2/favicons?sz=64&domain=yoturkish.to",
+    "apiVersion": 1,
+    "description": "YoTurkish - is the most favorite website for watching turkish series with english subtitles for free online, only at yoturkish.to",
+    "tvTypes": [
+      "TvSeries"
+    ]
+  },
+  {
+    "status": 1,
+    "version": 15,
+    "internalName": "YouTube",
+    "authors": [
+      "doGior"
+    ],
+    "repositoryUrl": "https://github.com/doGior/doGiorsHadEnough",
+    "url": "https://raw.githubusercontent.com/doGior/doGiorsHadEnough/builds/YouTube.cs3",
+    "fileSize": 0,
+    "language": "en",
+    "iconUrl": "https://www.youtube.com/s/desktop/711fd789/img/logos/favicon_144x144.png",
+    "apiVersion": 1,
+    "description": "Videos, playlists and channels from YouTube",
+    "tvTypes": [
+      "Others"
+    ]
+  },
+  {
+    "status": 1,
+    "version": 12,
+    "internalName": "YouTube Channels",
+    "authors": [
+      "doGior"
+    ],
+    "repositoryUrl": "https://github.com/DieGon7771/ItaliaInStreaming",
+    "url": "https://raw.githubusercontent.com/DieGon7771/ItaliaInStreaming/builds/YouTube.cs3",
+    "fileSize": 0,
+    "language": "en",
+    "iconUrl": "https://www.youtube.com/s/desktop/711fd789/img/logos/favicon_144x144.png",
+    "apiVersion": 1,
+    "description": "Videos, playlists and channels from YouTube",
+    "tvTypes": [
+      "Others"
+    ]
+  },
+  {
+    "status": 1,
+    "version": 1,
+    "internalName": "YoutubeProvider",
+    "authors": [
+      "KaifTaufiq"
+    ],
+    "repositoryUrl": "https://github.com/recloudstream/extensions",
+    "url": "https://raw.githubusercontent.com/recloudstream/extensions/builds/YoutubeProvider.cs3",
+    "fileSize": 0,
+    "language": "en",
+    "iconUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/3840px-YouTube_full-color_icon_%282017%29.svg.png",
+    "apiVersion": 1,
+    "description": "Watch Youtube in Cloudstream",
+    "tvTypes": [
+      "Live",
+      "TvSeries"
+    ]
+  },
+  {
+    "status": 1,
+    "version": 11,
+    "internalName": "YTS",
+    "authors": [
+      "Phisher98"
+    ],
+    "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
+    "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/YTS.cs3",
+    "fileSize": 0,
+    "language": "en",
+    "iconUrl": "https://raw.githubusercontent.com/phisher98/TVVVV/refs/heads/main/Icons/yts.png",
+    "apiVersion": 1,
+    "description": "YTS Movies 4K Support (Torrent)",
+    "tvTypes": [
+      "Movie",
+      "Torrent"
+    ]
+  }
+]

@@ -1,0 +1,9 @@
+{
+  "name": "Curated DE/EN – ENG",
+  "description": "Einzelkategorie der kuratierten CloudStream-Quellen (eng)",
+  "manifestVersion": 1,
+  "iconUrl": "https://raw.githubusercontent.com/DevMonkeyOps/GerCS4ALL/main/icons/repo.svg",
+  "pluginLists": [
+    "https://raw.githubusercontent.com/DevMonkeyOps/GerCS4ALL/main/lists/eng.json"
+  ]
+}

@@ -1,0 +1,1 @@
+Lokale .cs3-Spiegel konnten nicht erzeugt werden, weil das ausschließlich erlaubte Web-Werkzeug Binärdateien mit application/octet-stream nicht abrufen kann. Die Liste nutzt die jeweiligen Upstream-URLs.

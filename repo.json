@@ -1,0 +1,12 @@
+{
+  "name": "GerCS4ALL",
+  "description": "Kuratierte deutsche und englische Quellen — Anime, Hentai, Film, Serie, Sport",
+  "manifestVersion": 1,
+  "iconUrl": "https://raw.githubusercontent.com/DevMonkeyOps/GerCS4ALL/main/icons/repo.svg",
+  "pluginLists": [
+    "https://raw.githubusercontent.com/DevMonkeyOps/GerCS4ALL/main/lists/anime.json",
+    "https://raw.githubusercontent.com/DevMonkeyOps/GerCS4ALL/main/lists/hentai.json",
+    "https://raw.githubusercontent.com/DevMonkeyOps/GerCS4ALL/main/lists/ger.json",
+    "https://raw.githubusercontent.com/DevMonkeyOps/GerCS4ALL/main/lists/eng.json"
+  ]
+}
