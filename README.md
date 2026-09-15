@@ -1,27 +1,28 @@
 # GerCS4ALL – kuratierte CloudStream-Quellen
 
-Ein GitHub-Repository, mehrere unabhängig einbindbare CloudStream-Profile für DE, EN, Anime, Sport und NSFW.
+Ein GitHub-Repository mit mehreren unabhängig einbindbaren CloudStream-Profilen für DE, EN, Anime, Sport und NSFW. Defekte Quellen und identische Installer-Duplikate werden nicht als separate Erweiterungen veröffentlicht.
 
 ## Inhaltsverzeichnis
 
 - [Einbindung](#einbindung)
 - [Profile](#profile)
+- [Lokale, gepflegte Erweiterungen](#lokale-gepflegte-erweiterungen)
 - [Sprach- und Sportfilter](#sprach--und-sportfilter)
 - [Pflege](#pflege)
 
 ## Einbindung
 
-Die vollständige Quelle (Profil 1, einschließlich der bisherigen Anime-, Hentai-, DE- und EN-Listen):
+Die vollständige Quelle (Profil 1, einschließlich Anime, Hentai/NSFW, DE und EN):
 
 `https://raw.githubusercontent.com/DevMonkeyOps/GerCS4ALL/main/repo.json`
 
-Für ein gezieltes Profil die jeweilige Adresse aus der folgenden Tabelle in CloudStream einfügen. Alle Profile liegen im selben GitHub-Repository und können parallel hinzugefügt werden.
+Für ein gezieltes Profil die passende Adresse aus der Tabelle in CloudStream einfügen. Alle Profile liegen im selben GitHub-Repository und können parallel eingebunden werden.
 
 ## Profile
 
 | Nr. | Inhalt | CloudStream-URL |
 | --- | --- | --- |
-| 1 | Komplett wie bisher: DE, EN, Anime und Hentai/NSFW | `https://raw.githubusercontent.com/DevMonkeyOps/GerCS4ALL/main/repo.json` |
+| 1 | Komplett: DE, EN, Anime und Hentai/NSFW | `https://raw.githubusercontent.com/DevMonkeyOps/GerCS4ALL/main/repo.json` |
 | 2 | Filme/Serien DE + Sport multilingual ohne Asien + Anime DE | `https://raw.githubusercontent.com/DevMonkeyOps/GerCS4ALL/main/profiles/02-de-sport-anime-de/repo.json` |
 | 3 | Filme/Serien EN + Sport multilingual ohne Asien + Anime EN | `https://raw.githubusercontent.com/DevMonkeyOps/GerCS4ALL/main/profiles/03-en-sport-anime-en/repo.json` |
 | 4 | Filme/Serien DE + Sport multilingual ohne Asien + Anime DE/EN | `https://raw.githubusercontent.com/DevMonkeyOps/GerCS4ALL/main/profiles/04-de-sport-anime-de-en/repo.json` |
@@ -33,22 +34,39 @@ Für ein gezieltes Profil die jeweilige Adresse aus der folgenden Tabelle in Clo
 | 10 | Filme/Serien DE/EN + Sport multilingual ohne Asien + Anime DE/EN | `https://raw.githubusercontent.com/DevMonkeyOps/GerCS4ALL/main/profiles/10-de-en-sport-anime-de-en/repo.json` |
 | Zusatz | Nur Hentai/NSFW | `https://raw.githubusercontent.com/DevMonkeyOps/GerCS4ALL/main/single-repos/hentai/repo.json` |
 
-Die bereits vorhandenen Einzelkategorien bleiben zusätzlich unter `single-repos/<kategorie>/repo.json` erreichbar, etwa für Anime oder Hentai/NSFW.
+Die Einzelkategorien bleiben außerdem unter `single-repos/<kategorie>/repo.json` erreichbar.
+
+## Lokale, gepflegte Erweiterungen
+
+`GerCS4ALLAnime` registriert ausschließlich Anime-Quellen und ist nur als `Anime`, `AnimeMovie` und `OVA` markiert. Deshalb erscheint es nicht in Film- oder Serienfiltern.
+
+`GerCS4ALLSerienStream` registriert nur Serien. In den Plugin-Einstellungen stehen `serienstream.to`, `serienstream.cx` und die HTTP-Direkt-IP `186.2.175.5` zur Auswahl.
+
+`GerCS4ALLKinoKiste` fasst die geprüften Spiegel `kinokiste.club`, `kkiste.eu`, `movie4k.sx`, `streamcloud.sx` und `xcine.ru` zu genau einer Quelle zusammen. Die Domain ist in den Plugin-Einstellungen auswählbar. Film- und Serienlisten liefern bis zu 60 Treffer; enthalten sind Trends, Neuheiten, meistgesehene und bestbewertete Titel, Bewertungen, Marvel/MCU sowie Genrelisten.
+
+`GerCS4ALLMediatheken` registriert DMAX, TELE 5 und TLC über ihre offiziellen Katalogschnittstellen. Coverbilder verwenden einen Fallback auf die Metadatenbilder.
+
+`GerCS4ALLEinschalten` ersetzt die doppelten alten Einträge. Die Quelle heißt im Client nur noch **Einschalten**.
 
 ## Sprach- und Sportfilter
 
-Die Profile filtern Erweiterungen nach ihrer geprüften CloudStream-Sprachkennzeichnung. CloudStream kann aber die Sprache einzelner Titel innerhalb einer mehrsprachigen Erweiterung nicht global erzwingen; falls ein Anbieter selbst DE und EN anbietet, kann er beide im Katalog darstellen.
+Die Profile filtern Erweiterungen nach ihrer geprüften CloudStream-Sprachkennzeichnung. CloudStream kann die Sprache einzelner Titel innerhalb einer mehrsprachigen Erweiterung nicht global erzwingen; bietet ein Anbieter selbst DE und EN, können beide im Katalog sichtbar sein.
 
-Die Sportprofile ohne Asien schließen Quellen mit eindeutig asiatischem Bezug sowie japanische IPTV-Bündel aus. Profil 9 nimmt gezielt nur die geprüften asiatischen Sportquellen mit deutscher oder englischer Kennzeichnung wieder auf.
+Die Sportprofile ohne Asien schließen Quellen mit eindeutig asiatischem Bezug aus. Profil 9 nimmt gezielt nur geprüfte asiatische Sportquellen mit deutscher oder englischer Kennzeichnung wieder auf.
 
 ## Pflege
 
-Die Plugin-URLs zeigen grundsätzlich auf verifizierte Upstream-Repositories. `GerCS4ALLAnime` wird dagegen lokal gebaut, liegt unter `plugins/anime/` und registriert KayoAnime sowie AnimeToast. Seine Kategorien sind ausschließlich `Anime`, `AnimeMovie` und `OVA`.
+Lokale Quellen liegen unter `extensions/GerCS4ALLSources/`. Der Build erzeugt echte `.cs3`-Archive mit `manifest.json`, `pluginClassName` und `classes.dex`:
 
-`GerCS4ALLSerienStream` liegt unter `plugins/ger/`, wird ausschließlich als `TvSeries` eingeordnet und ersetzt die frühere Serienstream-Upstream-Erweiterung. Über die Plugin-Einstellungen kann man eine der aktuell von SerienStream veröffentlichten Adressen auswählen: `serienstream.to`, `serienstream.cx` oder die HTTP-Direkt-IP `186.2.175.5`.
+```sh
+cd extensions/GerCS4ALLSources
+./gradlew -Dorg.gradle.java.home=/usr/lib/jvm/java-21-openjdk-amd64 make makePluginsJson
+```
 
-Nach Änderungen an den Basislisten die Profil-Dateien neu erzeugen:
+Nach Änderungen an Basislisten die Profile neu erzeugen:
 
 ```sh
 python3 tools/build_profiles.py
 ```
+
+Falls alte, bereits installierte Fremd-Plugins noch doppelt angezeigt werden, diese einmal in CloudStream entfernen und anschließend nur diese Repo-Quelle neu laden. Ein Manifest kann eine zuvor lokal installierte, inzwischen entfernte Erweiterung nicht selbst deinstallieren.

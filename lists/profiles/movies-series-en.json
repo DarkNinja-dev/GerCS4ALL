@@ -183,45 +183,6 @@
   {
     "status": 1,
     "version": 3,
-    "name": "Iwatchtheoffice",
-    "internalName": "Iwatchtheoffice",
-    "authors": [
-      "ByAyzen"
-    ],
-    "repositoryUrl": "https://github.com/Kraptor123/Cs-Karma",
-    "url": "https://raw.githubusercontent.com/Kraptor123/Cs-Karma/builds/Iwatchtheoffice.cs3",
-    "fileSize": 0,
-    "language": "en",
-    "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://iwatchtheoffice.cc&size=128",
-    "apiVersion": 1,
-    "description": "Stream The Office (US) Online Free in HD on XBOX, Playstation, MOBILE, TABLET and PC",
-    "tvTypes": [
-      "Movie"
-    ]
-  },
-  {
-    "status": 1,
-    "version": 3,
-    "name": "Library of Ladev",
-    "internalName": "Library of Ladev",
-    "authors": [
-      "ErrorCode26",
-      "Reflex1337"
-    ],
-    "repositoryUrl": "https://github.com/Reflex755/ReflexRepo",
-    "url": "https://raw.githubusercontent.com/Reflex755/ReflexRepo/builds/LibraryOfLadev.cs3",
-    "fileSize": 0,
-    "language": "en",
-    "iconUrl": "https://www.google.com/s2/favicons?domain=libraryofladev.com&sz=%size%",
-    "apiVersion": 1,
-    "description": "Library of Ladev - Neuro-sama stream transcript search with YouTube playback",
-    "tvTypes": [
-      "Movie"
-    ]
-  },
-  {
-    "status": 1,
-    "version": 3,
     "name": "LibraryOfLadev",
     "internalName": "LibraryOfLadev",
     "authors": [
@@ -536,25 +497,6 @@
     "description": "Watch32 is a Free Movies streaming site with over 10000 movies and TV-Series.",
     "tvTypes": [
       "Movie",
-      "TvSeries"
-    ]
-  },
-  {
-    "status": 1,
-    "version": 4,
-    "name": "YoTurkish",
-    "internalName": "YoTurkish",
-    "authors": [
-      "kraptor"
-    ],
-    "repositoryUrl": "https://github.com/Kraptor123/Cs-Karma",
-    "url": "https://raw.githubusercontent.com/Kraptor123/Cs-Karma/builds/YoTurkish.cs3",
-    "fileSize": 0,
-    "language": "en",
-    "iconUrl": "https://www.google.com/s2/favicons?sz=64&domain=yoturkish.to",
-    "apiVersion": 1,
-    "description": "YoTurkish - is the most favorite website for watching turkish series with english subtitles for free online, only at yoturkish.to",
-    "tvTypes": [
       "TvSeries"
     ]
   },

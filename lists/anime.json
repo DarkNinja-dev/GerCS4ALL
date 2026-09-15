@@ -189,25 +189,6 @@
   },
   {
     "status": 1,
-    "version": 11,
-    "name": "AnimeCloud",
-    "internalName": "AnimeCloud",
-    "authors": [
-      "Phisher98"
-    ],
-    "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
-    "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/AnimeCloud.cs3",
-    "fileSize": 0,
-    "language": "de",
-    "iconUrl": "https://raw.githubusercontent.com/phisher98/TVVVV/refs/heads/main/Icons/AnimeCloud.jpg",
-    "apiVersion": 1,
-    "description": "German (Lang) Anime",
-    "tvTypes": [
-      "Anime"
-    ]
-  },
-  {
-    "status": 1,
     "version": 3,
     "name": "Animehub",
     "internalName": "Animehub",
@@ -572,25 +553,6 @@
     "description": "Kuratiert aus cloudstream-extensions-master.tar.gz",
     "tvTypes": [
       "AnimeMovie"
-    ]
-  },
-  {
-    "status": 1,
-    "version": 487,
-    "name": "CineSimkl",
-    "internalName": "CineSimkl",
-    "authors": [
-      "megix"
-    ],
-    "repositoryUrl": "https://github.com/SaurabhKaperwan/CSX",
-    "url": "https://raw.githubusercontent.com/SaurabhKaperwan/CSX/builds/CineStream.cs3",
-    "fileSize": 0,
-    "language": "en",
-    "iconUrl": "https://github.com/SaurabhKaperwan/CSX/raw/refs/heads/master/CineStream/icon.png",
-    "apiVersion": 1,
-    "description": "One stop solution for Movies, Series, Anime, AsianDrama and Torrents",
-    "tvTypes": [
-      "Anime"
     ]
   },
   {
@@ -1152,27 +1114,6 @@
     "version": 2,
     "name": "Simkl",
     "internalName": "Simkl",
-    "authors": [
-      "doGior"
-    ],
-    "repositoryUrl": "https://github.com/doGior/doGiorsHadEnough",
-    "url": "https://raw.githubusercontent.com/doGior/doGiorsHadEnough/builds/SimklProvider.cs3",
-    "fileSize": 0,
-    "language": "en",
-    "iconUrl": "https://eu.simkl.in/img_favicon/v2/favicon-192x192.png",
-    "apiVersion": 1,
-    "description": "No Streaming. This is just to open the info page of a show from the simkl library",
-    "tvTypes": [
-      "AnimeMovie",
-      "Anime",
-      "OVA"
-    ]
-  },
-  {
-    "status": 1,
-    "version": 2,
-    "name": "SimklProvider",
-    "internalName": "SimklProvider",
     "authors": [
       "doGior"
     ],
