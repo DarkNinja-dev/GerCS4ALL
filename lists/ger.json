@@ -197,6 +197,27 @@
   },
   {
     "status": 1,
+    "version": 1,
+    "name": "GerCS4ALLSerienStream",
+    "internalName": "GerCS4ALLSerienStream",
+    "authors": [
+      "DevMonkeyOps",
+      "Bnyro"
+    ],
+    "repositoryUrl": "https://github.com/DevMonkeyOps/GerCS4ALL",
+    "url": "https://raw.githubusercontent.com/DevMonkeyOps/GerCS4ALL/main/plugins/ger/GerCS4ALLSerienStream.cs3",
+    "fileSize": 18183,
+    "fileHash": "sha256-20369f6084232bdf81cfd735656f38bf572612d13ff6dc1ef48bc04dcbcaf612",
+    "language": "de",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=serienstream.to&sz=%size%",
+    "apiVersion": 1,
+    "description": "SerienStream mit auswählbarer offizieller Domain oder Direkt-IP. Nur Serien.",
+    "tvTypes": [
+      "TvSeries"
+    ]
+  },
+  {
+    "status": 1,
     "version": 6,
     "name": "HDFilme",
     "internalName": "HDFilme",
@@ -474,25 +495,6 @@
     "tvTypes": [
       "TvSeries",
       "Movie"
-    ]
-  },
-  {
-    "status": 1,
-    "version": 5,
-    "name": "Serienstream",
-    "internalName": "Serienstream",
-    "authors": [
-      "Bnyro"
-    ],
-    "repositoryUrl": "https://github.com/Bnyro/GermanProviders",
-    "url": "https://raw.githubusercontent.com/Bnyro/GermanProviders/builds/Serienstream.cs3",
-    "fileSize": 0,
-    "language": "de",
-    "iconUrl": "https://www.google.com/s2/favicons?domain=https://serienstream.to&sz=%size%",
-    "apiVersion": 1,
-    "description": "Serien online ansehen und streamen",
-    "tvTypes": [
-      "TvSeries"
     ]
   },
   {

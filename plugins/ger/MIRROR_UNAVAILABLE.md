@@ -1,1 +1,1 @@
-Lokale .cs3-Spiegel konnten nicht erzeugt werden, weil das ausschließlich erlaubte Web-Werkzeug Binärdateien mit application/octet-stream nicht abrufen kann. Die Liste nutzt die jeweiligen Upstream-URLs.
+GerCS4ALLSerienStream.cs3 wird lokal aus `extensions/GerCS4ALLSources` gebaut und hier gespiegelt. Alle übrigen Einträge dieser Kategorie nutzen weiterhin verifizierte Upstream-URLs.
