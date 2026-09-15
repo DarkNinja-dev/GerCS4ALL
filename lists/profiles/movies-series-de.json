@@ -1,0 +1,502 @@
+[
+  {
+    "status": 1,
+    "version": 5,
+    "name": "ARD",
+    "internalName": "ARD",
+    "authors": [
+      "Bnyro"
+    ],
+    "repositoryUrl": "https://github.com/Bnyro/GermanProviders",
+    "url": "https://raw.githubusercontent.com/Bnyro/GermanProviders/builds/ARD.cs3",
+    "fileSize": 0,
+    "language": "de",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=https://ardmediathek.de&sz=%size%",
+    "apiVersion": 1,
+    "description": "Öffentlich-rechtliche Rundfunkanstalten",
+    "tvTypes": [
+      "Movie",
+      "TvSeries",
+      "Live"
+    ]
+  },
+  {
+    "status": 1,
+    "version": 6,
+    "name": "D000d",
+    "internalName": "D000d",
+    "authors": [
+      "Bnyro"
+    ],
+    "repositoryUrl": "https://github.com/bnyro/GermanProviders",
+    "url": "https://raw.githubusercontent.com/bnyro/GermanProviders/builds/EinschaltenIn.cs3",
+    "fileSize": 0,
+    "language": "de",
+    "iconUrl": "",
+    "apiVersion": 1,
+    "description": "Einschalten ^^",
+    "tvTypes": [
+      "Movie"
+    ]
+  },
+  {
+    "status": 1,
+    "version": 2,
+    "name": "Discovery",
+    "internalName": "Discovery",
+    "authors": [
+      "Bnyro"
+    ],
+    "repositoryUrl": "https://github.com/Bnyro/GermanProviders",
+    "url": "https://raw.githubusercontent.com/Bnyro/GermanProviders/builds/Discovery.cs3",
+    "fileSize": 0,
+    "language": "de",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=https://dmax.de&sz=%size%",
+    "apiVersion": 1,
+    "description": "Enthält: Dmax, Tele5, TLC",
+    "tvTypes": [
+      "Movie",
+      "TvSeries"
+    ]
+  },
+  {
+    "status": 1,
+    "version": 1,
+    "name": "Dropstream",
+    "internalName": "Dropstream",
+    "authors": [
+      "Bnyro"
+    ],
+    "repositoryUrl": "https://github.com/bnyro/GermanProviders",
+    "url": "https://raw.githubusercontent.com/bnyro/GermanProviders/builds/KinoKing.cs3",
+    "fileSize": 0,
+    "language": "de",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=kinoking.cc&sz=%size%",
+    "apiVersion": 1,
+    "description": "Viele Filme und Serien von verschiedenen Hostern streamen",
+    "tvTypes": [
+      "TvSeries",
+      "Movie"
+    ]
+  },
+  {
+    "status": 1,
+    "version": 6,
+    "name": "EinschaltenIn",
+    "internalName": "EinschaltenIn",
+    "authors": [
+      "Bnyro"
+    ],
+    "repositoryUrl": "https://github.com/Bnyro/GermanProviders",
+    "url": "https://raw.githubusercontent.com/Bnyro/GermanProviders/builds/EinschaltenIn.cs3",
+    "fileSize": 0,
+    "language": "de",
+    "iconUrl": "",
+    "apiVersion": 1,
+    "description": "Einschalten ^^",
+    "tvTypes": [
+      "Movie"
+    ]
+  },
+  {
+    "status": 1,
+    "version": 1,
+    "name": "FilmFrei24",
+    "internalName": "FilmFrei24",
+    "authors": [
+      "Bnyro"
+    ],
+    "repositoryUrl": "https://github.com/Bnyro/GermanProviders",
+    "url": "https://raw.githubusercontent.com/Bnyro/GermanProviders/builds/FilmFrei24.cs3",
+    "fileSize": 0,
+    "language": "de",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=filmfrei24.com&sz=%size%",
+    "apiVersion": 1,
+    "description": "Filme kostenlos online schauen",
+    "tvTypes": [
+      "Movie"
+    ]
+  },
+  {
+    "status": 1,
+    "version": 1,
+    "name": "Filmo",
+    "internalName": "Filmo",
+    "authors": [
+      "Bnyro"
+    ],
+    "repositoryUrl": "https://github.com/Bnyro/GermanProviders",
+    "url": "https://raw.githubusercontent.com/Bnyro/GermanProviders/builds/Filmo.cs3",
+    "fileSize": 0,
+    "language": "de",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=filmo.to&sz=%size%",
+    "apiVersion": 1,
+    "description": "Filme entdecken",
+    "tvTypes": [
+      "Movie"
+    ]
+  },
+  {
+    "status": 1,
+    "version": 7,
+    "name": "FilmPalast",
+    "internalName": "FilmPalast",
+    "authors": [
+      "Bnyro"
+    ],
+    "repositoryUrl": "https://github.com/Bnyro/GermanProviders",
+    "url": "https://raw.githubusercontent.com/Bnyro/GermanProviders/builds/FilmPalast.cs3",
+    "fileSize": 0,
+    "language": "de",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=https://filmpalast.to&sz=%size%",
+    "apiVersion": 1,
+    "description": "Filme & Serien sofort und kostenlos ansehen",
+    "tvTypes": [
+      "TvSeries",
+      "Movie"
+    ]
+  },
+  {
+    "status": 1,
+    "version": 1,
+    "name": "FlixiTV",
+    "internalName": "FlixiTV",
+    "authors": [
+      "Bnyro"
+    ],
+    "repositoryUrl": "https://github.com/Bnyro/GermanProviders",
+    "url": "https://raw.githubusercontent.com/Bnyro/GermanProviders/builds/FlixiTV.cs3",
+    "fileSize": 0,
+    "language": "de",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=flixitv-stream.eu&sz=%size%",
+    "apiVersion": 1,
+    "description": "Deine alten Schätze; Serien und Filme. Kostenlos auf Abruf und in Full HD.",
+    "tvTypes": [
+      "Movie",
+      "TvSeries"
+    ]
+  },
+  {
+    "status": 1,
+    "version": 1,
+    "name": "GerCS4ALLSerienStream",
+    "internalName": "GerCS4ALLSerienStream",
+    "authors": [
+      "DevMonkeyOps",
+      "Bnyro"
+    ],
+    "repositoryUrl": "https://github.com/DevMonkeyOps/GerCS4ALL",
+    "url": "https://raw.githubusercontent.com/DevMonkeyOps/GerCS4ALL/main/plugins/ger/GerCS4ALLSerienStream.cs3",
+    "fileSize": 18183,
+    "fileHash": "sha256-20369f6084232bdf81cfd735656f38bf572612d13ff6dc1ef48bc04dcbcaf612",
+    "language": "de",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=serienstream.to&sz=%size%",
+    "apiVersion": 1,
+    "description": "SerienStream mit auswählbarer offizieller Domain oder Direkt-IP. Nur Serien.",
+    "tvTypes": [
+      "TvSeries"
+    ]
+  },
+  {
+    "status": 1,
+    "version": 6,
+    "name": "HDFilme",
+    "internalName": "HDFilme",
+    "authors": [
+      "Bnyro"
+    ],
+    "repositoryUrl": "https://github.com/Bnyro/GermanProviders",
+    "url": "https://raw.githubusercontent.com/Bnyro/GermanProviders/builds/HDFilme.cs3",
+    "fileSize": 0,
+    "language": "de",
+    "iconUrl": "https://hdfilme.my/templates/hdfilme/images/favicon-%size%x%size%.png",
+    "apiVersion": 1,
+    "description": "Filme und Serien online kostenlos ansehen",
+    "tvTypes": [
+      "Movie",
+      "TvSeries"
+    ]
+  },
+  {
+    "status": 1,
+    "version": 1,
+    "name": "HuhuTo",
+    "internalName": "HuhuTo",
+    "authors": [
+      "Bnyro"
+    ],
+    "repositoryUrl": "https://github.com/Bnyro/GermanProviders",
+    "url": "https://raw.githubusercontent.com/Bnyro/GermanProviders/builds/HuhuTo.cs3",
+    "fileSize": 0,
+    "language": "de",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=huhu.to&sz=%size%",
+    "apiVersion": 1,
+    "description": "Filme und Serien streamen",
+    "tvTypes": [
+      "TvSeries",
+      "Movie"
+    ]
+  },
+  {
+    "status": 1,
+    "version": 1,
+    "name": "KellerKino",
+    "internalName": "KellerKino",
+    "authors": [
+      "Bnyro"
+    ],
+    "repositoryUrl": "https://github.com/Bnyro/GermanProviders",
+    "url": "https://raw.githubusercontent.com/Bnyro/GermanProviders/builds/KellerKino.cs3",
+    "fileSize": 0,
+    "language": "de",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=www.kellerkino.com&sz=%size%",
+    "apiVersion": 1,
+    "description": "Filme per Stream anschauen",
+    "tvTypes": [
+      "Movie"
+    ]
+  },
+  {
+    "status": 1,
+    "version": 6,
+    "name": "Kinoger",
+    "internalName": "Kinoger",
+    "authors": [
+      "Hexated",
+      "Bnyro"
+    ],
+    "repositoryUrl": "https://github.com/Bnyro/GermanProviders",
+    "url": "https://raw.githubusercontent.com/Bnyro/GermanProviders/builds/Kinoger.cs3",
+    "fileSize": 0,
+    "language": "de",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=kinoger.com&sz=%size%",
+    "apiVersion": 1,
+    "description": "Filme und Serien streamen",
+    "tvTypes": [
+      "TvSeries",
+      "Movie"
+    ]
+  },
+  {
+    "status": 1,
+    "version": 1,
+    "name": "KinoKing",
+    "internalName": "KinoKing",
+    "authors": [
+      "Bnyro"
+    ],
+    "repositoryUrl": "https://github.com/Bnyro/GermanProviders",
+    "url": "https://raw.githubusercontent.com/Bnyro/GermanProviders/builds/KinoKing.cs3",
+    "fileSize": 0,
+    "language": "de",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=kinoking.cc&sz=%size%",
+    "apiVersion": 1,
+    "description": "Viele Filme und Serien von verschiedenen Hostern streamen",
+    "tvTypes": [
+      "TvSeries",
+      "Movie"
+    ]
+  },
+  {
+    "status": 1,
+    "version": 15,
+    "name": "KinoKiste",
+    "internalName": "KinoKiste",
+    "authors": [
+      "Bnyro"
+    ],
+    "repositoryUrl": "https://github.com/bnyro/GermanProviders",
+    "url": "https://raw.githubusercontent.com/bnyro/GermanProviders/builds/Xcine.cs3",
+    "fileSize": 0,
+    "language": "de",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=https://xcine.ru&sz=%size%",
+    "apiVersion": 1,
+    "description": "Enthält: Xcine, Movie4k, Streamcloud, Kinokiste",
+    "tvTypes": [
+      "TvSeries",
+      "Movie"
+    ]
+  },
+  {
+    "status": 1,
+    "version": 6,
+    "name": "Megakino",
+    "internalName": "Megakino",
+    "authors": [
+      "Phisher98",
+      "Bnyro"
+    ],
+    "repositoryUrl": "https://github.com/Bnyro/GermanProviders",
+    "url": "https://raw.githubusercontent.com/Bnyro/GermanProviders/builds/Megakino.cs3",
+    "fileSize": 0,
+    "language": "de",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=https://megakino4.to&sz=%size%",
+    "apiVersion": 1,
+    "description": "Kostenlos Filme und Serien auf Deutsch anschauen",
+    "tvTypes": [
+      "Movie",
+      "TvSeries",
+      "Documentary"
+    ]
+  },
+  {
+    "status": 1,
+    "version": 4,
+    "name": "Moflix",
+    "internalName": "Moflix",
+    "authors": [
+      "Hexated",
+      "Bnyro"
+    ],
+    "repositoryUrl": "https://github.com/Bnyro/GermanProviders",
+    "url": "https://raw.githubusercontent.com/Bnyro/GermanProviders/builds/Moflix.cs3",
+    "fileSize": 0,
+    "language": "de",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=moflix-stream.xyz&sz=%size%",
+    "apiVersion": 1,
+    "description": "Filme und Serien kostenlos streamen",
+    "tvTypes": [
+      "TvSeries",
+      "Movie"
+    ]
+  },
+  {
+    "status": 1,
+    "version": 1,
+    "name": "Netzkino",
+    "internalName": "Netzkino",
+    "authors": [
+      "Bnyro"
+    ],
+    "repositoryUrl": "https://github.com/Bnyro/GermanProviders",
+    "url": "https://raw.githubusercontent.com/Bnyro/GermanProviders/builds/Netzkino.cs3",
+    "fileSize": 0,
+    "language": "de",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=https://netzkino.de&sz=%size%",
+    "apiVersion": 1,
+    "description": "Kostenlose Filme online sehen",
+    "tvTypes": [
+      "Movie"
+    ]
+  },
+  {
+    "status": 1,
+    "version": 1,
+    "name": "PlutoTV",
+    "internalName": "PlutoTV",
+    "authors": [
+      "Bnyro"
+    ],
+    "repositoryUrl": "https://github.com/Bnyro/GermanProviders",
+    "url": "https://raw.githubusercontent.com/Bnyro/GermanProviders/builds/PlutoTV.cs3",
+    "fileSize": 0,
+    "language": "de",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=https://pluto.tv&sz=%size%",
+    "apiVersion": 1,
+    "description": "Streamingportal von Paramount",
+    "tvTypes": [
+      "Movie",
+      "TvSeries",
+      "Live"
+    ]
+  },
+  {
+    "status": 1,
+    "version": 7,
+    "name": "Ryderjet",
+    "internalName": "Ryderjet",
+    "authors": [
+      "Bnyro"
+    ],
+    "repositoryUrl": "https://github.com/bnyro/GermanProviders",
+    "url": "https://raw.githubusercontent.com/bnyro/GermanProviders/builds/FilmPalast.cs3",
+    "fileSize": 0,
+    "language": "de",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=https://filmpalast.to&sz=%size%",
+    "apiVersion": 1,
+    "description": "Filme & Serien sofort und kostenlos ansehen",
+    "tvTypes": [
+      "TvSeries",
+      "Movie"
+    ]
+  },
+  {
+    "status": 1,
+    "version": 1,
+    "name": "Southpark",
+    "internalName": "Southpark",
+    "authors": [
+      "Bnyro"
+    ],
+    "repositoryUrl": "https://github.com/Bnyro/GermanProviders",
+    "url": "https://raw.githubusercontent.com/Bnyro/GermanProviders/builds/Southpark.cs3",
+    "fileSize": 0,
+    "language": "de",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=https://southpark.de&sz=%size%",
+    "apiVersion": 1,
+    "description": "Episoden von southpark.de",
+    "tvTypes": [
+      "TvSeries"
+    ]
+  },
+  {
+    "status": 1,
+    "version": 9,
+    "name": "Topstreamfilm",
+    "internalName": "Topstreamfilm",
+    "authors": [
+      "Phisher"
+    ],
+    "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
+    "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Topstreamfilm.cs3",
+    "fileSize": 0,
+    "language": "de",
+    "iconUrl": "https://www.topstreamfilm.live/templates/topstreamfilm/images/logo-1.png",
+    "apiVersion": 1,
+    "description": "Filme  and Serien (German)",
+    "tvTypes": [
+      "Movie",
+      "TvSeries"
+    ]
+  },
+  {
+    "status": 1,
+    "version": 15,
+    "name": "Xcine",
+    "internalName": "Xcine",
+    "authors": [
+      "Bnyro"
+    ],
+    "repositoryUrl": "https://github.com/Bnyro/GermanProviders",
+    "url": "https://raw.githubusercontent.com/Bnyro/GermanProviders/builds/Xcine.cs3",
+    "fileSize": 0,
+    "language": "de",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=https://xcine.ru&sz=%size%",
+    "apiVersion": 1,
+    "description": "Enthält: Xcine, Movie4k, Streamcloud, Kinokiste",
+    "tvTypes": [
+      "TvSeries",
+      "Movie"
+    ]
+  },
+  {
+    "status": 1,
+    "version": 3,
+    "name": "Xcine.top",
+    "internalName": "Xcine.top",
+    "authors": [
+      "Hexated"
+    ],
+    "repositoryUrl": "https://github.com/hexated/cloudstream-extensions-hexated",
+    "url": "https://raw.githubusercontent.com/hexated/cloudstream-extensions-hexated/builds/Xcinetop.cs3",
+    "fileSize": 0,
+    "language": "de",
+    "iconUrl": "https://raw.githubusercontent.com/hexated/cloudstream-extensions-hexated/master/Xcinetop/icon.png",
+    "apiVersion": 1,
+    "description": "Kuratiert aus new-hexated-master.tar.gz",
+    "tvTypes": [
+      "TvSeries",
+      "Movie"
+    ]
+  }
+]

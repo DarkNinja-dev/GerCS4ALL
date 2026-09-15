@@ -1,0 +1,11 @@
+{
+  "name": "GerCS4ALL – DE: Filme/Serien + Sport + Anime DE",
+  "description": "Deutschsprachige Filme/Serien, mehrsprachiger Sport ohne Asien und deutsche Anime-Quellen.",
+  "manifestVersion": 1,
+  "iconUrl": "https://raw.githubusercontent.com/DevMonkeyOps/GerCS4ALL/main/icons/repo.svg",
+  "pluginLists": [
+    "https://raw.githubusercontent.com/DevMonkeyOps/GerCS4ALL/main/lists/profiles/movies-series-de.json",
+    "https://raw.githubusercontent.com/DevMonkeyOps/GerCS4ALL/main/lists/profiles/sport-multilingual-no-asia.json",
+    "https://raw.githubusercontent.com/DevMonkeyOps/GerCS4ALL/main/lists/profiles/anime-de.json"
+  ]
+}

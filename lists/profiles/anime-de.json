@@ -1,0 +1,42 @@
+[
+  {
+    "status": 1,
+    "version": 11,
+    "name": "AnimeCloud",
+    "internalName": "AnimeCloud",
+    "authors": [
+      "Phisher98"
+    ],
+    "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
+    "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/AnimeCloud.cs3",
+    "fileSize": 0,
+    "language": "de",
+    "iconUrl": "https://raw.githubusercontent.com/phisher98/TVVVV/refs/heads/main/Icons/AnimeCloud.jpg",
+    "apiVersion": 1,
+    "description": "German (Lang) Anime",
+    "tvTypes": [
+      "Anime"
+    ]
+  },
+  {
+    "status": 1,
+    "version": 14,
+    "name": "Aniworld",
+    "internalName": "Aniworld",
+    "authors": [
+      "Phisher98,Hexated"
+    ],
+    "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
+    "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Aniworld.cs3",
+    "fileSize": 0,
+    "language": "de",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=aniworld.to&sz=%size%",
+    "apiVersion": 1,
+    "description": "Include: Serienstream (Login Required under Extension Settings)",
+    "tvTypes": [
+      "AnimeMovie",
+      "Anime",
+      "OVA"
+    ]
+  }
+]

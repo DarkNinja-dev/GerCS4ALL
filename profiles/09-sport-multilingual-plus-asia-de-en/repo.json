@@ -1,0 +1,9 @@
+{
+  "name": "GerCS4ALL – Sport multilingual + Asien DE/EN",
+  "description": "Mehrsprachiger Sport ohne Asien sowie gezielt deutsche/englische Sportquellen mit asiatischem Bezug.",
+  "manifestVersion": 1,
+  "iconUrl": "https://raw.githubusercontent.com/DevMonkeyOps/GerCS4ALL/main/icons/repo.svg",
+  "pluginLists": [
+    "https://raw.githubusercontent.com/DevMonkeyOps/GerCS4ALL/main/lists/profiles/sport-multilingual-plus-asia-de-en.json"
+  ]
+}

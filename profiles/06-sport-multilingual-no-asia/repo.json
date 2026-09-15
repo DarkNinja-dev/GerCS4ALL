@@ -1,0 +1,9 @@
+{
+  "name": "GerCS4ALL – Sport multilingual ohne Asien",
+  "description": "Kuratiertes Sportangebot in mehreren Sprachen; Quellen mit eindeutig asiatischem Bezug sind ausgeschlossen.",
+  "manifestVersion": 1,
+  "iconUrl": "https://raw.githubusercontent.com/DevMonkeyOps/GerCS4ALL/main/icons/repo.svg",
+  "pluginLists": [
+    "https://raw.githubusercontent.com/DevMonkeyOps/GerCS4ALL/main/lists/profiles/sport-multilingual-no-asia.json"
+  ]
+}

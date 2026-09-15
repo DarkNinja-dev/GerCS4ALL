@@ -1,0 +1,9 @@
+{
+  "name": "GerCS4ALL – Filme & Serien DE",
+  "description": "Nur Erweiterungen mit deutscher Sprachkennzeichnung für Filme und Serien.",
+  "manifestVersion": 1,
+  "iconUrl": "https://raw.githubusercontent.com/DevMonkeyOps/GerCS4ALL/main/icons/repo.svg",
+  "pluginLists": [
+    "https://raw.githubusercontent.com/DevMonkeyOps/GerCS4ALL/main/lists/profiles/movies-series-de.json"
+  ]
+}
