@@ -1,1 +1,1 @@
-GerCS4ALLSerienStream.cs3, GerCS4ALLKinoKiste.cs3, GerCS4ALLMediatheken.cs3 und GerCS4ALLEinschalten.cs3 werden lokal aus `extensions/GerCS4ALLSources` gebaut und hier gespiegelt. Alle übrigen Einträge dieser Kategorie nutzen weiterhin verifizierte Upstream-URLs.
+GerCS4ALLArchiveMoviesDE.cs3, GerCS4ALLSerienStream.cs3, GerCS4ALLKinoKiste.cs3, GerCS4ALLMediatheken.cs3, GerCS4ALLEinschalten.cs3 wird lokal aus `extensions/GerCS4ALLSources` gebaut und hier gespiegelt. Alle übrigen Einträge dieser Kategorie nutzen weiterhin verifizierte Upstream-URLs.

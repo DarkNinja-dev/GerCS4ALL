@@ -81,6 +81,26 @@
   {
     "status": 1,
     "version": 1,
+    "name": "GerCS4ALLArchiveMoviesDE",
+    "internalName": "GerCS4ALLArchiveMoviesDE",
+    "authors": [
+      "DarkNinja-dev"
+    ],
+    "repositoryUrl": "https://github.com/DarkNinja-dev/GerCS4ALL",
+    "url": "https://raw.githubusercontent.com/DarkNinja-dev/GerCS4ALL/main/plugins/ger/GerCS4ALLArchiveMoviesDE.cs3",
+    "fileSize": 18065,
+    "fileHash": "sha256-5bdabc23ec4c137b8b8f7f9a9e5eddb9d3efd7456c0f616124b817759d4bc75e",
+    "language": "de",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=archive.org&sz=%size%",
+    "apiVersion": 1,
+    "description": "Internet Archive: frei zugängliche Filme mit deutscher Sprachmetadaten-Kennung.",
+    "tvTypes": [
+      "Movie"
+    ]
+  },
+  {
+    "status": 1,
+    "version": 1,
     "name": "GerCS4ALLEinschalten",
     "internalName": "GerCS4ALLEinschalten",
     "authors": [

@@ -19,5 +19,49 @@
       "Anime",
       "OVA"
     ]
+  },
+  {
+    "status": 1,
+    "version": 1,
+    "name": "GerCS4ALLAnimeDE",
+    "internalName": "GerCS4ALLAnimeDE",
+    "authors": [
+      "DarkNinja-dev"
+    ],
+    "repositoryUrl": "https://github.com/DarkNinja-dev/GerCS4ALL",
+    "url": "https://raw.githubusercontent.com/DarkNinja-dev/GerCS4ALL/main/plugins/anime/GerCS4ALLAnimeDE.cs3",
+    "fileSize": 12783,
+    "fileHash": "sha256-dcdbcad0f7071aacc4695eef966093cb0bd9ab6b01cf6abfe8006fc8aafc99bc",
+    "language": "de",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=animetoast.cc&sz=%size%",
+    "apiVersion": 1,
+    "description": "AnimeToast. Ausschließlich deutsche Anime-Kategorien.",
+    "tvTypes": [
+      "Anime",
+      "AnimeMovie",
+      "OVA"
+    ]
+  },
+  {
+    "status": 1,
+    "version": 1,
+    "name": "GerCS4ALLArchiveAnimeDE",
+    "internalName": "GerCS4ALLArchiveAnimeDE",
+    "authors": [
+      "DarkNinja-dev"
+    ],
+    "repositoryUrl": "https://github.com/DarkNinja-dev/GerCS4ALL",
+    "url": "https://raw.githubusercontent.com/DarkNinja-dev/GerCS4ALL/main/plugins/anime/GerCS4ALLArchiveAnimeDE.cs3",
+    "fileSize": 18468,
+    "fileHash": "sha256-7603c64836ca14c101dae71f1d1644aafbbd5d9e6d1906d7f54af0ae9847d696",
+    "language": "de",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=archive.org&sz=%size%",
+    "apiVersion": 1,
+    "description": "Internet Archive: frei zugängliche deutschsprachige Anime-Medien.",
+    "tvTypes": [
+      "Anime",
+      "AnimeMovie",
+      "OVA"
+    ]
   }
 ]

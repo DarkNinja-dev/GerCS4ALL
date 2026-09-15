@@ -637,19 +637,63 @@
   {
     "status": 1,
     "version": 1,
-    "name": "GerCS4ALLAnime",
-    "internalName": "GerCS4ALLAnime",
+    "name": "GerCS4ALLAnimeDE",
+    "internalName": "GerCS4ALLAnimeDE",
     "authors": [
-      "DevMonkeyOps"
+      "DarkNinja-dev"
     ],
     "repositoryUrl": "https://github.com/DarkNinja-dev/GerCS4ALL",
-    "url": "https://raw.githubusercontent.com/DarkNinja-dev/GerCS4ALL/main/plugins/anime/GerCS4ALLAnime.cs3",
-    "fileSize": 13180,
-    "fileHash": "sha256-bb4e6125f0df4a8710405dff6e9e0c6dc0a729b3ce67b8be28334b67797e9d7f",
+    "url": "https://raw.githubusercontent.com/DarkNinja-dev/GerCS4ALL/main/plugins/anime/GerCS4ALLAnimeDE.cs3",
+    "fileSize": 12783,
+    "fileHash": "sha256-dcdbcad0f7071aacc4695eef966093cb0bd9ab6b01cf6abfe8006fc8aafc99bc",
+    "language": "de",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=animetoast.cc&sz=%size%",
+    "apiVersion": 1,
+    "description": "AnimeToast. Ausschließlich deutsche Anime-Kategorien.",
+    "tvTypes": [
+      "Anime",
+      "AnimeMovie",
+      "OVA"
+    ]
+  },
+  {
+    "status": 1,
+    "version": 1,
+    "name": "GerCS4ALLAnimeEN",
+    "internalName": "GerCS4ALLAnimeEN",
+    "authors": [
+      "DarkNinja-dev"
+    ],
+    "repositoryUrl": "https://github.com/DarkNinja-dev/GerCS4ALL",
+    "url": "https://raw.githubusercontent.com/DarkNinja-dev/GerCS4ALL/main/plugins/anime/GerCS4ALLAnimeEN.cs3",
+    "fileSize": 12789,
+    "fileHash": "sha256-7b664260c805344132aa3d2a43e0397c765c69168ff0542b7f4a272126fb0c3c",
     "language": "en",
     "iconUrl": "https://www.google.com/s2/favicons?domain=kayoanime.com&sz=%size%",
     "apiVersion": 1,
-    "description": "KayoAnime und AnimeToast. Ausschließlich Anime-Kategorien.",
+    "description": "KayoAnime. Ausschließlich englische Anime-Kategorien.",
+    "tvTypes": [
+      "Anime",
+      "AnimeMovie",
+      "OVA"
+    ]
+  },
+  {
+    "status": 1,
+    "version": 1,
+    "name": "GerCS4ALLArchiveAnimeDE",
+    "internalName": "GerCS4ALLArchiveAnimeDE",
+    "authors": [
+      "DarkNinja-dev"
+    ],
+    "repositoryUrl": "https://github.com/DarkNinja-dev/GerCS4ALL",
+    "url": "https://raw.githubusercontent.com/DarkNinja-dev/GerCS4ALL/main/plugins/anime/GerCS4ALLArchiveAnimeDE.cs3",
+    "fileSize": 18468,
+    "fileHash": "sha256-7603c64836ca14c101dae71f1d1644aafbbd5d9e6d1906d7f54af0ae9847d696",
+    "language": "de",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=archive.org&sz=%size%",
+    "apiVersion": 1,
+    "description": "Internet Archive: frei zugängliche deutschsprachige Anime-Medien.",
     "tvTypes": [
       "Anime",
       "AnimeMovie",

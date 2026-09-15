@@ -1,0 +1,10 @@
+version = 1
+
+cloudstream {
+    language = "de"
+    description = "Internet Archive: frei zugängliche Filme mit deutscher Sprachmetadaten-Kennung."
+    authors = listOf("DarkNinja-dev")
+    status = 1
+    tvTypes = listOf("Movie")
+    iconUrl = "https://www.google.com/s2/favicons?domain=archive.org&sz=%size%"
+}

@@ -7,6 +7,7 @@ Ein GitHub-Repository mit mehreren unabhängig einbindbaren CloudStream-Profilen
 - [Einbindung](#einbindung)
 - [Profile](#profile)
 - [Lokale, gepflegte Erweiterungen](#lokale-gepflegte-erweiterungen)
+- [Wo erscheinen die Quellen?](#wo-erscheinen-die-quellen)
 - [Sprach- und Sportfilter](#sprach--und-sportfilter)
 - [Pflege](#pflege)
 
@@ -38,7 +39,11 @@ Die Einzelkategorien bleiben außerdem unter `single-repos/<kategorie>/repo.json
 
 ## Lokale, gepflegte Erweiterungen
 
-`GerCS4ALLAnime` registriert ausschließlich Anime-Quellen und ist nur als `Anime`, `AnimeMovie` und `OVA` markiert. Deshalb erscheint es nicht in Film- oder Serienfiltern.
+`GerCS4ALLAnimeDE` registriert **AnimeToast** nur als `Anime`, `AnimeMovie` und `OVA`. Es erscheint daher in Profil 2 sowie in den Anime-DE/DE-EN-Profilen, nie in Film- oder Serienfiltern.
+
+`GerCS4ALLAnimeEN` registriert **KayoAnime** mit derselben reinen Anime-Kategorie für die englischen Anime-Profile. Normale Google-Drive-Dateien werden direkt aufgelöst; Drive-Ordner werden bewusst nicht als angebliche Streams angezeigt.
+
+`GerCS4ALLArchiveMoviesDE` durchsucht den öffentlichen Internet-Archive-Katalog für deutsch markierte Filme und stellt bis zu 60 Ergebnisse pro Seite bereit. `GerCS4ALLArchiveAnimeDE` ist davon getrennt und führt die Archivsuche `anime deutsch` aus – Anime kann dadurch nicht bei Filmen oder Serien auftauchen.
 
 `GerCS4ALLSerienStream` registriert nur Serien. In den Plugin-Einstellungen stehen `serienstream.to`, `serienstream.cx` und die HTTP-Direkt-IP `186.2.175.5` zur Auswahl.
 
@@ -47,6 +52,24 @@ Die Einzelkategorien bleiben außerdem unter `single-repos/<kategorie>/repo.json
 `GerCS4ALLMediatheken` registriert DMAX, TELE 5 und TLC über ihre offiziellen Katalogschnittstellen. Coverbilder verwenden einen Fallback auf die Metadatenbilder.
 
 `GerCS4ALLEinschalten` ersetzt die doppelten alten Einträge. Die Quelle heißt im Client nur noch **Einschalten**.
+
+## Wo erscheinen die Quellen?
+
+Ein Eintrag in der Erweiterungsverwaltung ist ein Plugin-Paket; die eigentlichen Quellen erscheinen nach dessen Aktivierung in CloudStream. Daher werden die folgenden Dienste nicht mehrfach als scheinbar verschiedene Erweiterungen gelistet:
+
+| Sichtbare Quelle in CloudStream | Installiertes Paket |
+| --- | --- |
+| AnimeToast | `GerCS4ALLAnimeDE` |
+| KayoAnime | `GerCS4ALLAnimeEN` |
+| Internet Archive – Filme DE | `GerCS4ALLArchiveMoviesDE` |
+| Internet Archive – Anime DE | `GerCS4ALLArchiveAnimeDE` |
+| Aniworld | bestehendes Paket `Aniworld` in der Anime-DE-Liste |
+| DMAX, TELE 5, TLC | `GerCS4ALLMediatheken` |
+| KinoKiste, Movie4k, Streamcloud, Xcine | `GerCS4ALLKinoKiste` (Domain-Auswahl) |
+| Einschalten | `GerCS4ALLEinschalten` |
+| Haho.moe, Hanime | NSFW-Pakete `Haho moe` und `Hanime` – nur Profil 1 bzw. die NSFW-Einzelquelle |
+
+AnimeCloud, Flixi, HDFilme, Huhu, Kinoger, TopStreamFilm und Xcine.top sind derzeit nicht veröffentlicht, weil die geprüften Schnittstellen leer, nicht erreichbar oder strukturell defekt waren. Sie werden nicht durch Attrappen mit leeren Kategorien ersetzt. Anime-Loads liefert beim Prüfen nur eine Cloudflare-Sperre; es kommt erst mit einer verifizierten CloudStream-Implementierung hinein.
 
 ## Sprach- und Sportfilter
 

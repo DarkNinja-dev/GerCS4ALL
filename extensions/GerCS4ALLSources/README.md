@@ -1,6 +1,8 @@
 # GerCS4ALL – eigene Erweiterungen
 
-`GerCS4ALLAnime` ist ein echtes CloudStream-Plugin und registriert nur Anime-Anbieter. Seine Manifest-Typen sind ausschließlich `Anime`, `AnimeMovie` und `OVA`; deshalb erscheint es nie in der Film- oder Serienauswahl.
+`GerCS4ALLAnimeDE` registriert nur AnimeToast und `GerCS4ALLAnimeEN` nur KayoAnime. Beide Manifest-Typen sind ausschließlich `Anime`, `AnimeMovie` und `OVA`; deshalb erscheinen sie nie in der Film- oder Serienauswahl. Die getrennten Sprachkennzeichnungen sorgen dafür, dass AnimeToast auch im deutschen Anime-Profil sichtbar ist.
+
+`GerCS4ALLArchiveMoviesDE` ist ausschließlich als `Movie` markiert und fragt den öffentlichen Internet-Archive-Katalog nach deutsch markierten Filmen ab. `GerCS4ALLArchiveAnimeDE` ist ein getrenntes Anime-Paket für die Archivsuche `anime deutsch`; es kann nicht in einer Film- oder Serienliste erscheinen.
 
 `GerCS4ALLSerienStream` registriert nur `TvSeries`. In seinen CloudStream-Plugin-Einstellungen können Nutzer die aktuell von SerienStream veröffentlichten Endpunkte selbst wählen: `https://serienstream.to`, `https://serienstream.cx` oder `http://186.2.175.5`. Die Einstellung wird sofort für die registrierte Quelle übernommen und dauerhaft gespeichert.
 
@@ -19,4 +21,4 @@ cd extensions/GerCS4ALLSources
 ./gradlew -Dorg.gradle.java.home=/usr/lib/jvm/java-21-openjdk-amd64 make makePluginsJson
 ```
 
-Die Compile-Abhängigkeit nutzt die offizielle ReCloudStream-Snapshot-Bibliothek auf JitPack. Der veröffentlichte `GerCS4ALLAnime.cs3` wurde gegen den entsprechenden öffentlichen CloudStream-Quellstand gebaut; wenn JitPack vorübergehend rate-limitiert, reicht ein erneuter Build später aus.
+Die Compile-Abhängigkeit nutzt die offizielle ReCloudStream-Snapshot-Bibliothek auf JitPack. Die veröffentlichten lokalen `.cs3`-Pakete werden gegen den entsprechenden öffentlichen CloudStream-Quellstand gebaut; wenn JitPack vorübergehend rate-limitiert, reicht ein erneuter Build später aus.
