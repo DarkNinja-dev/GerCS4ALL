@@ -2,8 +2,8 @@
   "name": "Curated DE/EN – GER",
   "description": "Einzelkategorie der kuratierten CloudStream-Quellen (ger)",
   "manifestVersion": 1,
-  "iconUrl": "https://raw.githubusercontent.com/DevMonkeyOps/GerCS4ALL/main/icons/repo.svg",
+  "iconUrl": "https://raw.githubusercontent.com/DarkNinja-dev/GerCS4ALL/main/icons/repo.svg",
   "pluginLists": [
-    "https://raw.githubusercontent.com/DevMonkeyOps/GerCS4ALL/main/lists/ger.json"
+    "https://raw.githubusercontent.com/DarkNinja-dev/GerCS4ALL/main/lists/ger.json"
   ]
 }

@@ -11,7 +11,7 @@ from pathlib import Path
 
 
 ROOT = Path(__file__).resolve().parents[1]
-RAW_BASE = "https://raw.githubusercontent.com/DevMonkeyOps/GerCS4ALL/main"
+RAW_BASE = "https://raw.githubusercontent.com/DarkNinja-dev/GerCS4ALL/main"
 ICON_URL = f"{RAW_BASE}/icons/repo.svg"
 PROFILE_LISTS = ROOT / "lists" / "profiles"
 PROFILE_REPOS = ROOT / "profiles"

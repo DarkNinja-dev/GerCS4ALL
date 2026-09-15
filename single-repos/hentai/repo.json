@@ -2,8 +2,8 @@
   "name": "Curated DE/EN – HENTAI",
   "description": "Einzelkategorie der kuratierten CloudStream-Quellen (hentai)",
   "manifestVersion": 1,
-  "iconUrl": "https://raw.githubusercontent.com/DevMonkeyOps/GerCS4ALL/main/icons/repo.svg",
+  "iconUrl": "https://raw.githubusercontent.com/DarkNinja-dev/GerCS4ALL/main/icons/repo.svg",
   "pluginLists": [
-    "https://raw.githubusercontent.com/DevMonkeyOps/GerCS4ALL/main/lists/hentai.json"
+    "https://raw.githubusercontent.com/DarkNinja-dev/GerCS4ALL/main/lists/hentai.json"
   ]
 }

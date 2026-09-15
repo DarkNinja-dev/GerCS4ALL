@@ -2,8 +2,8 @@
   "name": "Curated DE/EN – ANIME",
   "description": "Einzelkategorie der kuratierten CloudStream-Quellen (anime)",
   "manifestVersion": 1,
-  "iconUrl": "https://raw.githubusercontent.com/DevMonkeyOps/GerCS4ALL/main/icons/repo.svg",
+  "iconUrl": "https://raw.githubusercontent.com/DarkNinja-dev/GerCS4ALL/main/icons/repo.svg",
   "pluginLists": [
-    "https://raw.githubusercontent.com/DevMonkeyOps/GerCS4ALL/main/lists/anime.json"
+    "https://raw.githubusercontent.com/DarkNinja-dev/GerCS4ALL/main/lists/anime.json"
   ]
 }

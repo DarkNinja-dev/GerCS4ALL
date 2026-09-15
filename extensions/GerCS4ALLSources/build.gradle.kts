@@ -36,7 +36,7 @@ subprojects {
     apply(plugin = "com.lagradost.cloudstream3.gradle")
 
     cloudstream {
-        setRepo("DevMonkeyOps/GerCS4ALL")
+        setRepo("DarkNinja-dev/GerCS4ALL")
     }
 
     android {

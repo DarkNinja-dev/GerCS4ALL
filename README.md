@@ -14,7 +14,7 @@ Ein GitHub-Repository mit mehreren unabhängig einbindbaren CloudStream-Profilen
 
 Die vollständige Quelle (Profil 1, einschließlich Anime, Hentai/NSFW, DE und EN):
 
-`https://raw.githubusercontent.com/DevMonkeyOps/GerCS4ALL/main/repo.json`
+`https://raw.githubusercontent.com/DarkNinja-dev/GerCS4ALL/main/repo.json`
 
 Für ein gezieltes Profil die passende Adresse aus der Tabelle in CloudStream einfügen. Alle Profile liegen im selben GitHub-Repository und können parallel eingebunden werden.
 
@@ -22,17 +22,17 @@ Für ein gezieltes Profil die passende Adresse aus der Tabelle in CloudStream ei
 
 | Nr. | Inhalt | CloudStream-URL |
 | --- | --- | --- |
-| 1 | Komplett: DE, EN, Anime und Hentai/NSFW | `https://raw.githubusercontent.com/DevMonkeyOps/GerCS4ALL/main/repo.json` |
-| 2 | Filme/Serien DE + Sport multilingual ohne Asien + Anime DE | `https://raw.githubusercontent.com/DevMonkeyOps/GerCS4ALL/main/profiles/02-de-sport-anime-de/repo.json` |
-| 3 | Filme/Serien EN + Sport multilingual ohne Asien + Anime EN | `https://raw.githubusercontent.com/DevMonkeyOps/GerCS4ALL/main/profiles/03-en-sport-anime-en/repo.json` |
-| 4 | Filme/Serien DE + Sport multilingual ohne Asien + Anime DE/EN | `https://raw.githubusercontent.com/DevMonkeyOps/GerCS4ALL/main/profiles/04-de-sport-anime-de-en/repo.json` |
-| 5 | Nur Anime DE/EN | `https://raw.githubusercontent.com/DevMonkeyOps/GerCS4ALL/main/profiles/05-anime-de-en/repo.json` |
-| 6 | Nur Sport multilingual ohne Asien | `https://raw.githubusercontent.com/DevMonkeyOps/GerCS4ALL/main/profiles/06-sport-multilingual-no-asia/repo.json` |
-| 7 | Nur Filme & Serien DE | `https://raw.githubusercontent.com/DevMonkeyOps/GerCS4ALL/main/profiles/07-movies-series-de/repo.json` |
-| 8 | Nur Filme & Serien DE/EN | `https://raw.githubusercontent.com/DevMonkeyOps/GerCS4ALL/main/profiles/08-movies-series-de-en/repo.json` |
-| 9 | Sport multilingual ohne Asien + asiatische Sportquellen DE/EN | `https://raw.githubusercontent.com/DevMonkeyOps/GerCS4ALL/main/profiles/09-sport-multilingual-plus-asia-de-en/repo.json` |
-| 10 | Filme/Serien DE/EN + Sport multilingual ohne Asien + Anime DE/EN | `https://raw.githubusercontent.com/DevMonkeyOps/GerCS4ALL/main/profiles/10-de-en-sport-anime-de-en/repo.json` |
-| Zusatz | Nur Hentai/NSFW | `https://raw.githubusercontent.com/DevMonkeyOps/GerCS4ALL/main/single-repos/hentai/repo.json` |
+| 1 | Komplett: DE, EN, Anime und Hentai/NSFW | `https://raw.githubusercontent.com/DarkNinja-dev/GerCS4ALL/main/repo.json` |
+| 2 | Filme/Serien DE + Sport multilingual ohne Asien + Anime DE | `https://raw.githubusercontent.com/DarkNinja-dev/GerCS4ALL/main/profiles/02-de-sport-anime-de/repo.json` |
+| 3 | Filme/Serien EN + Sport multilingual ohne Asien + Anime EN | `https://raw.githubusercontent.com/DarkNinja-dev/GerCS4ALL/main/profiles/03-en-sport-anime-en/repo.json` |
+| 4 | Filme/Serien DE + Sport multilingual ohne Asien + Anime DE/EN | `https://raw.githubusercontent.com/DarkNinja-dev/GerCS4ALL/main/profiles/04-de-sport-anime-de-en/repo.json` |
+| 5 | Nur Anime DE/EN | `https://raw.githubusercontent.com/DarkNinja-dev/GerCS4ALL/main/profiles/05-anime-de-en/repo.json` |
+| 6 | Nur Sport multilingual ohne Asien | `https://raw.githubusercontent.com/DarkNinja-dev/GerCS4ALL/main/profiles/06-sport-multilingual-no-asia/repo.json` |
+| 7 | Nur Filme & Serien DE | `https://raw.githubusercontent.com/DarkNinja-dev/GerCS4ALL/main/profiles/07-movies-series-de/repo.json` |
+| 8 | Nur Filme & Serien DE/EN | `https://raw.githubusercontent.com/DarkNinja-dev/GerCS4ALL/main/profiles/08-movies-series-de-en/repo.json` |
+| 9 | Sport multilingual ohne Asien + asiatische Sportquellen DE/EN | `https://raw.githubusercontent.com/DarkNinja-dev/GerCS4ALL/main/profiles/09-sport-multilingual-plus-asia-de-en/repo.json` |
+| 10 | Filme/Serien DE/EN + Sport multilingual ohne Asien + Anime DE/EN | `https://raw.githubusercontent.com/DarkNinja-dev/GerCS4ALL/main/profiles/10-de-en-sport-anime-de-en/repo.json` |
+| Zusatz | Nur Hentai/NSFW | `https://raw.githubusercontent.com/DarkNinja-dev/GerCS4ALL/main/single-repos/hentai/repo.json` |
 
 Die Einzelkategorien bleiben außerdem unter `single-repos/<kategorie>/repo.json` erreichbar.
 

@@ -2,8 +2,8 @@
   "name": "GerCS4ALL – Filme & Serien DE/EN",
   "description": "Deutsche und englische Erweiterungen für Filme und Serien.",
   "manifestVersion": 1,
-  "iconUrl": "https://raw.githubusercontent.com/DevMonkeyOps/GerCS4ALL/main/icons/repo.svg",
+  "iconUrl": "https://raw.githubusercontent.com/DarkNinja-dev/GerCS4ALL/main/icons/repo.svg",
   "pluginLists": [
-    "https://raw.githubusercontent.com/DevMonkeyOps/GerCS4ALL/main/lists/profiles/movies-series-de-en.json"
+    "https://raw.githubusercontent.com/DarkNinja-dev/GerCS4ALL/main/lists/profiles/movies-series-de-en.json"
   ]
 }

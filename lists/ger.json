@@ -106,8 +106,8 @@
       "DevMonkeyOps",
       "Bnyro"
     ],
-    "repositoryUrl": "https://github.com/DevMonkeyOps/GerCS4ALL",
-    "url": "https://raw.githubusercontent.com/DevMonkeyOps/GerCS4ALL/main/plugins/ger/GerCS4ALLEinschalten.cs3",
+    "repositoryUrl": "https://github.com/DarkNinja-dev/GerCS4ALL",
+    "url": "https://raw.githubusercontent.com/DarkNinja-dev/GerCS4ALL/main/plugins/ger/GerCS4ALLEinschalten.cs3",
     "fileSize": 12634,
     "fileHash": "sha256-84b0a7d3e85cbc1e8a11a2c81dd030bab1e89da65237ba6237a4455d0bb6cf89",
     "language": "de",
@@ -127,8 +127,8 @@
       "DevMonkeyOps",
       "Bnyro"
     ],
-    "repositoryUrl": "https://github.com/DevMonkeyOps/GerCS4ALL",
-    "url": "https://raw.githubusercontent.com/DevMonkeyOps/GerCS4ALL/main/plugins/ger/GerCS4ALLKinoKiste.cs3",
+    "repositoryUrl": "https://github.com/DarkNinja-dev/GerCS4ALL",
+    "url": "https://raw.githubusercontent.com/DarkNinja-dev/GerCS4ALL/main/plugins/ger/GerCS4ALLKinoKiste.cs3",
     "fileSize": 25998,
     "fileHash": "sha256-96d68de6f8427990616ba77367bb36bb4f4406cb77785e052da0f4332272c964",
     "language": "de",
@@ -149,8 +149,8 @@
       "DevMonkeyOps",
       "Bnyro"
     ],
-    "repositoryUrl": "https://github.com/DevMonkeyOps/GerCS4ALL",
-    "url": "https://raw.githubusercontent.com/DevMonkeyOps/GerCS4ALL/main/plugins/ger/GerCS4ALLMediatheken.cs3",
+    "repositoryUrl": "https://github.com/DarkNinja-dev/GerCS4ALL",
+    "url": "https://raw.githubusercontent.com/DarkNinja-dev/GerCS4ALL/main/plugins/ger/GerCS4ALLMediatheken.cs3",
     "fileSize": 25988,
     "fileHash": "sha256-771bfab9a7740fb7edbe1c315768e53fef141329df46f8ca0d29eca589123d67",
     "language": "de",
@@ -171,8 +171,8 @@
       "DevMonkeyOps",
       "Bnyro"
     ],
-    "repositoryUrl": "https://github.com/DevMonkeyOps/GerCS4ALL",
-    "url": "https://raw.githubusercontent.com/DevMonkeyOps/GerCS4ALL/main/plugins/ger/GerCS4ALLSerienStream.cs3",
+    "repositoryUrl": "https://github.com/DarkNinja-dev/GerCS4ALL",
+    "url": "https://raw.githubusercontent.com/DarkNinja-dev/GerCS4ALL/main/plugins/ger/GerCS4ALLSerienStream.cs3",
     "fileSize": 18183,
     "fileHash": "sha256-20369f6084232bdf81cfd735656f38bf572612d13ff6dc1ef48bc04dcbcaf612",
     "language": "de",
