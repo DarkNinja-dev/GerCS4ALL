@@ -1,4 +1,4 @@
-# GerCS4ALL – kuratierte CloudStream-Quellen
+# DE/EN Quellen – kuratiertes CloudStream-Verzeichnis
 
 Ein GitHub-Repository mit mehreren unabhängig einbindbaren CloudStream-Profilen für DE, EN, Anime, Sport und NSFW. Defekte Quellen und identische Installer-Duplikate werden nicht als separate Erweiterungen veröffentlicht.
 
@@ -39,34 +39,36 @@ Die Einzelkategorien bleiben außerdem unter `single-repos/<kategorie>/repo.json
 
 ## Lokale, gepflegte Erweiterungen
 
-`GerCS4ALLAnimeDE` registriert **AnimeToast** nur als `Anime`, `AnimeMovie` und `OVA`. Es erscheint daher in Profil 2 sowie in den Anime-DE/DE-EN-Profilen, nie in Film- oder Serienfiltern.
+`AnimeToast` registriert ausschließlich AnimeToast als `Anime`, `AnimeMovie` und `OVA`. Es erscheint daher in Profil 2 sowie in den Anime-DE/DE-EN-Profilen, nie in Film- oder Serienfiltern.
 
-`GerCS4ALLAnimeEN` registriert **KayoAnime** mit derselben reinen Anime-Kategorie für die englischen Anime-Profile. Normale Google-Drive-Dateien werden direkt aufgelöst; Drive-Ordner werden bewusst nicht als angebliche Streams angezeigt.
+`KayoAnime` registriert KayoAnime mit derselben reinen Anime-Kategorie für die englischen Anime-Profile. Normale Google-Drive-Dateien werden direkt aufgelöst; Drive-Ordner werden bewusst nicht als angebliche Streams angezeigt.
 
-`GerCS4ALLArchiveMoviesDE` durchsucht den öffentlichen Internet-Archive-Katalog für deutsch markierte Filme und stellt bis zu 60 Ergebnisse pro Seite bereit. `GerCS4ALLArchiveAnimeDE` ist davon getrennt und führt die Archivsuche `anime deutsch` aus – Anime kann dadurch nicht bei Filmen oder Serien auftauchen.
+`InternetArchiveMoviesDE` durchsucht den öffentlichen Internet-Archive-Katalog für deutsch markierte Filme und stellt bis zu 60 Ergebnisse pro Seite bereit. `InternetArchiveAnimeDE` ist davon getrennt und führt die Archivsuche `anime deutsch` aus – Anime kann dadurch nicht bei Filmen oder Serien auftauchen.
 
-`GerCS4ALLSerienStream` registriert nur Serien. In den Plugin-Einstellungen stehen `serienstream.to`, `serienstream.cx` und die HTTP-Direkt-IP `186.2.175.5` zur Auswahl.
+`SerienStream` registriert nur Serien. In den Plugin-Einstellungen stehen `serienstream.to`, `serienstream.cx` und die HTTP-Direkt-IP `186.2.175.5` zur Auswahl.
 
-`GerCS4ALLKinoKiste` fasst die geprüften Spiegel `kinokiste.club`, `kkiste.eu`, `movie4k.sx`, `streamcloud.sx` und `xcine.ru` zu genau einer Quelle zusammen. Die Domain ist in den Plugin-Einstellungen auswählbar. Film- und Serienlisten liefern bis zu 60 Treffer; enthalten sind Trends, Neuheiten, meistgesehene und bestbewertete Titel, Bewertungen, Marvel/MCU sowie Genrelisten.
+`KinoKiste`, `KKiste`, `Movie4k`, `Streamcloud` und `XcineRU` sind jeweils getrennte Erweiterungen mit ihrer jeweiligen Adresse. Jede liefert bis zu 60 Treffer sowie Trends, Neuheiten, meistgesehene und bestbewertete Titel, Bewertungen, Marvel/MCU und Genrelisten.
 
-`GerCS4ALLMediatheken` registriert DMAX, TELE 5 und TLC über ihre offiziellen Katalogschnittstellen. Coverbilder verwenden einen Fallback auf die Metadatenbilder.
+`DMAX`, `Tele5` und `TLC` sind getrennte Erweiterungen für die jeweiligen offiziellen Katalogschnittstellen. Coverbilder verwenden einen Fallback auf die Metadatenbilder.
 
-`GerCS4ALLEinschalten` ersetzt die doppelten alten Einträge. Die Quelle heißt im Client nur noch **Einschalten**.
+`Einschalten` ersetzt die doppelten alten Einträge. Die Quelle heißt im Client nur noch **Einschalten**.
+
+Die reine DE-Film-/Serienliste umfasst derzeit 22 sichtbare Quellen: ARD, DMAX, Einschalten, FilmFrei24, Filmo, FilmPalast, InternetArchiveMoviesDE, KellerKino, KinoKing, KinoKiste, KKiste, Megakino, Moflix, Movie4k, Netzkino, PlutoTV, SerienStream, Southpark, Streamcloud, Tele5, TLC und XcineRU.
 
 ## Wo erscheinen die Quellen?
 
-Ein Eintrag in der Erweiterungsverwaltung ist ein Plugin-Paket; die eigentlichen Quellen erscheinen nach dessen Aktivierung in CloudStream. Daher werden die folgenden Dienste nicht mehrfach als scheinbar verschiedene Erweiterungen gelistet:
+Ein Eintrag in der Erweiterungsverwaltung ist ein Plugin-Paket; die eigentlichen Quellen erscheinen nach dessen Aktivierung in CloudStream.
 
 | Sichtbare Quelle in CloudStream | Installiertes Paket |
 | --- | --- |
-| AnimeToast | `GerCS4ALLAnimeDE` |
-| KayoAnime | `GerCS4ALLAnimeEN` |
-| Internet Archive – Filme DE | `GerCS4ALLArchiveMoviesDE` |
-| Internet Archive – Anime DE | `GerCS4ALLArchiveAnimeDE` |
+| AnimeToast | `AnimeToast` |
+| KayoAnime | `KayoAnime` |
+| Internet Archive – Filme DE | `InternetArchiveMoviesDE` |
+| Internet Archive – Anime DE | `InternetArchiveAnimeDE` |
 | Aniworld | bestehendes Paket `Aniworld` in der Anime-DE-Liste |
-| DMAX, TELE 5, TLC | `GerCS4ALLMediatheken` |
-| KinoKiste, Movie4k, Streamcloud, Xcine | `GerCS4ALLKinoKiste` (Domain-Auswahl) |
-| Einschalten | `GerCS4ALLEinschalten` |
+| DMAX, TELE 5, TLC | getrennt: `DMAX`, `Tele5`, `TLC` |
+| KinoKiste, KKiste, Movie4k, Streamcloud, Xcine | jeweils getrennte Erweiterung |
+| Einschalten | `Einschalten` |
 | Haho.moe, Hanime | NSFW-Pakete `Haho moe` und `Hanime` – nur Profil 1 bzw. die NSFW-Einzelquelle |
 
 AnimeCloud, Flixi, HDFilme, Huhu, Kinoger, TopStreamFilm und Xcine.top sind derzeit nicht veröffentlicht, weil die geprüften Schnittstellen leer, nicht erreichbar oder strukturell defekt waren. Sie werden nicht durch Attrappen mit leeren Kategorien ersetzt. Anime-Loads liefert beim Prüfen nur eine Cloudflare-Sperre; es kommt erst mit einer verifizierten CloudStream-Implementierung hinein.
@@ -79,10 +81,10 @@ Die Sportprofile ohne Asien schließen Quellen mit eindeutig asiatischem Bezug a
 
 ## Pflege
 
-Lokale Quellen liegen unter `extensions/GerCS4ALLSources/`. Der Build erzeugt echte `.cs3`-Archive mit `manifest.json`, `pluginClassName` und `classes.dex`:
+Lokale Quellen liegen unter `extensions/DEENQuellenSources/`. Der Build erzeugt echte `.cs3`-Archive mit `manifest.json`, `pluginClassName` und `classes.dex`:
 
 ```sh
-cd extensions/GerCS4ALLSources
+cd extensions/DEENQuellenSources
 ./gradlew -Dorg.gradle.java.home=/usr/lib/jvm/java-21-openjdk-amd64 make makePluginsJson
 ```
 

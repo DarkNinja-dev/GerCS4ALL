@@ -1,6 +1,28 @@
 [
   {
     "status": 1,
+    "version": 1,
+    "name": "AnimeToast",
+    "internalName": "AnimeToast",
+    "authors": [
+      "DarkNinja-dev"
+    ],
+    "repositoryUrl": "https://github.com/DarkNinja-dev/GerCS4ALL",
+    "url": "https://raw.githubusercontent.com/DarkNinja-dev/GerCS4ALL/main/plugins/anime/AnimeToast.cs3",
+    "fileSize": 12750,
+    "fileHash": "sha256-c164ea3bf590d56664bdb9fad838730c056f99af61d7ee37512b46f75a0cf19c",
+    "language": "de",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=animetoast.cc&sz=%size%",
+    "apiVersion": 1,
+    "description": "AnimeToast. Ausschließlich deutsche Anime-Kategorien.",
+    "tvTypes": [
+      "Anime",
+      "AnimeMovie",
+      "OVA"
+    ]
+  },
+  {
+    "status": 1,
     "version": 14,
     "name": "Aniworld",
     "internalName": "Aniworld",
@@ -23,37 +45,15 @@
   {
     "status": 1,
     "version": 1,
-    "name": "GerCS4ALLAnimeDE",
-    "internalName": "GerCS4ALLAnimeDE",
+    "name": "InternetArchiveAnimeDE",
+    "internalName": "InternetArchiveAnimeDE",
     "authors": [
       "DarkNinja-dev"
     ],
     "repositoryUrl": "https://github.com/DarkNinja-dev/GerCS4ALL",
-    "url": "https://raw.githubusercontent.com/DarkNinja-dev/GerCS4ALL/main/plugins/anime/GerCS4ALLAnimeDE.cs3",
-    "fileSize": 12783,
-    "fileHash": "sha256-dcdbcad0f7071aacc4695eef966093cb0bd9ab6b01cf6abfe8006fc8aafc99bc",
-    "language": "de",
-    "iconUrl": "https://www.google.com/s2/favicons?domain=animetoast.cc&sz=%size%",
-    "apiVersion": 1,
-    "description": "AnimeToast. Ausschließlich deutsche Anime-Kategorien.",
-    "tvTypes": [
-      "Anime",
-      "AnimeMovie",
-      "OVA"
-    ]
-  },
-  {
-    "status": 1,
-    "version": 1,
-    "name": "GerCS4ALLArchiveAnimeDE",
-    "internalName": "GerCS4ALLArchiveAnimeDE",
-    "authors": [
-      "DarkNinja-dev"
-    ],
-    "repositoryUrl": "https://github.com/DarkNinja-dev/GerCS4ALL",
-    "url": "https://raw.githubusercontent.com/DarkNinja-dev/GerCS4ALL/main/plugins/anime/GerCS4ALLArchiveAnimeDE.cs3",
-    "fileSize": 18468,
-    "fileHash": "sha256-7603c64836ca14c101dae71f1d1644aafbbd5d9e6d1906d7f54af0ae9847d696",
+    "url": "https://raw.githubusercontent.com/DarkNinja-dev/GerCS4ALL/main/plugins/anime/InternetArchiveAnimeDE.cs3",
+    "fileSize": 18452,
+    "fileHash": "sha256-3e815a7482d862829b6d9fe3e2ce3e5b84f8e2ad8353b3aa5a2cfa7cd082f278",
     "language": "de",
     "iconUrl": "https://www.google.com/s2/favicons?domain=archive.org&sz=%size%",
     "apiVersion": 1,

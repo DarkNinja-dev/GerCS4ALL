@@ -42,6 +42,49 @@
   {
     "status": 1,
     "version": 1,
+    "name": "DMAX",
+    "internalName": "DMAX",
+    "authors": [
+      "DarkNinja-dev",
+      "Bnyro"
+    ],
+    "repositoryUrl": "https://github.com/DarkNinja-dev/GerCS4ALL",
+    "url": "https://raw.githubusercontent.com/DarkNinja-dev/GerCS4ALL/main/plugins/ger/DMAX.cs3",
+    "fileSize": 25880,
+    "fileHash": "sha256-cbdf0ec9ea86ac93515e8c46c8ac44a0de9b179e45fdf01f4d7e974a528e2024",
+    "language": "de",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=dmax.de&sz=%size%",
+    "apiVersion": 1,
+    "description": "Offizielle DMAX-Mediathek mit korrigierten Coverbildern.",
+    "tvTypes": [
+      "Movie",
+      "TvSeries"
+    ]
+  },
+  {
+    "status": 1,
+    "version": 1,
+    "name": "Einschalten",
+    "internalName": "Einschalten",
+    "authors": [
+      "DarkNinja-dev",
+      "Bnyro"
+    ],
+    "repositoryUrl": "https://github.com/DarkNinja-dev/GerCS4ALL",
+    "url": "https://raw.githubusercontent.com/DarkNinja-dev/GerCS4ALL/main/plugins/ger/Einschalten.cs3",
+    "fileSize": 12613,
+    "fileHash": "sha256-85d5fe5ac132935ca2734424791674bb94e41b5ff0655d04e8f9786d7fb12079",
+    "language": "de",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=einschalten.in&sz=%size%",
+    "apiVersion": 1,
+    "description": "Einschalten – nur ein Eintrag, korrekt benannt.",
+    "tvTypes": [
+      "Movie"
+    ]
+  },
+  {
+    "status": 1,
+    "version": 1,
     "name": "FilmFrei24",
     "internalName": "FilmFrei24",
     "authors": [
@@ -100,127 +143,21 @@
   {
     "status": 1,
     "version": 1,
-    "name": "GerCS4ALLArchiveMoviesDE",
-    "internalName": "GerCS4ALLArchiveMoviesDE",
+    "name": "InternetArchiveMoviesDE",
+    "internalName": "InternetArchiveMoviesDE",
     "authors": [
       "DarkNinja-dev"
     ],
     "repositoryUrl": "https://github.com/DarkNinja-dev/GerCS4ALL",
-    "url": "https://raw.githubusercontent.com/DarkNinja-dev/GerCS4ALL/main/plugins/ger/GerCS4ALLArchiveMoviesDE.cs3",
-    "fileSize": 18065,
-    "fileHash": "sha256-5bdabc23ec4c137b8b8f7f9a9e5eddb9d3efd7456c0f616124b817759d4bc75e",
+    "url": "https://raw.githubusercontent.com/DarkNinja-dev/GerCS4ALL/main/plugins/ger/InternetArchiveMoviesDE.cs3",
+    "fileSize": 18038,
+    "fileHash": "sha256-d1a4bdbf48f10732c336dcdb65dab4837a1fb4b83db87c38269ec39da3bbfbeb",
     "language": "de",
     "iconUrl": "https://www.google.com/s2/favicons?domain=archive.org&sz=%size%",
     "apiVersion": 1,
     "description": "Internet Archive: frei zugängliche Filme mit deutscher Sprachmetadaten-Kennung.",
     "tvTypes": [
       "Movie"
-    ]
-  },
-  {
-    "status": 1,
-    "version": 1,
-    "name": "GerCS4ALLEinschalten",
-    "internalName": "GerCS4ALLEinschalten",
-    "authors": [
-      "DevMonkeyOps",
-      "Bnyro"
-    ],
-    "repositoryUrl": "https://github.com/DarkNinja-dev/GerCS4ALL",
-    "url": "https://raw.githubusercontent.com/DarkNinja-dev/GerCS4ALL/main/plugins/ger/GerCS4ALLEinschalten.cs3",
-    "fileSize": 12634,
-    "fileHash": "sha256-84b0a7d3e85cbc1e8a11a2c81dd030bab1e89da65237ba6237a4455d0bb6cf89",
-    "language": "de",
-    "iconUrl": "https://www.google.com/s2/favicons?domain=einschalten.in&sz=%size%",
-    "apiVersion": 1,
-    "description": "Einschalten – nur ein Eintrag, korrekt benannt.",
-    "tvTypes": [
-      "Movie"
-    ]
-  },
-  {
-    "status": 1,
-    "version": 1,
-    "name": "GerCS4ALLKinoKiste",
-    "internalName": "GerCS4ALLKinoKiste",
-    "authors": [
-      "DevMonkeyOps",
-      "Bnyro"
-    ],
-    "repositoryUrl": "https://github.com/DarkNinja-dev/GerCS4ALL",
-    "url": "https://raw.githubusercontent.com/DarkNinja-dev/GerCS4ALL/main/plugins/ger/GerCS4ALLKinoKiste.cs3",
-    "fileSize": 25998,
-    "fileHash": "sha256-96d68de6f8427990616ba77367bb36bb4f4406cb77785e052da0f4332272c964",
-    "language": "de",
-    "iconUrl": "https://www.google.com/s2/favicons?domain=kinokiste.club&sz=%size%",
-    "apiVersion": 1,
-    "description": "KinoKiste mit auswählbaren geprüften Spiegeln, 60 Treffern und erweiterten Film-/Serienkategorien.",
-    "tvTypes": [
-      "Movie",
-      "TvSeries"
-    ]
-  },
-  {
-    "status": 1,
-    "version": 1,
-    "name": "GerCS4ALLMediatheken",
-    "internalName": "GerCS4ALLMediatheken",
-    "authors": [
-      "DevMonkeyOps",
-      "Bnyro"
-    ],
-    "repositoryUrl": "https://github.com/DarkNinja-dev/GerCS4ALL",
-    "url": "https://raw.githubusercontent.com/DarkNinja-dev/GerCS4ALL/main/plugins/ger/GerCS4ALLMediatheken.cs3",
-    "fileSize": 25988,
-    "fileHash": "sha256-771bfab9a7740fb7edbe1c315768e53fef141329df46f8ca0d29eca589123d67",
-    "language": "de",
-    "iconUrl": "https://www.google.com/s2/favicons?domain=dmax.de&sz=%size%",
-    "apiVersion": 1,
-    "description": "DMAX, TELE 5 und TLC mit Bild-Fallbacks für alle offiziellen Mediatheken.",
-    "tvTypes": [
-      "Movie",
-      "TvSeries"
-    ]
-  },
-  {
-    "status": 1,
-    "version": 1,
-    "name": "GerCS4ALLSerienStream",
-    "internalName": "GerCS4ALLSerienStream",
-    "authors": [
-      "DevMonkeyOps",
-      "Bnyro"
-    ],
-    "repositoryUrl": "https://github.com/DarkNinja-dev/GerCS4ALL",
-    "url": "https://raw.githubusercontent.com/DarkNinja-dev/GerCS4ALL/main/plugins/ger/GerCS4ALLSerienStream.cs3",
-    "fileSize": 18183,
-    "fileHash": "sha256-20369f6084232bdf81cfd735656f38bf572612d13ff6dc1ef48bc04dcbcaf612",
-    "language": "de",
-    "iconUrl": "https://www.google.com/s2/favicons?domain=serienstream.to&sz=%size%",
-    "apiVersion": 1,
-    "description": "SerienStream mit auswählbarer offizieller Domain oder Direkt-IP. Nur Serien.",
-    "tvTypes": [
-      "TvSeries"
-    ]
-  },
-  {
-    "status": 1,
-    "version": 1,
-    "name": "Iptv-org",
-    "internalName": "Iptv-org",
-    "authors": [
-      "Gian-Fr",
-      "Adippe"
-    ],
-    "repositoryUrl": "https://github.com/Gian-Fr/ItalianProvider",
-    "url": "https://raw.githubusercontent.com/Gian-Fr/ItalianProvider/builds/IptvorgProvider.cs3",
-    "fileSize": 0,
-    "language": "en",
-    "iconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=%size%",
-    "apiVersion": 1,
-    "description": "Kuratiert aus ItalianProvider-master.zip",
-    "tvTypes": [
-      "Live"
     ]
   },
   {
@@ -264,21 +201,46 @@
   },
   {
     "status": 1,
-    "version": 17,
-    "name": "M3UPlaylistPlayerProvider",
-    "internalName": "M3UPlaylistPlayerProvider",
+    "version": 1,
+    "name": "KinoKiste",
+    "internalName": "KinoKiste",
     "authors": [
-      "NivinCNC"
+      "DarkNinja-dev",
+      "Bnyro"
     ],
-    "repositoryUrl": "https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension",
-    "url": "https://raw.githubusercontent.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/builds/M3UPlaylistPlayerProvider.cs3",
-    "fileSize": 0,
-    "language": "en",
-    "iconUrl": "https://play-lh.googleusercontent.com/V4t4JeQV2Cu9u72hKuqOW5c0IfwcZuuVS1d9PF2uJsW3rlIq-aOMTrT5bABVGaAFTcM=w480-h960-rw",
+    "repositoryUrl": "https://github.com/DarkNinja-dev/GerCS4ALL",
+    "url": "https://raw.githubusercontent.com/DarkNinja-dev/GerCS4ALL/main/plugins/ger/KinoKiste.cs3",
+    "fileSize": 22645,
+    "fileHash": "sha256-f771dda8f4303196b82049503b4183275774228842437591300e42c6b9aa004c",
+    "language": "de",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=kinokiste.club&sz=%size%",
     "apiVersion": 1,
-    "description": "Add your own m3u playlists",
+    "description": "KinoKiste mit 60 Treffern und erweiterten Film-/Serienkategorien.",
     "tvTypes": [
-      "Live"
+      "Movie",
+      "TvSeries"
+    ]
+  },
+  {
+    "status": 1,
+    "version": 1,
+    "name": "KKiste",
+    "internalName": "KKiste",
+    "authors": [
+      "DarkNinja-dev",
+      "Bnyro"
+    ],
+    "repositoryUrl": "https://github.com/DarkNinja-dev/GerCS4ALL",
+    "url": "https://raw.githubusercontent.com/DarkNinja-dev/GerCS4ALL/main/plugins/ger/KKiste.cs3",
+    "fileSize": 22611,
+    "fileHash": "sha256-3827e4a1db2cb9dd7eb43577bd2718a21395f84a7003ac7c9f5ace9b198833b6",
+    "language": "de",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=kkiste.eu&sz=%size%",
+    "apiVersion": 1,
+    "description": "KKiste mit 60 Treffern und erweiterten Film-/Serienkategorien.",
+    "tvTypes": [
+      "Movie",
+      "TvSeries"
     ]
   },
   {
@@ -327,6 +289,28 @@
   {
     "status": 1,
     "version": 1,
+    "name": "Movie4k",
+    "internalName": "Movie4k",
+    "authors": [
+      "DarkNinja-dev",
+      "Bnyro"
+    ],
+    "repositoryUrl": "https://github.com/DarkNinja-dev/GerCS4ALL",
+    "url": "https://raw.githubusercontent.com/DarkNinja-dev/GerCS4ALL/main/plugins/ger/Movie4k.cs3",
+    "fileSize": 22644,
+    "fileHash": "sha256-0817eca5b3d67907122f826b272ab8ce7ad03bd59802a05f018efa8a695db646",
+    "language": "de",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=movie4k.sx&sz=%size%",
+    "apiVersion": 1,
+    "description": "Movie4k mit 60 Treffern und erweiterten Film-/Serienkategorien.",
+    "tvTypes": [
+      "Movie",
+      "TvSeries"
+    ]
+  },
+  {
+    "status": 1,
+    "version": 1,
     "name": "Netzkino",
     "internalName": "Netzkino",
     "authors": [
@@ -366,21 +350,23 @@
   },
   {
     "status": 1,
-    "version": 8,
-    "name": "QuickIPTV",
-    "internalName": "QuickIPTV",
+    "version": 1,
+    "name": "SerienStream",
+    "internalName": "SerienStream",
     "authors": [
-      "Phisher98"
+      "DarkNinja-dev",
+      "Bnyro"
     ],
-    "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
-    "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/QuickIPTV.cs3",
-    "fileSize": 0,
-    "language": "en",
-    "iconUrl": "https://www.google.com/s2/favicons?domain=github.com&sz=%size%",
+    "repositoryUrl": "https://github.com/DarkNinja-dev/GerCS4ALL",
+    "url": "https://raw.githubusercontent.com/DarkNinja-dev/GerCS4ALL/main/plugins/ger/SerienStream.cs3",
+    "fileSize": 18138,
+    "fileHash": "sha256-70c4c84adddd3efc67f5a3f7aecc5141ecb7787af96723e778db664de13e8548",
+    "language": "de",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=serienstream.to&sz=%size%",
     "apiVersion": 1,
-    "description": "Includes PirateIPTV,Sports IPTV,Japanese IPTV,Sony IPTV",
+    "description": "SerienStream mit auswählbarer offizieller Domain oder Direkt-IP. Nur Serien.",
     "tvTypes": [
-      "Live"
+      "TvSeries"
     ]
   },
   {
@@ -423,6 +409,72 @@
   },
   {
     "status": 1,
+    "version": 1,
+    "name": "Streamcloud",
+    "internalName": "Streamcloud",
+    "authors": [
+      "DarkNinja-dev",
+      "Bnyro"
+    ],
+    "repositoryUrl": "https://github.com/DarkNinja-dev/GerCS4ALL",
+    "url": "https://raw.githubusercontent.com/DarkNinja-dev/GerCS4ALL/main/plugins/ger/Streamcloud.cs3",
+    "fileSize": 22646,
+    "fileHash": "sha256-406bf84d31332738e699b8f6091241076f65fe8851ea81aae20d08d04d72996f",
+    "language": "de",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=streamcloud.sx&sz=%size%",
+    "apiVersion": 1,
+    "description": "Streamcloud mit 60 Treffern und erweiterten Film-/Serienkategorien.",
+    "tvTypes": [
+      "Movie",
+      "TvSeries"
+    ]
+  },
+  {
+    "status": 1,
+    "version": 1,
+    "name": "Tele5",
+    "internalName": "Tele5",
+    "authors": [
+      "DarkNinja-dev",
+      "Bnyro"
+    ],
+    "repositoryUrl": "https://github.com/DarkNinja-dev/GerCS4ALL",
+    "url": "https://raw.githubusercontent.com/DarkNinja-dev/GerCS4ALL/main/plugins/ger/Tele5.cs3",
+    "fileSize": 25904,
+    "fileHash": "sha256-ebe37368967ada42acb1961bc7846a27fc3a3cdd1a7f6ad9a91c8c07614d4ee0",
+    "language": "de",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=tele5.de&sz=%size%",
+    "apiVersion": 1,
+    "description": "Offizielle TELE-5-Mediathek mit korrigierten Coverbildern.",
+    "tvTypes": [
+      "Movie",
+      "TvSeries"
+    ]
+  },
+  {
+    "status": 1,
+    "version": 1,
+    "name": "TLC",
+    "internalName": "TLC",
+    "authors": [
+      "DarkNinja-dev",
+      "Bnyro"
+    ],
+    "repositoryUrl": "https://github.com/DarkNinja-dev/GerCS4ALL",
+    "url": "https://raw.githubusercontent.com/DarkNinja-dev/GerCS4ALL/main/plugins/ger/TLC.cs3",
+    "fileSize": 25899,
+    "fileHash": "sha256-2e51f2113062ab5ec4bc310d810dca2c7c35e89d75a7dfd1868554d5079fba83",
+    "language": "de",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=tlc.de&sz=%size%",
+    "apiVersion": 1,
+    "description": "Offizielle TLC-Mediathek mit korrigierten Coverbildern.",
+    "tvTypes": [
+      "Movie",
+      "TvSeries"
+    ]
+  },
+  {
+    "status": 1,
     "version": 2,
     "name": "Welt",
     "internalName": "Welt",
@@ -442,41 +494,24 @@
   },
   {
     "status": 1,
-    "version": 4,
-    "name": "XtreamIPTV",
-    "internalName": "XtreamIPTV",
+    "version": 1,
+    "name": "XcineRU",
+    "internalName": "XcineRU",
     "authors": [
-      "KingLucius"
+      "DarkNinja-dev",
+      "Bnyro"
     ],
-    "repositoryUrl": "https://github.com/KingLucius/cs-extensions",
-    "url": "https://raw.githubusercontent.com/KingLucius/cs-extensions/builds/XtreamIPTV.cs3",
-    "fileSize": 0,
-    "language": "en",
-    "iconUrl": "https://raw.githubusercontent.com/KingLucius/cs-extensions/master/XtreamIPTV/icon.jpg",
+    "repositoryUrl": "https://github.com/DarkNinja-dev/GerCS4ALL",
+    "url": "https://raw.githubusercontent.com/DarkNinja-dev/GerCS4ALL/main/plugins/ger/XcineRU.cs3",
+    "fileSize": 22640,
+    "fileHash": "sha256-bd8830113b9ec40a63b18927b5a8a3a217c91f95b9b751521191fce137f1f192",
+    "language": "de",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=xcine.ru&sz=%size%",
     "apiVersion": 1,
-    "description": "Xtream IPTV Live categories, use \"Clone site\" feature and add settings as url,user,pass to pass server details.",
-    "tvTypes": [
-      "Live"
-    ]
-  },
-  {
-    "status": 1,
-    "version": 11,
-    "name": "YTS",
-    "internalName": "YTS",
-    "authors": [
-      "Phisher98"
-    ],
-    "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
-    "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/YTS.cs3",
-    "fileSize": 0,
-    "language": "en",
-    "iconUrl": "https://raw.githubusercontent.com/phisher98/TVVVV/refs/heads/main/Icons/yts.png",
-    "apiVersion": 1,
-    "description": "YTS Movies 4K Support (Torrent)",
+    "description": "XcineRU mit 60 Treffern und erweiterten Film-/Serienkategorien.",
     "tvTypes": [
       "Movie",
-      "Torrent"
+      "TvSeries"
     ]
   }
 ]

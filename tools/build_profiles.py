@@ -141,55 +141,55 @@ def main() -> None:
 
     write_profile(
         "02-de-sport-anime-de",
-        "GerCS4ALL – DE: Filme/Serien + Sport + Anime DE",
+        "DE/EN Quellen – DE: Filme/Serien + Sport + Anime DE",
         "Deutschsprachige Filme/Serien, mehrsprachiger Sport ohne Asien und deutsche Anime-Quellen.",
         ["movies-series-de", "sport-multilingual-no-asia", "anime-de"],
     )
     write_profile(
         "03-en-sport-anime-en",
-        "GerCS4ALL – EN: Movies/Series + Sport + Anime EN",
+        "DE/EN Quellen – EN: Movies/Series + Sport + Anime EN",
         "Englische Filme/Serien, mehrsprachiger Sport ohne Asien und englische Anime-Quellen.",
         ["movies-series-en", "sport-multilingual-no-asia", "anime-en"],
     )
     write_profile(
         "04-de-sport-anime-de-en",
-        "GerCS4ALL – DE: Filme/Serien + Sport + Anime DE/EN",
+        "DE/EN Quellen – DE: Filme/Serien + Sport + Anime DE/EN",
         "Deutschsprachige Filme/Serien, mehrsprachiger Sport ohne Asien sowie deutsche und englische Anime-Quellen.",
         ["movies-series-de", "sport-multilingual-no-asia", "anime-de-en"],
     )
     write_profile(
         "05-anime-de-en",
-        "GerCS4ALL – Anime DE/EN",
+        "DE/EN Quellen – Anime DE/EN",
         "Nur deutsche und englische Anime-Erweiterungen.",
         ["anime-de-en"],
     )
     write_profile(
         "06-sport-multilingual-no-asia",
-        "GerCS4ALL – Sport multilingual ohne Asien",
+        "DE/EN Quellen – Sport multilingual ohne Asien",
         "Kuratiertes Sportangebot in mehreren Sprachen; Quellen mit eindeutig asiatischem Bezug sind ausgeschlossen.",
         ["sport-multilingual-no-asia"],
     )
     write_profile(
         "07-movies-series-de",
-        "GerCS4ALL – Filme & Serien DE",
+        "DE/EN Quellen – Filme & Serien DE",
         "Nur Erweiterungen mit deutscher Sprachkennzeichnung für Filme und Serien.",
         ["movies-series-de"],
     )
     write_profile(
         "08-movies-series-de-en",
-        "GerCS4ALL – Filme & Serien DE/EN",
+        "DE/EN Quellen – Filme & Serien DE/EN",
         "Deutsche und englische Erweiterungen für Filme und Serien.",
         ["movies-series-de-en"],
     )
     write_profile(
         "09-sport-multilingual-plus-asia-de-en",
-        "GerCS4ALL – Sport multilingual + Asien DE/EN",
+        "DE/EN Quellen – Sport multilingual + Asien DE/EN",
         "Mehrsprachiger Sport ohne Asien sowie gezielt deutsche/englische Sportquellen mit asiatischem Bezug.",
         ["sport-multilingual-plus-asia-de-en"],
     )
     write_profile(
         "10-de-en-sport-anime-de-en",
-        "GerCS4ALL – DE/EN: Filme/Serien + Sport + Anime DE/EN",
+        "DE/EN Quellen – DE/EN: Filme/Serien + Sport + Anime DE/EN",
         "Deutsche und englische Filme/Serien, mehrsprachiger Sport ohne Asien sowie deutsche und englische Anime-Quellen.",
         ["movies-series-de-en", "sport-multilingual-no-asia", "anime-de-en"],
     )

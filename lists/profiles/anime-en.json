@@ -615,28 +615,6 @@
   },
   {
     "status": 1,
-    "version": 1,
-    "name": "GerCS4ALLAnimeEN",
-    "internalName": "GerCS4ALLAnimeEN",
-    "authors": [
-      "DarkNinja-dev"
-    ],
-    "repositoryUrl": "https://github.com/DarkNinja-dev/GerCS4ALL",
-    "url": "https://raw.githubusercontent.com/DarkNinja-dev/GerCS4ALL/main/plugins/anime/GerCS4ALLAnimeEN.cs3",
-    "fileSize": 12789,
-    "fileHash": "sha256-7b664260c805344132aa3d2a43e0397c765c69168ff0542b7f4a272126fb0c3c",
-    "language": "en",
-    "iconUrl": "https://www.google.com/s2/favicons?domain=kayoanime.com&sz=%size%",
-    "apiVersion": 1,
-    "description": "KayoAnime. Ausschließlich englische Anime-Kategorien.",
-    "tvTypes": [
-      "Anime",
-      "AnimeMovie",
-      "OVA"
-    ]
-  },
-  {
-    "status": 1,
     "version": 6,
     "name": "Jellyfin",
     "internalName": "Jellyfin",
@@ -692,6 +670,28 @@
     "tvTypes": [
       "AnimeMovie",
       "Anime"
+    ]
+  },
+  {
+    "status": 1,
+    "version": 1,
+    "name": "KayoAnime",
+    "internalName": "KayoAnime",
+    "authors": [
+      "DarkNinja-dev"
+    ],
+    "repositoryUrl": "https://github.com/DarkNinja-dev/GerCS4ALL",
+    "url": "https://raw.githubusercontent.com/DarkNinja-dev/GerCS4ALL/main/plugins/anime/KayoAnime.cs3",
+    "fileSize": 12745,
+    "fileHash": "sha256-45de6f53e9e2217b805693c01af886ccc18f414b07fed7cd6a72305557d169af",
+    "language": "en",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=kayoanime.com&sz=%size%",
+    "apiVersion": 1,
+    "description": "KayoAnime. Ausschließlich englische Anime-Kategorien.",
+    "tvTypes": [
+      "Anime",
+      "AnimeMovie",
+      "OVA"
     ]
   },
   {
