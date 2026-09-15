@@ -658,7 +658,7 @@
   },
   {
     "status": 1,
-    "version": 1,
+    "version": 2,
     "name": "InternetArchiveAnimeDE",
     "internalName": "InternetArchiveAnimeDE",
     "authors": [
@@ -666,8 +666,8 @@
     ],
     "repositoryUrl": "https://github.com/DarkNinja-dev/GerCS4ALL",
     "url": "https://raw.githubusercontent.com/DarkNinja-dev/GerCS4ALL/main/plugins/anime/InternetArchiveAnimeDE.cs3",
-    "fileSize": 18452,
-    "fileHash": "sha256-3e815a7482d862829b6d9fe3e2ce3e5b84f8e2ad8353b3aa5a2cfa7cd082f278",
+    "fileSize": 18430,
+    "fileHash": "sha256-1fef6f33b68dab44619614ee0f963846088300141c6f9e5db6be12775dc7c744",
     "language": "de",
     "iconUrl": "https://www.google.com/s2/favicons?domain=archive.org&sz=%size%",
     "apiVersion": 1,

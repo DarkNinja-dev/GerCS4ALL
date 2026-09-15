@@ -83,7 +83,7 @@
   },
   {
     "status": 1,
-    "version": 1,
+    "version": 2,
     "name": "DMAX",
     "internalName": "DMAX",
     "authors": [
@@ -92,8 +92,8 @@
     ],
     "repositoryUrl": "https://github.com/DarkNinja-dev/GerCS4ALL",
     "url": "https://raw.githubusercontent.com/DarkNinja-dev/GerCS4ALL/main/plugins/ger/DMAX.cs3",
-    "fileSize": 25880,
-    "fileHash": "sha256-cbdf0ec9ea86ac93515e8c46c8ac44a0de9b179e45fdf01f4d7e974a528e2024",
+    "fileSize": 28867,
+    "fileHash": "sha256-12953a86feaeac40d60e3ca17a36be35d0bd21cfc8f5cad0e0447a94795ea39a",
     "language": "de",
     "iconUrl": "https://www.google.com/s2/favicons?domain=dmax.de&sz=%size%",
     "apiVersion": 1,
@@ -105,7 +105,7 @@
   },
   {
     "status": 1,
-    "version": 1,
+    "version": 2,
     "name": "Einschalten",
     "internalName": "Einschalten",
     "authors": [
@@ -114,8 +114,8 @@
     ],
     "repositoryUrl": "https://github.com/DarkNinja-dev/GerCS4ALL",
     "url": "https://raw.githubusercontent.com/DarkNinja-dev/GerCS4ALL/main/plugins/ger/Einschalten.cs3",
-    "fileSize": 12613,
-    "fileHash": "sha256-85d5fe5ac132935ca2734424791674bb94e41b5ff0655d04e8f9786d7fb12079",
+    "fileSize": 12605,
+    "fileHash": "sha256-2a3676ad1f7b40f18a9e01b5df9d42ac2fc2daeb9669acd71ebf2f6266e729cc",
     "language": "de",
     "iconUrl": "https://www.google.com/s2/favicons?domain=einschalten.in&sz=%size%",
     "apiVersion": 1,
@@ -285,7 +285,7 @@
   },
   {
     "status": 1,
-    "version": 1,
+    "version": 2,
     "name": "InternetArchiveMoviesDE",
     "internalName": "InternetArchiveMoviesDE",
     "authors": [
@@ -293,8 +293,8 @@
     ],
     "repositoryUrl": "https://github.com/DarkNinja-dev/GerCS4ALL",
     "url": "https://raw.githubusercontent.com/DarkNinja-dev/GerCS4ALL/main/plugins/ger/InternetArchiveMoviesDE.cs3",
-    "fileSize": 18038,
-    "fileHash": "sha256-d1a4bdbf48f10732c336dcdb65dab4837a1fb4b83db87c38269ec39da3bbfbeb",
+    "fileSize": 18043,
+    "fileHash": "sha256-f98131cbf2bd37dc36d989b872ea76ca4b2acad385b184ea1a0d50e2a235a17d",
     "language": "de",
     "iconUrl": "https://www.google.com/s2/favicons?domain=archive.org&sz=%size%",
     "apiVersion": 1,
@@ -834,7 +834,7 @@
   },
   {
     "status": 1,
-    "version": 1,
+    "version": 2,
     "name": "Tele5",
     "internalName": "Tele5",
     "authors": [
@@ -843,8 +843,8 @@
     ],
     "repositoryUrl": "https://github.com/DarkNinja-dev/GerCS4ALL",
     "url": "https://raw.githubusercontent.com/DarkNinja-dev/GerCS4ALL/main/plugins/ger/Tele5.cs3",
-    "fileSize": 25904,
-    "fileHash": "sha256-ebe37368967ada42acb1961bc7846a27fc3a3cdd1a7f6ad9a91c8c07614d4ee0",
+    "fileSize": 28864,
+    "fileHash": "sha256-319d6ecbeee942e6e53f400c56a72f1e89d364c472a4f64440ce056705df0764",
     "language": "de",
     "iconUrl": "https://www.google.com/s2/favicons?domain=tele5.de&sz=%size%",
     "apiVersion": 1,
@@ -876,7 +876,7 @@
   },
   {
     "status": 1,
-    "version": 1,
+    "version": 2,
     "name": "TLC",
     "internalName": "TLC",
     "authors": [
@@ -885,8 +885,8 @@
     ],
     "repositoryUrl": "https://github.com/DarkNinja-dev/GerCS4ALL",
     "url": "https://raw.githubusercontent.com/DarkNinja-dev/GerCS4ALL/main/plugins/ger/TLC.cs3",
-    "fileSize": 25899,
-    "fileHash": "sha256-2e51f2113062ab5ec4bc310d810dca2c7c35e89d75a7dfd1868554d5079fba83",
+    "fileSize": 28858,
+    "fileHash": "sha256-60277987f40bf93a141a680156d9a0e6c4358253c13b00bbff747421626be95e",
     "language": "de",
     "iconUrl": "https://www.google.com/s2/favicons?domain=tlc.de&sz=%size%",
     "apiVersion": 1,

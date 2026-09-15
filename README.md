@@ -53,6 +53,16 @@ Die Einzelkategorien bleiben außerdem unter `single-repos/<kategorie>/repo.json
 
 `Einschalten` ersetzt die doppelten alten Einträge. Die Quelle heißt im Client nur noch **Einschalten**.
 
+### Update-Hinweis
+
+Die Pakete `DMAX`, `Tele5`, `TLC`, `InternetArchiveMoviesDE`, `InternetArchiveAnimeDE` und `Einschalten` werden mit Version 2 veröffentlicht. Nach einem Update müssen die erzeugten `.cs3`-Pakete **und** die passenden JSON-Listen gemeinsam eingecheckt werden; nur den Kotlin-Quellcode zu pushen aktualisiert keine bereits installierte CloudStream-Erweiterung.
+
+Nach dem Gradle-Build übernimmt `python3 tools/sync_local_plugins.py` das Kopieren dieser sechs Archive nach `plugins/` sowie Version, Dateigröße und SHA-256 in den Basislisten. Danach `python3 tools/build_profiles.py` ausführen, damit die Profil-Listen nachgezogen werden.
+
+`EinschaltenIn` bzw. ein zweiter Eintrag mit derselben Quelle kann nicht durch ein Repository automatisch entfernt werden: Es handelt sich um ein früher separat installiertes Paket. In CloudStream einmal unter **Erweiterungen → Installiert** entfernen und anschließend ausschließlich den Eintrag `Einschalten` aus diesem Repository installieren. Dasselbe Prinzip gilt für alte Doppelinstallationen von FilmPalast, Movie4k, KinoKiste, KinoKing, Streamcloud und Xcine.
+
+Die Internet-Archive-Quellen liegen absichtlich getrennt: `Internet Archive – Filme DE` ist in den Film-/Serien-DE-Profilen, `Internet Archive – Anime DE` in den Anime-DE-Profilen. Der allgemeine Eintrag `Internet Archive` liegt in der EN-Liste und damit im vollständigen sowie in den EN-Profilen. `Aniworld` liegt in der Anime-DE-Liste. Alle erscheinen erst nach Installation des jeweiligen Pakets in der Erweiterungsverwaltung, nicht bereits beim bloßen Hinzufügen des Repository-Links.
+
 Die reine DE-Film-/Serienliste umfasst derzeit 22 sichtbare Quellen: ARD, DMAX, Einschalten, FilmFrei24, Filmo, FilmPalast, InternetArchiveMoviesDE, KellerKino, KinoKing, KinoKiste, KKiste, Megakino, Moflix, Movie4k, Netzkino, PlutoTV, SerienStream, Southpark, Streamcloud, Tele5, TLC und XcineRU.
 
 ## Wo erscheinen die Quellen?
@@ -81,10 +91,10 @@ Die Sportprofile ohne Asien schließen Quellen mit eindeutig asiatischem Bezug a
 
 ## Pflege
 
-Lokale Quellen liegen unter `extensions/DEENQuellenSources/`. Der Build erzeugt echte `.cs3`-Archive mit `manifest.json`, `pluginClassName` und `classes.dex`:
+Lokale Quellen liegen unter `extensions/QuellenSources/`. Der Build erzeugt echte `.cs3`-Archive mit `manifest.json`, `pluginClassName` und `classes.dex`:
 
 ```sh
-cd extensions/DEENQuellenSources
+cd extensions/QuellenSources
 ./gradlew -Dorg.gradle.java.home=/usr/lib/jvm/java-21-openjdk-amd64 make makePluginsJson
 ```
 

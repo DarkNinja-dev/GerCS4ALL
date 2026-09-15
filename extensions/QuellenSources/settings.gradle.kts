@@ -1,0 +1,16 @@
+rootProject.name = "QuellenSources"
+
+include(":AnimeToast")
+include(":KayoAnime")
+include(":InternetArchiveMoviesDE")
+include(":InternetArchiveAnimeDE")
+include(":SerienStream")
+include(":KinoKiste")
+include(":KKiste")
+include(":Movie4k")
+include(":Streamcloud")
+include(":XcineRU")
+include(":DMAX")
+include(":Tele5")
+include(":TLC")
+include(":Einschalten")
