@@ -1,1 +1,1 @@
-AnimeToast.cs3, KayoAnime.cs3, InternetArchiveAnimeDE.cs3 werden lokal aus `extensions/DEENQuellenSources` gebaut und hier gespiegelt. Alle übrigen Einträge dieser Kategorie nutzen weiterhin verifizierte Upstream-URLs.
+AnimeToast.cs3, KayoAnime.cs3, InternetArchiveAnimeDE.cs3 werden lokal aus `extensions/QuellenSources` gebaut und hier gespiegelt. Alle übrigen Einträge dieser Kategorie nutzen weiterhin verifizierte Upstream-URLs.
