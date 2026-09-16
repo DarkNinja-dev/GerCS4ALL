@@ -80,6 +80,7 @@ Ein Eintrag in der Erweiterungsverwaltung ist ein Plugin-Paket; die eigentlichen
 | Internet Archive – Filme DE | `InternetArchiveMoviesDE` |
 | Internet Archive – Anime DE | `InternetArchiveAnimeDE` |
 | Aniworld | bestehendes Paket `Aniworld` in der Anime-DE-Liste |
+| AnimeCloud | eigenständiges externes Paket in der Anime-DE-Liste |
 | DMAX, TELE 5, TLC | getrennt: `DMAX`, `Tele5`, `TLC` |
 | HDFilme, Movie2k, Streamkiste, Megakino sowie ihre wiederhergestellten Domainvarianten | jeweils getrennte Erweiterungen mit eigener Adresse und eigener Erweiterungs-ID |
 | KinoKiste, KKiste, Movie4k, Streamcloud, Xcine | jeweils getrennte Erweiterung |

@@ -1,6 +1,26 @@
 [
   {
     "status": 1,
+    "version": 11,
+    "name": "AnimeCloud",
+    "internalName": "AnimeCloud",
+    "authors": [
+      "Phisher98"
+    ],
+    "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
+    "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/AnimeCloud.cs3",
+    "fileSize": 74984,
+    "fileHash": "sha256-d5163aef20264d413577ad972017c1c078bfb0b222b8275cad65348e90582828",
+    "language": "de",
+    "iconUrl": "https://raw.githubusercontent.com/phisher98/TVVVV/refs/heads/main/Icons/AnimeCloud.jpg",
+    "apiVersion": 1,
+    "description": "Eigenständige deutschsprachige Anime-Quelle.",
+    "tvTypes": [
+      "Anime"
+    ]
+  },
+  {
+    "status": 1,
     "version": 1,
     "name": "AnimeToast",
     "internalName": "AnimeToast",
