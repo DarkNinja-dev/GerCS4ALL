@@ -25,7 +25,7 @@ import com.lagradost.cloudstream3.utils.loadExtractor
 import java.net.URL
 import java.net.URLEncoder
 
-/** Common catalogue implementation used by separately listed mirrors. */
+/** Common catalogue implementation used by the individual provider modules. */
 class KinoCatalogProvider(
     providerName: String,
     providerUrl: String,

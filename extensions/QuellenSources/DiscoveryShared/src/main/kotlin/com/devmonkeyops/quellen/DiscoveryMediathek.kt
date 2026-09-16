@@ -154,6 +154,7 @@ open class DiscoveryMediathek : MainAPI() {
 
     private fun MediaResult.posterUrl(): String? = image?.urlOrNull()
         ?: metaMedia.asSequence().mapNotNull { it.media?.urlOrNull() }.firstOrNull()
+        ?: blocks.asSequence().flatMap { it.items }.mapNotNull { it.poster?.urlOrNull() ?: it.image?.urlOrNull() }.firstOrNull()
 
     private fun Image.urlOrNull(): String? = url?.takeIf { it.isNotBlank() }
         ?: src?.takeIf { it.isNotBlank() }

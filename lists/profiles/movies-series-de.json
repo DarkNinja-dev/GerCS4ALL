@@ -22,6 +22,27 @@
   },
   {
     "status": 1,
+    "version": 1,
+    "name": "CineTo",
+    "internalName": "CineTo",
+    "authors": [
+      "DarkNinja-dev"
+    ],
+    "repositoryUrl": "https://github.com/DarkNinja-dev/GerCS4ALL",
+    "url": "https://raw.githubusercontent.com/DarkNinja-dev/GerCS4ALL/main/plugins/ger/CineTo.cs3",
+    "fileSize": 22620,
+    "fileHash": "sha256-b78495d5f0f72d2a49df42fdbc3c3c20e923e31ddfbe367336ed5b9a704397f9",
+    "language": "de",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=cine.to&sz=%size%",
+    "apiVersion": 1,
+    "description": "CineTo mit eigener Quelle.",
+    "tvTypes": [
+      "Movie",
+      "TvSeries"
+    ]
+  },
+  {
+    "status": 1,
     "version": 2,
     "name": "DMAX",
     "internalName": "DMAX",
@@ -31,8 +52,8 @@
     ],
     "repositoryUrl": "https://github.com/DarkNinja-dev/GerCS4ALL",
     "url": "https://raw.githubusercontent.com/DarkNinja-dev/GerCS4ALL/main/plugins/ger/DMAX.cs3",
-    "fileSize": 28867,
-    "fileHash": "sha256-12953a86feaeac40d60e3ca17a36be35d0bd21cfc8f5cad0e0447a94795ea39a",
+    "fileSize": 29211,
+    "fileHash": "sha256-7ba5fd244a72df7daaf7821c3e5975a8b120d7f9556dc3a8b1271b0b0da90192",
     "language": "de",
     "iconUrl": "https://www.google.com/s2/favicons?domain=dmax.de&sz=%size%",
     "apiVersion": 1,
@@ -123,6 +144,132 @@
   },
   {
     "status": 1,
+    "version": 1,
+    "name": "GetMoviez",
+    "internalName": "GetMoviez",
+    "authors": [
+      "DarkNinja-dev"
+    ],
+    "repositoryUrl": "https://github.com/DarkNinja-dev/GerCS4ALL",
+    "url": "https://raw.githubusercontent.com/DarkNinja-dev/GerCS4ALL/main/plugins/ger/GetMoviez.cs3",
+    "fileSize": 22625,
+    "fileHash": "sha256-d89b8807f7a8756d293cc1f5bf810f7a21b7bb6da02e9db3b5384395b6db3bfc",
+    "language": "de",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=getmoviez.cc&sz=%size%",
+    "apiVersion": 1,
+    "description": "GetMoviez mit eigener Quelle.",
+    "tvTypes": [
+      "Movie",
+      "TvSeries"
+    ]
+  },
+  {
+    "status": 1,
+    "version": 1,
+    "name": "HDFilme",
+    "internalName": "HDFilme",
+    "authors": [
+      "DarkNinja-dev"
+    ],
+    "repositoryUrl": "https://github.com/DarkNinja-dev/GerCS4ALL",
+    "url": "https://raw.githubusercontent.com/DarkNinja-dev/GerCS4ALL/main/plugins/ger/HDFilme.cs3",
+    "fileSize": 22605,
+    "fileHash": "sha256-b67a834e876efbb8492ddef5e2b168a812336aad21670e089df72e4880b7f50c",
+    "language": "de",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=hdfilme.to&sz=%size%",
+    "apiVersion": 1,
+    "description": "HDFilme mit eigener Quelle.",
+    "tvTypes": [
+      "Movie",
+      "TvSeries"
+    ]
+  },
+  {
+    "status": 1,
+    "version": 1,
+    "name": "HDFilmeCafe",
+    "internalName": "HDFilmeCafe",
+    "authors": [
+      "DarkNinja-dev"
+    ],
+    "repositoryUrl": "https://github.com/DarkNinja-dev/GerCS4ALL",
+    "url": "https://raw.githubusercontent.com/DarkNinja-dev/GerCS4ALL/main/plugins/ger/HDFilmeCafe.cs3",
+    "fileSize": 22620,
+    "fileHash": "sha256-0db7665f664826e90ecfe0a65fe36cd062a765a66eec6c1cc8f8cb212ee9ff73",
+    "language": "de",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=hdfilme.cafe&sz=%size%",
+    "apiVersion": 1,
+    "description": "HDFilmeCafe mit eigener Quelle.",
+    "tvTypes": [
+      "Movie",
+      "TvSeries"
+    ]
+  },
+  {
+    "status": 1,
+    "version": 1,
+    "name": "HDFilmeHelp",
+    "internalName": "HDFilmeHelp",
+    "authors": [
+      "DarkNinja-dev"
+    ],
+    "repositoryUrl": "https://github.com/DarkNinja-dev/GerCS4ALL",
+    "url": "https://raw.githubusercontent.com/DarkNinja-dev/GerCS4ALL/main/plugins/ger/HDFilmeHelp.cs3",
+    "fileSize": 22622,
+    "fileHash": "sha256-e6b847a0fb70d2c0809590ee01bb81afeafd24339559105bfeb45bd8ee87e26a",
+    "language": "de",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=hdfilme-tv.help&sz=%size%",
+    "apiVersion": 1,
+    "description": "HDFilmeHelp mit eigener Quelle.",
+    "tvTypes": [
+      "Movie",
+      "TvSeries"
+    ]
+  },
+  {
+    "status": 1,
+    "version": 1,
+    "name": "HDFilmeMe",
+    "internalName": "HDFilmeMe",
+    "authors": [
+      "DarkNinja-dev"
+    ],
+    "repositoryUrl": "https://github.com/DarkNinja-dev/GerCS4ALL",
+    "url": "https://raw.githubusercontent.com/DarkNinja-dev/GerCS4ALL/main/plugins/ger/HDFilmeMe.cs3",
+    "fileSize": 22617,
+    "fileHash": "sha256-4d0991b3f193094f97bb13f151a5cf86dc62dbb6bea667a4f54c8af3b2f55443",
+    "language": "de",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=hdfilme.me&sz=%size%",
+    "apiVersion": 1,
+    "description": "HDFilmeMe mit eigener Quelle.",
+    "tvTypes": [
+      "Movie",
+      "TvSeries"
+    ]
+  },
+  {
+    "status": 1,
+    "version": 1,
+    "name": "HDFilmeTo",
+    "internalName": "HDFilmeTo",
+    "authors": [
+      "DarkNinja-dev"
+    ],
+    "repositoryUrl": "https://github.com/DarkNinja-dev/GerCS4ALL",
+    "url": "https://raw.githubusercontent.com/DarkNinja-dev/GerCS4ALL/main/plugins/ger/HDFilmeTo.cs3",
+    "fileSize": 22621,
+    "fileHash": "sha256-be7aef1f84883c2af7c8af7052252d941845ca561e0d92a44a630d15ce1ce7d4",
+    "language": "de",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=hdfilme.to&sz=%size%",
+    "apiVersion": 1,
+    "description": "HDFilmeTo mit eigener Quelle.",
+    "tvTypes": [
+      "Movie",
+      "TvSeries"
+    ]
+  },
+  {
+    "status": 1,
     "version": 2,
     "name": "InternetArchiveMoviesDE",
     "internalName": "InternetArchiveMoviesDE",
@@ -158,6 +305,69 @@
     "description": "Filme per Stream anschauen",
     "tvTypes": [
       "Movie"
+    ]
+  },
+  {
+    "status": 1,
+    "version": 1,
+    "name": "Kinoger",
+    "internalName": "Kinoger",
+    "authors": [
+      "DarkNinja-dev"
+    ],
+    "repositoryUrl": "https://github.com/DarkNinja-dev/GerCS4ALL",
+    "url": "https://raw.githubusercontent.com/DarkNinja-dev/GerCS4ALL/main/plugins/ger/Kinoger.cs3",
+    "fileSize": 22627,
+    "fileHash": "sha256-cd5cfdb0820546c78d5c388ec8fe526feb3a3107b0993afc5c71f7bbc5b3ccce",
+    "language": "de",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=kinoger.com&sz=%size%",
+    "apiVersion": 1,
+    "description": "Kinoger mit eigener Quelle.",
+    "tvTypes": [
+      "Movie",
+      "TvSeries"
+    ]
+  },
+  {
+    "status": 1,
+    "version": 1,
+    "name": "KinogerCom",
+    "internalName": "KinogerCom",
+    "authors": [
+      "DarkNinja-dev"
+    ],
+    "repositoryUrl": "https://github.com/DarkNinja-dev/GerCS4ALL",
+    "url": "https://raw.githubusercontent.com/DarkNinja-dev/GerCS4ALL/main/plugins/ger/KinogerCom.cs3",
+    "fileSize": 22629,
+    "fileHash": "sha256-a16b69f040318f4d628d120d775533fa24b78ea2b27d663345ea57cd928f53a6",
+    "language": "de",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=kinoger.com&sz=%size%",
+    "apiVersion": 1,
+    "description": "KinogerCom mit eigener Quelle.",
+    "tvTypes": [
+      "Movie",
+      "TvSeries"
+    ]
+  },
+  {
+    "status": 1,
+    "version": 1,
+    "name": "KinogerTo",
+    "internalName": "KinogerTo",
+    "authors": [
+      "DarkNinja-dev"
+    ],
+    "repositoryUrl": "https://github.com/DarkNinja-dev/GerCS4ALL",
+    "url": "https://raw.githubusercontent.com/DarkNinja-dev/GerCS4ALL/main/plugins/ger/KinogerTo.cs3",
+    "fileSize": 22638,
+    "fileHash": "sha256-0c4decbde16e48c76f0345fd6d6bd81531d62c744106dd93de6c32fac87c9145",
+    "language": "de",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=kinoger.to&sz=%size%",
+    "apiVersion": 1,
+    "description": "KinogerTo mit eigener Quelle.",
+    "tvTypes": [
+      "Movie",
+      "TvSeries"
     ]
   },
   {
@@ -205,6 +415,90 @@
   {
     "status": 1,
     "version": 1,
+    "name": "KinoX",
+    "internalName": "KinoX",
+    "authors": [
+      "DarkNinja-dev"
+    ],
+    "repositoryUrl": "https://github.com/DarkNinja-dev/GerCS4ALL",
+    "url": "https://raw.githubusercontent.com/DarkNinja-dev/GerCS4ALL/main/plugins/ger/KinoX.cs3",
+    "fileSize": 22635,
+    "fileHash": "sha256-213cee9614f86614f4509e694496729858554cb71a2e45b87db86ffdd2af5303",
+    "language": "de",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=w11.kinox.to&sz=%size%",
+    "apiVersion": 1,
+    "description": "KinoX mit eigener Quelle.",
+    "tvTypes": [
+      "Movie",
+      "TvSeries"
+    ]
+  },
+  {
+    "status": 1,
+    "version": 1,
+    "name": "KinoxW11",
+    "internalName": "KinoxW11",
+    "authors": [
+      "DarkNinja-dev"
+    ],
+    "repositoryUrl": "https://github.com/DarkNinja-dev/GerCS4ALL",
+    "url": "https://raw.githubusercontent.com/DarkNinja-dev/GerCS4ALL/main/plugins/ger/KinoxW11.cs3",
+    "fileSize": 22647,
+    "fileHash": "sha256-d570fb64b4b7050d8d5155f1bbf55cfab49d618dd060e29775152ab6f5b01d23",
+    "language": "de",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=w11.kinox.to&sz=%size%",
+    "apiVersion": 1,
+    "description": "KinoxW11 mit eigener Quelle.",
+    "tvTypes": [
+      "Movie",
+      "TvSeries"
+    ]
+  },
+  {
+    "status": 1,
+    "version": 1,
+    "name": "KinoxW21",
+    "internalName": "KinoxW21",
+    "authors": [
+      "DarkNinja-dev"
+    ],
+    "repositoryUrl": "https://github.com/DarkNinja-dev/GerCS4ALL",
+    "url": "https://raw.githubusercontent.com/DarkNinja-dev/GerCS4ALL/main/plugins/ger/KinoxW21.cs3",
+    "fileSize": 22642,
+    "fileHash": "sha256-494c9d82e27fd405323f7e72385f4d42349db3e25329420be8a42aa7f4f54fd4",
+    "language": "de",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=www21.kinox.to&sz=%size%",
+    "apiVersion": 1,
+    "description": "KinoxW21 mit eigener Quelle.",
+    "tvTypes": [
+      "Movie",
+      "TvSeries"
+    ]
+  },
+  {
+    "status": 1,
+    "version": 1,
+    "name": "Kinoz",
+    "internalName": "Kinoz",
+    "authors": [
+      "DarkNinja-dev"
+    ],
+    "repositoryUrl": "https://github.com/DarkNinja-dev/GerCS4ALL",
+    "url": "https://raw.githubusercontent.com/DarkNinja-dev/GerCS4ALL/main/plugins/ger/Kinoz.cs3",
+    "fileSize": 22632,
+    "fileHash": "sha256-39ebc600fbd4e908801979f7d196dd912bd065eff273a7fcdce57e80a30e67f0",
+    "language": "de",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=kinoz.to&sz=%size%",
+    "apiVersion": 1,
+    "description": "Kinoz mit eigener Quelle.",
+    "tvTypes": [
+      "Movie",
+      "TvSeries"
+    ]
+  },
+  {
+    "status": 1,
+    "version": 1,
     "name": "KKiste",
     "internalName": "KKiste",
     "authors": [
@@ -226,24 +520,149 @@
   },
   {
     "status": 1,
-    "version": 6,
+    "version": 1,
+    "name": "KKisteIO",
+    "internalName": "KKisteIO",
+    "authors": [
+      "DarkNinja-dev"
+    ],
+    "repositoryUrl": "https://github.com/DarkNinja-dev/GerCS4ALL",
+    "url": "https://raw.githubusercontent.com/DarkNinja-dev/GerCS4ALL/main/plugins/ger/KKisteIO.cs3",
+    "fileSize": 22614,
+    "fileHash": "sha256-a096096ebd67b7f2da86a9a3f8ad580d167506ba424ce72afc6f66781b8cab8d",
+    "language": "de",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=kkiste-io.ink&sz=%size%",
+    "apiVersion": 1,
+    "description": "KKisteIO mit eigener Quelle.",
+    "tvTypes": [
+      "Movie",
+      "TvSeries"
+    ]
+  },
+  {
+    "status": 1,
+    "version": 7,
     "name": "Megakino",
     "internalName": "Megakino",
     "authors": [
-      "Phisher98",
-      "Bnyro"
+      "DarkNinja-dev"
     ],
-    "repositoryUrl": "https://github.com/Bnyro/GermanProviders",
-    "url": "https://raw.githubusercontent.com/Bnyro/GermanProviders/builds/Megakino.cs3",
-    "fileSize": 0,
+    "repositoryUrl": "https://github.com/DarkNinja-dev/GerCS4ALL",
+    "url": "https://raw.githubusercontent.com/DarkNinja-dev/GerCS4ALL/main/plugins/ger/Megakino.cs3",
+    "fileSize": 22647,
+    "fileHash": "sha256-8e20d331b0473fbbff02911c899013caea5a7f06057eee13be82babdc0794969",
     "language": "de",
-    "iconUrl": "https://www.google.com/s2/favicons?domain=https://megakino4.to&sz=%size%",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=megakino.org&sz=%size%",
     "apiVersion": 1,
-    "description": "Kostenlos Filme und Serien auf Deutsch anschauen",
+    "description": "Megakino mit eigener Quelle.",
     "tvTypes": [
       "Movie",
-      "TvSeries",
-      "Documentary"
+      "TvSeries"
+    ]
+  },
+  {
+    "status": 1,
+    "version": 1,
+    "name": "Megakino19",
+    "internalName": "Megakino19",
+    "authors": [
+      "DarkNinja-dev"
+    ],
+    "repositoryUrl": "https://github.com/DarkNinja-dev/GerCS4ALL",
+    "url": "https://raw.githubusercontent.com/DarkNinja-dev/GerCS4ALL/main/plugins/ger/Megakino19.cs3",
+    "fileSize": 22649,
+    "fileHash": "sha256-b7c8dad7bb3ad2f9dee95444ab28d0bee73fa1209276f1aa9b475e8c8571daed",
+    "language": "de",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=megakino19.com&sz=%size%",
+    "apiVersion": 1,
+    "description": "Megakino19 mit eigener Quelle.",
+    "tvTypes": [
+      "Movie",
+      "TvSeries"
+    ]
+  },
+  {
+    "status": 1,
+    "version": 1,
+    "name": "Megakino7",
+    "internalName": "Megakino7",
+    "authors": [
+      "DarkNinja-dev"
+    ],
+    "repositoryUrl": "https://github.com/DarkNinja-dev/GerCS4ALL",
+    "url": "https://raw.githubusercontent.com/DarkNinja-dev/GerCS4ALL/main/plugins/ger/Megakino7.cs3",
+    "fileSize": 22648,
+    "fileHash": "sha256-0e7b66a54bac9a8c946593974b2e16cec9c784664bc0e2f1e3e1dacfbe902b57",
+    "language": "de",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=7megakino.lol&sz=%size%",
+    "apiVersion": 1,
+    "description": "Megakino7 mit eigener Quelle.",
+    "tvTypes": [
+      "Movie",
+      "TvSeries"
+    ]
+  },
+  {
+    "status": 1,
+    "version": 1,
+    "name": "MegakinoFoo",
+    "internalName": "MegakinoFoo",
+    "authors": [
+      "DarkNinja-dev"
+    ],
+    "repositoryUrl": "https://github.com/DarkNinja-dev/GerCS4ALL",
+    "url": "https://raw.githubusercontent.com/DarkNinja-dev/GerCS4ALL/main/plugins/ger/MegakinoFoo.cs3",
+    "fileSize": 22649,
+    "fileHash": "sha256-c5be851b936418c6481250cfca94f5f89bb3768b17c7588942492845bb553d48",
+    "language": "de",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=megakino.foo&sz=%size%",
+    "apiVersion": 1,
+    "description": "MegakinoFoo mit eigener Quelle.",
+    "tvTypes": [
+      "Movie",
+      "TvSeries"
+    ]
+  },
+  {
+    "status": 1,
+    "version": 1,
+    "name": "MegakinoMe",
+    "internalName": "MegakinoMe",
+    "authors": [
+      "DarkNinja-dev"
+    ],
+    "repositoryUrl": "https://github.com/DarkNinja-dev/GerCS4ALL",
+    "url": "https://raw.githubusercontent.com/DarkNinja-dev/GerCS4ALL/main/plugins/ger/MegakinoMe.cs3",
+    "fileSize": 22637,
+    "fileHash": "sha256-442032c70080f41e0d3e4aa0c4789be383cfa83d1434db83bd2fc89f80874f60",
+    "language": "de",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=megakino.me&sz=%size%",
+    "apiVersion": 1,
+    "description": "MegakinoMe mit eigener Quelle.",
+    "tvTypes": [
+      "Movie",
+      "TvSeries"
+    ]
+  },
+  {
+    "status": 1,
+    "version": 1,
+    "name": "MegakinoOrg",
+    "internalName": "MegakinoOrg",
+    "authors": [
+      "DarkNinja-dev"
+    ],
+    "repositoryUrl": "https://github.com/DarkNinja-dev/GerCS4ALL",
+    "url": "https://raw.githubusercontent.com/DarkNinja-dev/GerCS4ALL/main/plugins/ger/MegakinoOrg.cs3",
+    "fileSize": 22639,
+    "fileHash": "sha256-225c845f6e7e57901a963b99b757304d2b95186c9d7a3a7fcbd0a6e0afd57e13",
+    "language": "de",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=megakino.org&sz=%size%",
+    "apiVersion": 1,
+    "description": "MegakinoOrg mit eigener Quelle.",
+    "tvTypes": [
+      "Movie",
+      "TvSeries"
     ]
   },
   {
@@ -265,6 +684,69 @@
     "tvTypes": [
       "TvSeries",
       "Movie"
+    ]
+  },
+  {
+    "status": 1,
+    "version": 1,
+    "name": "Movie2k",
+    "internalName": "Movie2k",
+    "authors": [
+      "DarkNinja-dev"
+    ],
+    "repositoryUrl": "https://github.com/DarkNinja-dev/GerCS4ALL",
+    "url": "https://raw.githubusercontent.com/DarkNinja-dev/GerCS4ALL/main/plugins/ger/Movie2k.cs3",
+    "fileSize": 22636,
+    "fileHash": "sha256-8ff6ffd0c2d7ecc115ee96fef83c6e1b411c37a8f5124c37b0d10f82de73e49b",
+    "language": "de",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=movie2k.cx&sz=%size%",
+    "apiVersion": 1,
+    "description": "Movie2k mit eigener Quelle.",
+    "tvTypes": [
+      "Movie",
+      "TvSeries"
+    ]
+  },
+  {
+    "status": 1,
+    "version": 1,
+    "name": "Movie2kAg",
+    "internalName": "Movie2kAg",
+    "authors": [
+      "DarkNinja-dev"
+    ],
+    "repositoryUrl": "https://github.com/DarkNinja-dev/GerCS4ALL",
+    "url": "https://raw.githubusercontent.com/DarkNinja-dev/GerCS4ALL/main/plugins/ger/Movie2kAg.cs3",
+    "fileSize": 22646,
+    "fileHash": "sha256-edf6bb9dee0dacdd5e613b884f1474d466588d2e489debf7ed4532ab88913d9f",
+    "language": "de",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=movie2k.ag&sz=%size%",
+    "apiVersion": 1,
+    "description": "Movie2kAg mit eigener Quelle.",
+    "tvTypes": [
+      "Movie",
+      "TvSeries"
+    ]
+  },
+  {
+    "status": 1,
+    "version": 1,
+    "name": "Movie2kCx",
+    "internalName": "Movie2kCx",
+    "authors": [
+      "DarkNinja-dev"
+    ],
+    "repositoryUrl": "https://github.com/DarkNinja-dev/GerCS4ALL",
+    "url": "https://raw.githubusercontent.com/DarkNinja-dev/GerCS4ALL/main/plugins/ger/Movie2kCx.cs3",
+    "fileSize": 22636,
+    "fileHash": "sha256-923ee44464a8bceee80bbe0f3849792dd12b1d911af24a9b52cce2a0386e25db",
+    "language": "de",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=movie2k.cx&sz=%size%",
+    "apiVersion": 1,
+    "description": "Movie2kCx mit eigener Quelle.",
+    "tvTypes": [
+      "Movie",
+      "TvSeries"
     ]
   },
   {
@@ -393,6 +875,48 @@
   },
   {
     "status": 1,
+    "version": 1,
+    "name": "Streamkiste",
+    "internalName": "Streamkiste",
+    "authors": [
+      "DarkNinja-dev"
+    ],
+    "repositoryUrl": "https://github.com/DarkNinja-dev/GerCS4ALL",
+    "url": "https://raw.githubusercontent.com/DarkNinja-dev/GerCS4ALL/main/plugins/ger/Streamkiste.cs3",
+    "fileSize": 22638,
+    "fileHash": "sha256-3ccb7a11c5db51574638747b8c8c364879886f2d2492139ce80e3478a49c8d8e",
+    "language": "de",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=streamkiste.sx&sz=%size%",
+    "apiVersion": 1,
+    "description": "Streamkiste mit eigener Quelle.",
+    "tvTypes": [
+      "Movie",
+      "TvSeries"
+    ]
+  },
+  {
+    "status": 1,
+    "version": 1,
+    "name": "StreamkisteBid",
+    "internalName": "StreamkisteBid",
+    "authors": [
+      "DarkNinja-dev"
+    ],
+    "repositoryUrl": "https://github.com/DarkNinja-dev/GerCS4ALL",
+    "url": "https://raw.githubusercontent.com/DarkNinja-dev/GerCS4ALL/main/plugins/ger/StreamkisteBid.cs3",
+    "fileSize": 22640,
+    "fileHash": "sha256-e5a33762384ad6c85e17a3ea06f4cefd09a2528cd2224bd5a31f9ab6a5e50c85",
+    "language": "de",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=streamkiste.bid&sz=%size%",
+    "apiVersion": 1,
+    "description": "StreamkisteBid mit eigener Quelle.",
+    "tvTypes": [
+      "Movie",
+      "TvSeries"
+    ]
+  },
+  {
+    "status": 1,
     "version": 2,
     "name": "Tele5",
     "internalName": "Tele5",
@@ -402,8 +926,8 @@
     ],
     "repositoryUrl": "https://github.com/DarkNinja-dev/GerCS4ALL",
     "url": "https://raw.githubusercontent.com/DarkNinja-dev/GerCS4ALL/main/plugins/ger/Tele5.cs3",
-    "fileSize": 28864,
-    "fileHash": "sha256-319d6ecbeee942e6e53f400c56a72f1e89d364c472a4f64440ce056705df0764",
+    "fileSize": 29221,
+    "fileHash": "sha256-8564071d98c13cd12a57da0b3053ea855c8dadec45a78140a25765bc0a9010d2",
     "language": "de",
     "iconUrl": "https://www.google.com/s2/favicons?domain=tele5.de&sz=%size%",
     "apiVersion": 1,
@@ -424,8 +948,8 @@
     ],
     "repositoryUrl": "https://github.com/DarkNinja-dev/GerCS4ALL",
     "url": "https://raw.githubusercontent.com/DarkNinja-dev/GerCS4ALL/main/plugins/ger/TLC.cs3",
-    "fileSize": 28858,
-    "fileHash": "sha256-60277987f40bf93a141a680156d9a0e6c4358253c13b00bbff747421626be95e",
+    "fileSize": 29212,
+    "fileHash": "sha256-42773b2ee6b306f9354bbc1d5e8db84b227c721ac7961ee020095e7d6ae906fb",
     "language": "de",
     "iconUrl": "https://www.google.com/s2/favicons?domain=tlc.de&sz=%size%",
     "apiVersion": 1,

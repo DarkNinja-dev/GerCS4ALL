@@ -21,16 +21,45 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parents[1]
 SOURCE_ROOT = ROOT / "extensions" / "QuellenSources"
 LISTS = (ROOT / "lists" / "ger.json", ROOT / "lists" / "anime.json")
+RAW_BASE = "https://raw.githubusercontent.com/DarkNinja-dev/GerCS4ALL/main"
+REPOSITORY_URL = "https://github.com/DarkNinja-dev/GerCS4ALL"
 
-# Intentionally small: these are the maintained packages released from this
-# repository.  Third-party list entries are never rewritten here.
+# These are the locally maintained packages released from this repository.
+# Third-party list entries are never rewritten here.  Profile lists are derived
+# from the base lists by build_profiles.py and must not be edited here.
 PACKAGES = {
+    "CineTo": "ger",
     "DMAX": "ger",
+    "Einschalten": "ger",
+    "GetMoviez": "ger",
+    "HDFilme": "ger",
+    "HDFilmeCafe": "ger",
+    "HDFilmeHelp": "ger",
+    "HDFilmeMe": "ger",
+    "HDFilmeTo": "ger",
+    "InternetArchiveAnimeDE": "anime",
+    "InternetArchiveMoviesDE": "ger",
+    "KKisteIO": "ger",
+    "KinoX": "ger",
+    "Kinoger": "ger",
+    "KinogerCom": "ger",
+    "KinogerTo": "ger",
+    "KinoxW11": "ger",
+    "KinoxW21": "ger",
+    "Kinoz": "ger",
+    "Megakino": "ger",
+    "Megakino19": "ger",
+    "Megakino7": "ger",
+    "MegakinoFoo": "ger",
+    "MegakinoMe": "ger",
+    "MegakinoOrg": "ger",
+    "Movie2k": "ger",
+    "Movie2kAg": "ger",
+    "Movie2kCx": "ger",
+    "Streamkiste": "ger",
+    "StreamkisteBid": "ger",
     "Tele5": "ger",
     "TLC": "ger",
-    "InternetArchiveMoviesDE": "ger",
-    "Einschalten": "ger",
-    "InternetArchiveAnimeDE": "anime",
 }
 
 
@@ -59,6 +88,9 @@ def update_list(path: Path, metadata: dict[str, dict[str, object]]) -> set[str]:
         package = metadata.get(internal_name)
         if package is None:
             continue
+        category = package["category"]
+        entry["repositoryUrl"] = REPOSITORY_URL
+        entry["url"] = f"{RAW_BASE}/plugins/{category}/{internal_name}.cs3"
         entry["version"] = package["version"]
         entry["fileSize"] = package["fileSize"]
         entry["fileHash"] = package["fileHash"]
@@ -78,6 +110,7 @@ def main() -> int:
         destination.parent.mkdir(parents=True, exist_ok=True)
         shutil.copy2(source, destination)
         metadata[module] = {
+            "category": category,
             "version": plugin_version(destination),
             "fileSize": destination.stat().st_size,
             "fileHash": f"sha256-{sha256(destination)}",

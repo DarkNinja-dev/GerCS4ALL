@@ -47,7 +47,13 @@ Die Einzelkategorien bleiben außerdem unter `single-repos/<kategorie>/repo.json
 
 `SerienStream` registriert nur Serien. In den Plugin-Einstellungen stehen `serienstream.to`, `serienstream.cx` und die HTTP-Direkt-IP `186.2.175.5` zur Auswahl.
 
-`KinoKiste`, `KKiste`, `Movie4k`, `Streamcloud` und `XcineRU` sind jeweils getrennte Erweiterungen mit ihrer jeweiligen Adresse. Jede liefert bis zu 60 Treffer sowie Trends, Neuheiten, meistgesehene und bestbewertete Titel, Bewertungen, Marvel/MCU und Genrelisten.
+Die Quelle besteht aus einem gültigen CloudStream-Repository: Jedes `repo.json` verweist per `pluginLists` auf JSON-Listen; jeder lokale Eintrag enthält die URL seines `.cs3`-Pakets sowie Version, Größe und SHA-256. Die Basislisten unter `lists/` sind die einzige Quelle der Wahrheit. Alle Listen unter `lists/profiles/` werden daraus mit `tools/build_profiles.py` erzeugt und nie manuell gepflegt.
+
+Ähnliche Namen, Domains oder CDN-IP-Adressen reichen nicht für eine Zusammenlegung. `streamkiste.bid`, `movie2k.cx`, `hdfilme.to`, `hdfilme.cafe`, `hdfilme-tv.help`, `megakino.me`, `megakino.foo`, `megakino19.com` und `7megakino.lol` sind daher jeweils als eigene Quellen veröffentlicht: mit eigener Erweiterungs-ID, eigener Adresse und eigenem Paket. Sie sind keine Alternativadressen einer anderen Erweiterung.
+
+`HDFilme`, `Movie2k`, `Streamkiste` und `Megakino` sind vier getrennte Quellen und daher vier getrennte CloudStream-Pakete. Eine übereinstimmende Katalogantwort ist kein Grund, ihre Identitäten, Update-Kanäle oder Erweiterungseinträge zusammenzuführen.
+
+`KinoKiste`, `KKiste`, `Movie4k`, `Streamcloud` und `XcineRU` sind ebenfalls getrennte Erweiterungen mit eigener Adresse und eigener Implementierung.
 
 `DMAX`, `Tele5` und `TLC` sind getrennte Erweiterungen für die jeweiligen offiziellen Katalogschnittstellen. Coverbilder verwenden einen Fallback auf die Metadatenbilder.
 
@@ -55,15 +61,13 @@ Die Einzelkategorien bleiben außerdem unter `single-repos/<kategorie>/repo.json
 
 ### Update-Hinweis
 
-Die Pakete `DMAX`, `Tele5`, `TLC`, `InternetArchiveMoviesDE`, `InternetArchiveAnimeDE` und `Einschalten` werden mit Version 2 veröffentlicht. Nach einem Update müssen die erzeugten `.cs3`-Pakete **und** die passenden JSON-Listen gemeinsam eingecheckt werden; nur den Kotlin-Quellcode zu pushen aktualisiert keine bereits installierte CloudStream-Erweiterung.
+Nach einem Update müssen die erzeugten `.cs3`-Pakete **und** die passenden JSON-Listen gemeinsam eingecheckt werden; nur Kotlin-Quellcode aktualisiert keine bereits installierte CloudStream-Erweiterung.
 
-Nach dem Gradle-Build übernimmt `python3 tools/sync_local_plugins.py` das Kopieren dieser sechs Archive nach `plugins/` sowie Version, Dateigröße und SHA-256 in den Basislisten. Danach `python3 tools/build_profiles.py` ausführen, damit die Profil-Listen nachgezogen werden.
+Nach dem Gradle-Build übernimmt `python3 tools/sync_local_plugins.py` das Kopieren aller gepflegten Archive nach `plugins/` sowie Version, Dateigröße und SHA-256 in den Basislisten. Danach `python3 tools/build_profiles.py` und `python3 tools/validate_repository.py` ausführen, damit Profile, Hashes und sämtliche lokalen Referenzen synchron geprüft sind.
 
 `EinschaltenIn` bzw. ein zweiter Eintrag mit derselben Quelle kann nicht durch ein Repository automatisch entfernt werden: Es handelt sich um ein früher separat installiertes Paket. In CloudStream einmal unter **Erweiterungen → Installiert** entfernen und anschließend ausschließlich den Eintrag `Einschalten` aus diesem Repository installieren. Dasselbe Prinzip gilt für alte Doppelinstallationen von FilmPalast, Movie4k, KinoKiste, KinoKing, Streamcloud und Xcine.
 
 Die Internet-Archive-Quellen liegen absichtlich getrennt: `Internet Archive – Filme DE` ist in den Film-/Serien-DE-Profilen, `Internet Archive – Anime DE` in den Anime-DE-Profilen. Der allgemeine Eintrag `Internet Archive` liegt in der EN-Liste und damit im vollständigen sowie in den EN-Profilen. `Aniworld` liegt in der Anime-DE-Liste. Alle erscheinen erst nach Installation des jeweiligen Pakets in der Erweiterungsverwaltung, nicht bereits beim bloßen Hinzufügen des Repository-Links.
-
-Die reine DE-Film-/Serienliste umfasst derzeit 22 sichtbare Quellen: ARD, DMAX, Einschalten, FilmFrei24, Filmo, FilmPalast, InternetArchiveMoviesDE, KellerKino, KinoKing, KinoKiste, KKiste, Megakino, Moflix, Movie4k, Netzkino, PlutoTV, SerienStream, Southpark, Streamcloud, Tele5, TLC und XcineRU.
 
 ## Wo erscheinen die Quellen?
 
@@ -77,11 +81,10 @@ Ein Eintrag in der Erweiterungsverwaltung ist ein Plugin-Paket; die eigentlichen
 | Internet Archive – Anime DE | `InternetArchiveAnimeDE` |
 | Aniworld | bestehendes Paket `Aniworld` in der Anime-DE-Liste |
 | DMAX, TELE 5, TLC | getrennt: `DMAX`, `Tele5`, `TLC` |
+| HDFilme, Movie2k, Streamkiste, Megakino sowie ihre wiederhergestellten Domainvarianten | jeweils getrennte Erweiterungen mit eigener Adresse und eigener Erweiterungs-ID |
 | KinoKiste, KKiste, Movie4k, Streamcloud, Xcine | jeweils getrennte Erweiterung |
 | Einschalten | `Einschalten` |
 | Haho.moe, Hanime | NSFW-Pakete `Haho moe` und `Hanime` – nur Profil 1 bzw. die NSFW-Einzelquelle |
-
-AnimeCloud, Flixi, HDFilme, Huhu, Kinoger, TopStreamFilm und Xcine.top sind derzeit nicht veröffentlicht, weil die geprüften Schnittstellen leer, nicht erreichbar oder strukturell defekt waren. Sie werden nicht durch Attrappen mit leeren Kategorien ersetzt. Anime-Loads liefert beim Prüfen nur eine Cloudflare-Sperre; es kommt erst mit einer verifizierten CloudStream-Implementierung hinein.
 
 ## Sprach- und Sportfilter
 
@@ -102,6 +105,7 @@ Nach Änderungen an Basislisten die Profile neu erzeugen:
 
 ```sh
 python3 tools/build_profiles.py
+python3 tools/validate_repository.py
 ```
 
 Falls alte, bereits installierte Fremd-Plugins noch doppelt angezeigt werden, diese einmal in CloudStream entfernen und anschließend nur diese Repo-Quelle neu laden. Ein Manifest kann eine zuvor lokal installierte, inzwischen entfernte Erweiterung nicht selbst deinstallieren.

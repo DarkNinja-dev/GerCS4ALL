@@ -1,1 +1,3 @@
-InternetArchiveMoviesDE.cs3, SerienStream.cs3, KinoKiste.cs3, KKiste.cs3, Movie4k.cs3, Streamcloud.cs3, XcineRU.cs3, DMAX.cs3, Tele5.cs3, TLC.cs3, Einschalten.cs3 werden lokal aus `extensions/QuellenSources` gebaut und hier gespiegelt. Alle übrigen Einträge dieser Kategorie nutzen weiterhin verifizierte Upstream-URLs.
+# Lokale Paketquellen
+
+Die in `tools/sync_local_plugins.py` aufgeführten Pakete werden aus den lokalen CloudStream-Modulen unter `extensions/QuellenSources/` gebaut und nach `plugins/` synchronisiert. Dazu gehören auch die getrennten HDFilme-, Movie2k-, Streamkiste-, Megakino- und KinoX-Varianten. Alle anderen Listeneinträge verwenden ihre jeweils eingetragene externe Paket-URL.
